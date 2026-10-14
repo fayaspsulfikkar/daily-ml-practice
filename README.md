@@ -1,4 +1,8 @@
-# BroCamp Learning Repository
+# daily-ml-practice
+
+My weekly learning notes, coding exercises, and practice problems for Python, data science, and machine learning.
+
+## BroCamp Learning Repository
 
 This repository records my weekly learning notes, coding exercises, notebooks, and review work from BroCamp.
 
