@@ -6,9 +6,17 @@ env/
 *.py[cod]
 
 # Jupyter's automatically saved checkpoints
-.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# IDE & Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
 
 # Local environment and operating-system files
 .env
 .DS_Store
 Thumbs.db
+*.tmp
+*.bak
