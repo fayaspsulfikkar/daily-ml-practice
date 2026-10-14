@@ -1,0 +1,14 @@
+# Python virtual environments and generated Python files
+.venv/
+venv/
+env/
+**/__pycache__/
+*.py[cod]
+
+# Jupyter's automatically saved checkpoints
+.ipynb_checkpoints/
+
+# Local environment and operating-system files
+.env
+.DS_Store
+Thumbs.db

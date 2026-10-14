@@ -1,0 +1,271 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Code To Career - Python Login</title>
+
+    <!-- PyScript lets us run Python inside the browser. -->
+    <link rel="stylesheet" href="https://pyscript.net/releases/2026.3.1/core.css">
+    <script type="module" src="https://pyscript.net/releases/2026.3.1/core.js"></script>
+
+    <style>
+      * {
+        box-sizing: border-box;
+      }
+
+      body {
+        min-height: 100vh;
+        margin: 0;
+        padding: 24px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        font-family: Arial, sans-serif;
+        color: #172033;
+        background: linear-gradient(135deg, #e8f0ff, #f7f9ff);
+      }
+
+      .challenge-hero {
+        margin-bottom: 28px;
+        text-align: center;
+      }
+
+      .challenge-hero .challenge-label {
+        margin-bottom: 10px;
+        font-size: 17px;
+        letter-spacing: 4px;
+      }
+
+      .challenge-hero .challenge-title {
+        font-size: 56px;
+        line-height: 1;
+      }
+
+      .login-card {
+        width: 100%;
+        max-width: 420px;
+        padding: 32px;
+        background-color: white;
+        border-radius: 18px;
+        box-shadow: 0 18px 50px rgba(45, 73, 130, 0.15);
+      }
+
+      .brand {
+        margin: -32px -32px 28px;
+        padding: 22px 28px;
+        background-color: #000000;
+        border-radius: 18px 18px 0 0;
+        text-align: center;
+      }
+
+      .brand-logo {
+        display: block;
+        width: 280px;
+        max-width: 100%;
+        margin: 0 auto;
+      }
+
+      .challenge-label {
+        margin: 0 0 6px;
+        color: #e56b2f;
+        font-size: 13px;
+        font-weight: bold;
+        letter-spacing: 2px;
+        text-transform: uppercase;
+      }
+
+      .challenge-title {
+        margin: 0;
+        color: #172033;
+        font-size: 28px;
+      }
+
+      .challenge-title span {
+        color: #e56b2f;
+      }
+
+      h1 {
+        margin-top: 0;
+        margin-bottom: 8px;
+        color: #2448a7;
+      }
+
+      .intro {
+        margin-top: 0;
+        margin-bottom: 24px;
+        color: #667085;
+        line-height: 1.5;
+      }
+
+      .field {
+        margin-bottom: 18px;
+      }
+
+      label {
+        display: block;
+        margin-bottom: 7px;
+        font-weight: bold;
+      }
+
+      input {
+        width: 100%;
+        padding: 12px;
+        font-size: 16px;
+        border: 1px solid #c8d0df;
+        border-radius: 8px;
+      }
+
+      input:focus {
+        border-color: #356ae6;
+        outline: 3px solid #dbe7ff;
+      }
+
+      button {
+        width: 100%;
+        padding: 13px;
+        font-size: 16px;
+        font-weight: bold;
+        color: white;
+        background-color: #356ae6;
+        border: none;
+        border-radius: 8px;
+        cursor: pointer;
+      }
+
+      button:hover {
+        background-color: #2856c5;
+      }
+
+      #message {
+        min-height: 24px;
+        margin-top: 18px;
+        margin-bottom: 0;
+        font-weight: bold;
+        color: #c73535;
+        text-align: center;
+      }
+
+      .demo-details {
+        margin-top: 24px;
+        padding: 14px;
+        background-color: #f1f5ff;
+        border-radius: 8px;
+        color: #45516b;
+        line-height: 1.6;
+      }
+
+      @media (max-width: 500px) {
+        body {
+          padding: 16px;
+        }
+
+        .challenge-hero {
+          margin-bottom: 20px;
+        }
+
+        .challenge-hero .challenge-label {
+          font-size: 13px;
+          letter-spacing: 2px;
+        }
+
+        .challenge-hero .challenge-title {
+          font-size: 38px;
+        }
+
+        .login-card {
+          padding: 24px;
+        }
+
+        .brand {
+          margin: -24px -24px 24px;
+          padding: 20px 24px;
+        }
+      }
+    </style>
+  </head>
+
+  <body>
+    <header class="challenge-hero">
+      <p class="challenge-label">Brototype Challenge</p>
+      <h2 class="challenge-title">Code to <span>Career</span></h2>
+    </header>
+
+    <main class="login-card">
+      <header class="brand">
+        <img
+          class="brand-logo"
+          src="https://website-main.blr1.cdn.digitaloceanspaces.com/assets/brototype_brother_logo.svg"
+          alt="Brototype logo"
+        >
+      </header>
+
+      <h1>Student Login</h1>
+      <p class="intro">Enter your username and password to continue.</p>
+
+      <div class="field">
+        <label for="username">Username</label>
+        <input id="username" type="text" placeholder="Enter username">
+      </div>
+
+      <div class="field">
+        <label for="password">Password</label>
+        <input id="password" type="password" placeholder="Enter password">
+      </div>
+
+      <!-- py-click calls the Python login function below. -->
+      <button type="button" py-click="login">Login</button>
+
+      <p id="message"></p>
+
+      <div class="demo-details">
+        <strong>Demo login</strong><br>
+        Username: jobinselvanose<br>
+        Password: python123
+      </div>
+    </main> 
+
+    
+    <script type="py">
+      
+      from pyscript import document
+      #Python is written here so this page works when opened directly.
+
+      def login(e):
+        username_input = document.querySelector("#username")
+        password_input = document.querySelector("#password")
+
+        message = document.querySelector("#message")
+
+        username = username_input.value
+        password = password_input.value
+
+        correct_username = "jobinselvanose"
+        correct_password = "python123"
+
+        if username == "":
+          message.innerText = "please enter your username"
+          message.style.color = "red"
+        else:
+          if password == "":
+            message.innerText = "please enter your password"
+            message.style.color = "red"
+          else:
+            if username == correct_username:
+              if password == correct_password:
+                message.innerText = "Successfull login!"
+                message.style.color = "green"
+
+              else:
+                 message.innerText = "Password is incorrect!"
+                 message.style.color = "red"
+            else:
+              message.innerText = "Username is incorrect!"
+              message.style.color = "red"
+
+
+    </script>
+  </body>
+</html>

@@ -1,0 +1,5 @@
+SALES REPORT
+====================
+Total revenue: 1005.00
+Accessories: 560.00
+Stationery: 445.00

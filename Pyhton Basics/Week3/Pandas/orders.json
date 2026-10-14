@@ -1,0 +1,3052 @@
+[
+  {
+    "order_id": "ORD1001",
+    "customer_id": "C003",
+    "order_date": "2025-11-18",
+    "status": "delivered",
+    "payment_method": "Net Banking",
+    "discount_pct": 0,
+    "shipping": {
+      "city": "Hyderabad",
+      "cost": 49
+    },
+    "items": [
+      {
+        "product": "Deep Learning Book",
+        "category": "Books",
+        "quantity": 2,
+        "unit_price": 1499
+      }
+    ]
+  },
+  {
+    "order_id": "ORD1002",
+    "customer_id": "C017",
+    "order_date": "2026-06-17",
+    "status": "cancelled",
+    "payment_method": "Net Banking",
+    "discount_pct": 15,
+    "shipping": {
+      "city": "Chennai",
+      "cost": 79
+    },
+    "items": [
+      {
+        "product": "Deep Learning Book",
+        "category": "Books",
+        "quantity": 1,
+        "unit_price": 1499
+      }
+    ]
+  },
+  {
+    "order_id": "ORD1003",
+    "customer_id": "C028",
+    "order_date": "2025-11-18",
+    "status": "shipped",
+    "payment_method": "UPI",
+    "discount_pct": 15,
+    "shipping": {
+      "city": "Mumbai",
+      "cost": 79
+    },
+    "items": [
+      {
+        "product": "Water Bottle",
+        "category": "Home",
+        "quantity": 2,
+        "unit_price": 399
+      }
+    ]
+  },
+  {
+    "order_id": "ORD1004",
+    "customer_id": "C043",
+    "order_date": "2025-05-11",
+    "status": "delivered",
+    "payment_method": "Cash on Delivery",
+    "discount_pct": 15,
+    "shipping": {
+      "city": "Bengaluru",
+      "cost": 79
+    },
+    "items": [
+      {
+        "product": "Deep Learning Book",
+        "category": "Books",
+        "quantity": 2,
+        "unit_price": 1499
+      },
+      {
+        "product": "Backpack",
+        "category": "Home",
+        "quantity": 3,
+        "unit_price": 1599
+      }
+    ]
+  },
+  {
+    "order_id": "ORD1005",
+    "customer_id": "C026",
+    "order_date": "2026-03-17",
+    "status": "shipped",
+    "payment_method": "Net Banking",
+    "discount_pct": 15,
+    "shipping": {
+      "city": "Delhi",
+      "cost": 99
+    },
+    "items": [
+      {
+        "product": "Wireless Mouse",
+        "category": "Electronics",
+        "quantity": 2,
+        "unit_price": 799
+      },
+      {
+        "product": "Earbuds",
+        "category": "Electronics",
+        "quantity": 1,
+        "unit_price": 1999
+      }
+    ]
+  },
+  {
+    "order_id": "ORD1006",
+    "customer_id": "C029",
+    "order_date": "2025-06-23",
+    "status": "shipped",
+    "payment_method": "Debit Card",
+    "discount_pct": 10,
+    "shipping": {
+      "city": "Delhi",
+      "cost": 0
+    },
+    "items": [
+      {
+        "product": "Power Bank",
+        "category": "Electronics",
+        "quantity": 2,
+        "unit_price": 1799
+      },
+      {
+        "product": "Statistics Basics",
+        "category": "Books",
+        "quantity": 3,
+        "unit_price": 699
+      }
+    ]
+  },
+  {
+    "order_id": "ORD1007",
+    "customer_id": "C053",
+    "order_date": "2025-09-08",
+    "status": "returned",
+    "payment_method": "Net Banking",
+    "discount_pct": 0,
+    "shipping": {
+      "city": "Pune",
+      "cost": 99
+    },
+    "items": [
+      {
+        "product": "Power Bank",
+        "category": "Electronics",
+        "quantity": 1,
+        "unit_price": 1799
+      },
+      {
+        "product": "Water Bottle",
+        "category": "Home",
+        "quantity": 1,
+        "unit_price": 399
+      },
+      {
+        "product": "Earbuds",
+        "category": "Electronics",
+        "quantity": 1,
+        "unit_price": 1999
+      },
+      {
+        "product": "Cap",
+        "category": "Fashion",
+        "quantity": 1,
+        "unit_price": 349
+      }
+    ]
+  },
+  {
+    "order_id": "ORD1008",
+    "customer_id": "C057",
+    "order_date": "2026-05-22",
+    "status": "delivered",
+    "payment_method": "Credit Card",
+    "discount_pct": 15,
+    "shipping": {
+      "city": "Kochi",
+      "cost": 0
+    },
+    "items": [
+      {
+        "product": "Power Bank",
+        "category": "Electronics",
+        "quantity": 3,
+        "unit_price": 1799
+      },
+      {
+        "product": "Backpack",
+        "category": "Home",
+        "quantity": 2,
+        "unit_price": 1599
+      }
+    ]
+  },
+  {
+    "order_id": "ORD1009",
+    "customer_id": "C050",
+    "order_date": "2026-04-21",
+    "status": "delivered",
+    "payment_method": "Credit Card",
+    "discount_pct": null,
+    "shipping": {
+      "city": "Pune",
+      "cost": 49
+    },
+    "items": [
+      {
+        "product": "USB-C Cable",
+        "category": "Electronics",
+        "quantity": 3,
+        "unit_price": 349
+      },
+      {
+        "product": "Running Shoes",
+        "category": "Fashion",
+        "quantity": 3,
+        "unit_price": 2999
+      }
+    ]
+  },
+  {
+    "order_id": "ORD1010",
+    "customer_id": "C052",
+    "order_date": "2026-03-30",
+    "status": "delivered",
+    "payment_method": "Net Banking",
+    "discount_pct": 5,
+    "shipping": {
+      "city": "Thrissur",
+      "cost": 99
+    },
+    "items": [
+      {
+        "product": "Statistics Basics",
+        "category": "Books",
+        "quantity": 3,
+        "unit_price": 699
+      },
+      {
+        "product": "Cap",
+        "category": "Fashion",
+        "quantity": 2,
+        "unit_price": 349
+      }
+    ]
+  },
+  {
+    "order_id": "ORD1011",
+    "customer_id": "C058",
+    "order_date": "2026-04-06",
+    "status": "delivered",
+    "payment_method": "Credit Card",
+    "discount_pct": 15,
+    "shipping": {
+      "city": "Mumbai",
+      "cost": 99
+    },
+    "items": [
+      {
+        "product": "Cotton T-Shirt",
+        "category": "Fashion",
+        "quantity": 2,
+        "unit_price": 599
+      }
+    ]
+  },
+  {
+    "order_id": "ORD1012",
+    "customer_id": "C041",
+    "order_date": "2025-10-20",
+    "status": "delivered",
+    "payment_method": "Debit Card",
+    "discount_pct": 0,
+    "shipping": {
+      "city": "Thrissur",
+      "cost": 0
+    },
+    "items": [
+      {
+        "product": "Notebook Pack",
+        "category": "Books",
+        "quantity": 1,
+        "unit_price": 249
+      }
+    ]
+  },
+  {
+    "order_id": "ORD1013",
+    "customer_id": "C009",
+    "order_date": "2025-06-06",
+    "status": "shipped",
+    "payment_method": "UPI",
+    "discount_pct": 5,
+    "shipping": {
+      "city": "Hyderabad",
+      "cost": 79
+    },
+    "items": [
+      {
+        "product": "Deep Learning Book",
+        "category": "Books",
+        "quantity": 3,
+        "unit_price": 1499
+      }
+    ]
+  },
+  {
+    "order_id": "ORD1014",
+    "customer_id": "C035",
+    "order_date": "2026-08-22",
+    "status": "returned",
+    "payment_method": "UPI",
+    "discount_pct": 10,
+    "shipping": {
+      "city": "Hyderabad",
+      "cost": 99
+    },
+    "items": [
+      {
+        "product": "Wireless Mouse",
+        "category": "Electronics",
+        "quantity": 2,
+        "unit_price": 799
+      },
+      {
+        "product": "Power Bank",
+        "category": "Electronics",
+        "quantity": 2,
+        "unit_price": 1799
+      }
+    ]
+  },
+  {
+    "order_id": "ORD1015",
+    "customer_id": "C999",
+    "order_date": "2026-07-14",
+    "status": "shipped",
+    "payment_method": "Credit Card",
+    "discount_pct": 5,
+    "shipping": {
+      "city": "Chennai",
+      "cost": 79
+    },
+    "items": [
+      {
+        "product": "Earbuds",
+        "category": "Electronics",
+        "quantity": 2,
+        "unit_price": 1999
+      },
+      {
+        "product": "Running Shoes",
+        "category": "Fashion",
+        "quantity": 3,
+        "unit_price": 2999
+      },
+      {
+        "product": "Deep Learning Book",
+        "category": "Books",
+        "quantity": 3,
+        "unit_price": 1499
+      }
+    ]
+  },
+  {
+    "order_id": "ORD1016",
+    "customer_id": "C028",
+    "order_date": "2026-02-19",
+    "status": "shipped",
+    "payment_method": "Cash on Delivery",
+    "discount_pct": 0,
+    "shipping": {
+      "city": "Thrissur",
+      "cost": 0
+    },
+    "items": [
+      {
+        "product": "Deep Learning Book",
+        "category": "Books",
+        "quantity": 3,
+        "unit_price": 1499
+      },
+      {
+        "product": "Python Crash Course",
+        "category": "Books",
+        "quantity": 3,
+        "unit_price": 899
+      }
+    ]
+  },
+  {
+    "order_id": "ORD1017",
+    "customer_id": "C059",
+    "order_date": "2025-01-28",
+    "status": "delivered",
+    "payment_method": "Cash on Delivery",
+    "discount_pct": 0,
+    "shipping": {
+      "city": "Pune",
+      "cost": 49
+    },
+    "items": [
+      {
+        "product": "Desk Lamp",
+        "category": "Home",
+        "quantity": 3,
+        "unit_price": 1199
+      }
+    ]
+  },
+  {
+    "order_id": "ORD1018",
+    "customer_id": "C004",
+    "order_date": "2026-04-11",
+    "status": "delivered",
+    "payment_method": "Cash on Delivery",
+    "discount_pct": 0,
+    "shipping": {
+      "city": "Hyderabad",
+      "cost": 79
+    },
+    "items": [
+      {
+        "product": "Python Crash Course",
+        "category": "Books",
+        "quantity": 1,
+        "unit_price": 899
+      }
+    ]
+  },
+  {
+    "order_id": "ORD1019",
+    "customer_id": "C054",
+    "order_date": "2026-07-07",
+    "status": "delivered",
+    "payment_method": "Debit Card",
+    "discount_pct": 0,
+    "shipping": {
+      "city": "Kozhikode",
+      "cost": 0
+    },
+    "items": [
+      {
+        "product": "Wireless Mouse",
+        "category": "Electronics",
+        "quantity": 3,
+        "unit_price": 799
+      }
+    ]
+  },
+  {
+    "order_id": "ORD1020",
+    "customer_id": "C049",
+    "order_date": "2025-01-21",
+    "status": "delivered",
+    "payment_method": "Credit Card",
+    "discount_pct": 0,
+    "shipping": {
+      "city": "Pune",
+      "cost": 0
+    },
+    "items": [
+      {
+        "product": "Power Bank",
+        "category": "Electronics",
+        "quantity": 1,
+        "unit_price": 1799
+      }
+    ]
+  },
+  {
+    "order_id": "ORD1021",
+    "customer_id": "C037",
+    "order_date": "2025-04-28",
+    "status": "shipped",
+    "payment_method": "Credit Card",
+    "discount_pct": 0,
+    "shipping": {
+      "city": "Kozhikode",
+      "cost": 0
+    },
+    "items": [
+      {
+        "product": "Notebook Pack",
+        "category": "Books",
+        "quantity": 2,
+        "unit_price": 249
+      },
+      {
+        "product": "Backpack",
+        "category": "Home",
+        "quantity": 1,
+        "unit_price": 1599
+      },
+      {
+        "product": "Earbuds",
+        "category": "Electronics",
+        "quantity": 3,
+        "unit_price": 1999
+      }
+    ]
+  },
+  {
+    "order_id": "ORD1022",
+    "customer_id": "C060",
+    "order_date": "2026-02-11",
+    "status": "returned",
+    "payment_method": "Credit Card",
+    "discount_pct": 0,
+    "shipping": {
+      "city": "Chennai",
+      "cost": 0
+    },
+    "items": [
+      {
+        "product": "Water Bottle",
+        "category": "Home",
+        "quantity": 2,
+        "unit_price": 399
+      }
+    ]
+  },
+  {
+    "order_id": "ORD1023",
+    "customer_id": "C045",
+    "order_date": "2025-12-22",
+    "status": "delivered",
+    "payment_method": "Debit Card",
+    "discount_pct": 0,
+    "shipping": {
+      "city": "Thrissur",
+      "cost": 79
+    },
+    "items": [
+      {
+        "product": "Cotton T-Shirt",
+        "category": "Fashion",
+        "quantity": 1,
+        "unit_price": 599
+      },
+      {
+        "product": "Water Bottle",
+        "category": "Home",
+        "quantity": 3,
+        "unit_price": 399
+      },
+      {
+        "product": "Desk Lamp",
+        "category": "Home",
+        "quantity": 1,
+        "unit_price": 1199
+      }
+    ]
+  },
+  {
+    "order_id": "ORD1024",
+    "customer_id": "C001",
+    "order_date": "2026-04-16",
+    "status": "shipped",
+    "payment_method": "Cash on Delivery",
+    "discount_pct": 0,
+    "shipping": {
+      "city": "Thrissur",
+      "cost": 79
+    },
+    "items": [
+      {
+        "product": "Cotton T-Shirt",
+        "category": "Fashion",
+        "quantity": 2,
+        "unit_price": 599
+      },
+      {
+        "product": "Notebook Pack",
+        "category": "Books",
+        "quantity": 2,
+        "unit_price": 249
+      },
+      {
+        "product": "Bluetooth Speaker",
+        "category": "Electronics",
+        "quantity": 3,
+        "unit_price": 2499
+      }
+    ]
+  },
+  {
+    "order_id": "ORD1025",
+    "customer_id": "C040",
+    "order_date": "2025-10-02",
+    "status": "delivered",
+    "payment_method": "Credit Card",
+    "discount_pct": 0,
+    "shipping": {
+      "city": "Mumbai",
+      "cost": 99
+    },
+    "items": [
+      {
+        "product": "Statistics Basics",
+        "category": "Books",
+        "quantity": 2,
+        "unit_price": 699
+      },
+      {
+        "product": "Running Shoes",
+        "category": "Fashion",
+        "quantity": 2,
+        "unit_price": 2999
+      },
+      {
+        "product": "Notebook Pack",
+        "category": "Books",
+        "quantity": 3,
+        "unit_price": 249
+      }
+    ]
+  },
+  {
+    "order_id": "ORD1026",
+    "customer_id": "C016",
+    "order_date": "2026-05-22",
+    "status": "cancelled",
+    "payment_method": "Credit Card",
+    "discount_pct": 5,
+    "shipping": {
+      "city": "Chennai",
+      "cost": 79
+    },
+    "items": [
+      {
+        "product": "Desk Lamp",
+        "category": "Home",
+        "quantity": 2,
+        "unit_price": 1199
+      },
+      {
+        "product": "Cap",
+        "category": "Fashion",
+        "quantity": 2,
+        "unit_price": 349
+      },
+      {
+        "product": "Water Bottle",
+        "category": "Home",
+        "quantity": 1,
+        "unit_price": 399
+      }
+    ]
+  },
+  {
+    "order_id": "ORD1027",
+    "customer_id": "C052",
+    "order_date": "2025-10-10",
+    "status": "delivered",
+    "payment_method": "Net Banking",
+    "discount_pct": 0,
+    "shipping": {
+      "city": "Kozhikode",
+      "cost": 49
+    },
+    "items": [
+      {
+        "product": "Earbuds",
+        "category": "Electronics",
+        "quantity": 3,
+        "unit_price": 1999
+      }
+    ]
+  },
+  {
+    "order_id": "ORD1028",
+    "customer_id": "C047",
+    "order_date": "2026-05-03",
+    "status": "delivered",
+    "payment_method": "Cash on Delivery",
+    "discount_pct": 5,
+    "shipping": {
+      "city": "Kochi",
+      "cost": 0
+    },
+    "items": [
+      {
+        "product": "Statistics Basics",
+        "category": "Books",
+        "quantity": 1,
+        "unit_price": 699
+      },
+      {
+        "product": "Running Shoes",
+        "category": "Fashion",
+        "quantity": 3,
+        "unit_price": 2999
+      }
+    ]
+  },
+  {
+    "order_id": "ORD1029",
+    "customer_id": "C019",
+    "order_date": "2025-11-10",
+    "status": "shipped",
+    "payment_method": "Debit Card",
+    "discount_pct": 5,
+    "shipping": {
+      "city": "Thrissur",
+      "cost": 79
+    },
+    "items": [
+      {
+        "product": "Backpack",
+        "category": "Home",
+        "quantity": 1,
+        "unit_price": 1599
+      }
+    ]
+  },
+  {
+    "order_id": "ORD1030",
+    "customer_id": "C028",
+    "order_date": "2025-08-25",
+    "status": "delivered",
+    "payment_method": "Credit Card",
+    "discount_pct": 0,
+    "shipping": {
+      "city": "Kozhikode",
+      "cost": 49
+    },
+    "items": [
+      {
+        "product": "Statistics Basics",
+        "category": "Books",
+        "quantity": 2,
+        "unit_price": 699
+      },
+      {
+        "product": "Python Crash Course",
+        "category": "Books",
+        "quantity": 2,
+        "unit_price": 899
+      },
+      {
+        "product": "Cotton T-Shirt",
+        "category": "Fashion",
+        "quantity": 2,
+        "unit_price": 599
+      },
+      {
+        "product": "Backpack",
+        "category": "Home",
+        "quantity": 2,
+        "unit_price": 1599
+      }
+    ]
+  },
+  {
+    "order_id": "ORD1031",
+    "customer_id": "C013",
+    "order_date": "2026-06-22",
+    "status": "delivered",
+    "payment_method": "UPI",
+    "discount_pct": null,
+    "shipping": {
+      "city": "Mumbai",
+      "cost": 49
+    },
+    "items": [
+      {
+        "product": "Notebook Pack",
+        "category": "Books",
+        "quantity": 2,
+        "unit_price": 249
+      }
+    ]
+  },
+  {
+    "order_id": "ORD1032",
+    "customer_id": "C024",
+    "order_date": "2026-07-01",
+    "status": "delivered",
+    "payment_method": "UPI",
+    "discount_pct": 0,
+    "shipping": {
+      "city": "Thrissur",
+      "cost": 79
+    },
+    "items": [
+      {
+        "product": "Wireless Mouse",
+        "category": "Electronics",
+        "quantity": 3,
+        "unit_price": 799
+      }
+    ]
+  },
+  {
+    "order_id": "ORD1033",
+    "customer_id": "C045",
+    "order_date": "2026-08-11",
+    "status": "delivered",
+    "payment_method": "Cash on Delivery",
+    "discount_pct": 5,
+    "shipping": {
+      "city": "Delhi",
+      "cost": 49
+    },
+    "items": [
+      {
+        "product": "Water Bottle",
+        "category": "Home",
+        "quantity": 2,
+        "unit_price": 399
+      },
+      {
+        "product": "Cotton T-Shirt",
+        "category": "Fashion",
+        "quantity": 1,
+        "unit_price": 599
+      },
+      {
+        "product": "Running Shoes",
+        "category": "Fashion",
+        "quantity": 1,
+        "unit_price": 2999
+      }
+    ]
+  },
+  {
+    "order_id": "ORD1034",
+    "customer_id": "C004",
+    "order_date": "2025-04-27",
+    "status": "shipped",
+    "payment_method": "Cash on Delivery",
+    "discount_pct": 5,
+    "shipping": {
+      "city": "Kozhikode",
+      "cost": 0
+    },
+    "items": [
+      {
+        "product": "Cotton T-Shirt",
+        "category": "Fashion",
+        "quantity": 2,
+        "unit_price": 599
+      }
+    ]
+  },
+  {
+    "order_id": "ORD1035",
+    "customer_id": "C010",
+    "order_date": "2025-03-29",
+    "status": "returned",
+    "payment_method": "UPI",
+    "discount_pct": 10,
+    "shipping": {
+      "city": "Hyderabad",
+      "cost": 49
+    },
+    "items": [
+      {
+        "product": "Desk Lamp",
+        "category": "Home",
+        "quantity": 2,
+        "unit_price": 1199
+      }
+    ]
+  },
+  {
+    "order_id": "ORD1036",
+    "customer_id": "C050",
+    "order_date": "2026-03-16",
+    "status": "delivered",
+    "payment_method": "Net Banking",
+    "discount_pct": 0,
+    "shipping": {
+      "city": "Kozhikode",
+      "cost": 49
+    },
+    "items": [
+      {
+        "product": "Notebook Pack",
+        "category": "Books",
+        "quantity": 2,
+        "unit_price": 249
+      },
+      {
+        "product": "Cap",
+        "category": "Fashion",
+        "quantity": 3,
+        "unit_price": 349
+      }
+    ]
+  },
+  {
+    "order_id": "ORD1037",
+    "customer_id": "C041",
+    "order_date": "2025-06-10",
+    "status": "delivered",
+    "payment_method": "Net Banking",
+    "discount_pct": 0,
+    "shipping": {
+      "city": "Bengaluru",
+      "cost": 0
+    },
+    "items": [
+      {
+        "product": "Water Bottle",
+        "category": "Home",
+        "quantity": 1,
+        "unit_price": 399
+      }
+    ]
+  },
+  {
+    "order_id": "ORD1038",
+    "customer_id": "C027",
+    "order_date": "2025-08-26",
+    "status": "delivered",
+    "payment_method": "Debit Card",
+    "discount_pct": 15,
+    "shipping": {
+      "city": "Pune",
+      "cost": 0
+    },
+    "items": [
+      {
+        "product": "Desk Lamp",
+        "category": "Home",
+        "quantity": 2,
+        "unit_price": 1199
+      },
+      {
+        "product": "Notebook Pack",
+        "category": "Books",
+        "quantity": 1,
+        "unit_price": 249
+      }
+    ]
+  },
+  {
+    "order_id": "ORD1039",
+    "customer_id": "C044",
+    "order_date": "2025-07-22",
+    "status": "delivered",
+    "payment_method": "Net Banking",
+    "discount_pct": 0,
+    "shipping": {
+      "city": "Bengaluru",
+      "cost": 79
+    },
+    "items": [
+      {
+        "product": "Earbuds",
+        "category": "Electronics",
+        "quantity": 3,
+        "unit_price": 1999
+      }
+    ]
+  },
+  {
+    "order_id": "ORD1040",
+    "customer_id": "C053",
+    "order_date": "2025-11-11",
+    "status": "delivered",
+    "payment_method": "Net Banking",
+    "discount_pct": 0,
+    "shipping": {
+      "city": "Pune",
+      "cost": 0
+    },
+    "items": [
+      {
+        "product": "Wireless Mouse",
+        "category": "Electronics",
+        "quantity": 1,
+        "unit_price": 799
+      }
+    ]
+  },
+  {
+    "order_id": "ORD1041",
+    "customer_id": "C030",
+    "order_date": "2026-07-07",
+    "status": "delivered",
+    "payment_method": null,
+    "discount_pct": 10,
+    "shipping": {
+      "city": "Kochi",
+      "cost": 99
+    },
+    "items": [
+      {
+        "product": "Backpack",
+        "category": "Home",
+        "quantity": 2,
+        "unit_price": 1599
+      },
+      {
+        "product": "Deep Learning Book",
+        "category": "Books",
+        "quantity": 3,
+        "unit_price": 1499
+      }
+    ]
+  },
+  {
+    "order_id": "ORD1042",
+    "customer_id": "C048",
+    "order_date": "2025-04-04",
+    "status": "delivered",
+    "payment_method": "Net Banking",
+    "discount_pct": 10,
+    "shipping": {
+      "city": "Kochi",
+      "cost": 79
+    },
+    "items": [
+      {
+        "product": "Earbuds",
+        "category": "Electronics",
+        "quantity": 1,
+        "unit_price": 1999
+      }
+    ]
+  },
+  {
+    "order_id": "ORD1043",
+    "customer_id": "C037",
+    "order_date": "2026-04-27",
+    "status": "delivered",
+    "payment_method": "Cash on Delivery",
+    "discount_pct": 0,
+    "shipping": {
+      "city": "Bengaluru",
+      "cost": 99
+    },
+    "items": [
+      {
+        "product": "Running Shoes",
+        "category": "Fashion",
+        "quantity": 1,
+        "unit_price": 2999
+      }
+    ]
+  },
+  {
+    "order_id": "ORD1044",
+    "customer_id": "C041",
+    "order_date": "2025-04-18",
+    "status": "cancelled",
+    "payment_method": "Debit Card",
+    "discount_pct": 5,
+    "shipping": {
+      "city": "Pune",
+      "cost": 79
+    },
+    "items": [
+      {
+        "product": "Bluetooth Speaker",
+        "category": "Electronics",
+        "quantity": 2,
+        "unit_price": 2499
+      },
+      {
+        "product": "Notebook Pack",
+        "category": "Books",
+        "quantity": 2,
+        "unit_price": 249
+      },
+      {
+        "product": "Python Crash Course",
+        "category": "Books",
+        "quantity": 2,
+        "unit_price": 899
+      }
+    ]
+  },
+  {
+    "order_id": "ORD1045",
+    "customer_id": "C043",
+    "order_date": "2025-11-19",
+    "status": "delivered",
+    "payment_method": "UPI",
+    "discount_pct": 5,
+    "shipping": {
+      "city": "Thrissur",
+      "cost": 0
+    },
+    "items": [
+      {
+        "product": "Cotton T-Shirt",
+        "category": "Fashion",
+        "quantity": 1,
+        "unit_price": 599
+      },
+      {
+        "product": "Running Shoes",
+        "category": "Fashion",
+        "quantity": 2,
+        "unit_price": 2999
+      },
+      {
+        "product": "Statistics Basics",
+        "category": "Books",
+        "quantity": 1,
+        "unit_price": 699
+      }
+    ]
+  },
+  {
+    "order_id": "ORD1046",
+    "customer_id": "C043",
+    "order_date": "2026-05-26",
+    "status": "delivered",
+    "payment_method": "UPI",
+    "discount_pct": 0,
+    "shipping": {
+      "city": "Mumbai",
+      "cost": 49
+    },
+    "items": [
+      {
+        "product": "Notebook Pack",
+        "category": "Books",
+        "quantity": 1,
+        "unit_price": 249
+      },
+      {
+        "product": "Deep Learning Book",
+        "category": "Books",
+        "quantity": 3,
+        "unit_price": 1499
+      },
+      {
+        "product": "Wireless Mouse",
+        "category": "Electronics",
+        "quantity": 2,
+        "unit_price": 799
+      }
+    ]
+  },
+  {
+    "order_id": "ORD1047",
+    "customer_id": "C060",
+    "order_date": "2026-05-12",
+    "status": "delivered",
+    "payment_method": "Net Banking",
+    "discount_pct": 0,
+    "shipping": {
+      "city": "Bengaluru",
+      "cost": 79
+    },
+    "items": [
+      {
+        "product": "Cap",
+        "category": "Fashion",
+        "quantity": 3,
+        "unit_price": 349
+      }
+    ]
+  },
+  {
+    "order_id": "ORD1048",
+    "customer_id": "C036",
+    "order_date": "2025-08-19",
+    "status": "returned",
+    "payment_method": "UPI",
+    "discount_pct": 5,
+    "shipping": {
+      "city": "Kozhikode",
+      "cost": 49
+    },
+    "items": [
+      {
+        "product": "Deep Learning Book",
+        "category": "Books",
+        "quantity": 1,
+        "unit_price": 1499
+      }
+    ]
+  },
+  {
+    "order_id": "ORD1049",
+    "customer_id": "C032",
+    "order_date": "2026-04-29",
+    "status": "delivered",
+    "payment_method": "Net Banking",
+    "discount_pct": 0,
+    "shipping": {
+      "city": "Hyderabad",
+      "cost": 49
+    },
+    "items": [
+      {
+        "product": "Earbuds",
+        "category": "Electronics",
+        "quantity": 2,
+        "unit_price": 1999
+      },
+      {
+        "product": "Statistics Basics",
+        "category": "Books",
+        "quantity": 2,
+        "unit_price": 699
+      },
+      {
+        "product": "Backpack",
+        "category": "Home",
+        "quantity": 2,
+        "unit_price": 1599
+      }
+    ]
+  },
+  {
+    "order_id": "ORD1050",
+    "customer_id": "C059",
+    "order_date": "2026-03-01",
+    "status": "delivered",
+    "payment_method": "Net Banking",
+    "discount_pct": 0,
+    "shipping": {
+      "city": "Kochi",
+      "cost": 79
+    },
+    "items": [
+      {
+        "product": "Backpack",
+        "category": "Home",
+        "quantity": 1,
+        "unit_price": 1599
+      },
+      {
+        "product": "USB-C Cable",
+        "category": "Electronics",
+        "quantity": 2,
+        "unit_price": 349
+      }
+    ]
+  },
+  {
+    "order_id": "ORD1051",
+    "customer_id": "C047",
+    "order_date": "2026-05-17",
+    "status": "cancelled",
+    "payment_method": "Cash on Delivery",
+    "discount_pct": 10,
+    "shipping": {
+      "city": "Pune",
+      "cost": 79
+    },
+    "items": [
+      {
+        "product": "Desk Lamp",
+        "category": "Home",
+        "quantity": 3,
+        "unit_price": 1199
+      }
+    ]
+  },
+  {
+    "order_id": "ORD1052",
+    "customer_id": "C022",
+    "order_date": "2025-07-13",
+    "status": "returned",
+    "payment_method": "Credit Card",
+    "discount_pct": 10,
+    "shipping": {
+      "city": "Hyderabad",
+      "cost": 49
+    },
+    "items": [
+      {
+        "product": "Statistics Basics",
+        "category": "Books",
+        "quantity": 2,
+        "unit_price": 699
+      },
+      {
+        "product": "Deep Learning Book",
+        "category": "Books",
+        "quantity": 2,
+        "unit_price": 1499
+      }
+    ]
+  },
+  {
+    "order_id": "ORD1053",
+    "customer_id": "C055",
+    "order_date": "2026-01-31",
+    "status": "returned",
+    "payment_method": "Credit Card",
+    "discount_pct": 5,
+    "shipping": {
+      "city": "Kochi",
+      "cost": 49
+    },
+    "items": [
+      {
+        "product": "Wireless Mouse",
+        "category": "Electronics",
+        "quantity": 2,
+        "unit_price": 799
+      },
+      {
+        "product": "Python Crash Course",
+        "category": "Books",
+        "quantity": 3,
+        "unit_price": 899
+      },
+      {
+        "product": "Backpack",
+        "category": "Home",
+        "quantity": 2,
+        "unit_price": 1599
+      }
+    ]
+  },
+  {
+    "order_id": "ORD1054",
+    "customer_id": "C033",
+    "order_date": "2025-05-28",
+    "status": "delivered",
+    "payment_method": "Credit Card",
+    "discount_pct": 0,
+    "shipping": {
+      "city": "Pune",
+      "cost": 79
+    },
+    "items": [
+      {
+        "product": "Python Crash Course",
+        "category": "Books",
+        "quantity": 1,
+        "unit_price": 899
+      },
+      {
+        "product": "Cotton T-Shirt",
+        "category": "Fashion",
+        "quantity": 3,
+        "unit_price": 599
+      },
+      {
+        "product": "Bluetooth Speaker",
+        "category": "Electronics",
+        "quantity": 2,
+        "unit_price": 2499
+      },
+      {
+        "product": "Notebook Pack",
+        "category": "Books",
+        "quantity": 1,
+        "unit_price": 249
+      }
+    ]
+  },
+  {
+    "order_id": "ORD1055",
+    "customer_id": "C022",
+    "order_date": "2026-07-01",
+    "status": "delivered",
+    "payment_method": "Debit Card",
+    "discount_pct": 15,
+    "shipping": {
+      "city": "Pune",
+      "cost": 0
+    },
+    "items": [
+      {
+        "product": "Deep Learning Book",
+        "category": "Books",
+        "quantity": 1,
+        "unit_price": 1499
+      },
+      {
+        "product": "Water Bottle",
+        "category": "Home",
+        "quantity": 2,
+        "unit_price": 399
+      }
+    ]
+  },
+  {
+    "order_id": "ORD1056",
+    "customer_id": "C040",
+    "order_date": "2025-10-22",
+    "status": "returned",
+    "payment_method": "UPI",
+    "discount_pct": 5,
+    "items": [
+      {
+        "product": "Water Bottle",
+        "category": "Home",
+        "quantity": 3,
+        "unit_price": 399
+      }
+    ]
+  },
+  {
+    "order_id": "ORD1057",
+    "customer_id": "C029",
+    "order_date": "2025-02-17",
+    "status": "delivered",
+    "payment_method": "UPI",
+    "discount_pct": 0,
+    "shipping": {
+      "city": "Delhi",
+      "cost": 79
+    },
+    "items": [
+      {
+        "product": "Earbuds",
+        "category": "Electronics",
+        "quantity": 1,
+        "unit_price": 1999
+      }
+    ]
+  },
+  {
+    "order_id": "ORD1058",
+    "customer_id": "C028",
+    "order_date": "2026-08-03",
+    "status": "shipped",
+    "payment_method": "Credit Card",
+    "discount_pct": 0,
+    "shipping": {
+      "city": "Bengaluru",
+      "cost": 0
+    },
+    "items": [
+      {
+        "product": "Statistics Basics",
+        "category": "Books",
+        "quantity": 2,
+        "unit_price": 699
+      }
+    ]
+  },
+  {
+    "order_id": "ORD1059",
+    "customer_id": "C040",
+    "order_date": "2025-08-26",
+    "status": "delivered",
+    "payment_method": "Debit Card",
+    "discount_pct": 5,
+    "shipping": {
+      "city": "Mumbai",
+      "cost": 0
+    },
+    "items": [
+      {
+        "product": "Desk Lamp",
+        "category": "Home",
+        "quantity": 2,
+        "unit_price": 1199
+      },
+      {
+        "product": "Water Bottle",
+        "category": "Home",
+        "quantity": 3,
+        "unit_price": 399
+      },
+      {
+        "product": "Power Bank",
+        "category": "Electronics",
+        "quantity": 1,
+        "unit_price": 1799
+      }
+    ]
+  },
+  {
+    "order_id": "ORD1060",
+    "customer_id": "C058",
+    "order_date": "2026-03-29",
+    "status": "returned",
+    "payment_method": "Net Banking",
+    "discount_pct": 0,
+    "shipping": {
+      "city": "Hyderabad",
+      "cost": 79
+    },
+    "items": [
+      {
+        "product": "Cap",
+        "category": "Fashion",
+        "quantity": 3,
+        "unit_price": 349
+      },
+      {
+        "product": "Earbuds",
+        "category": "Electronics",
+        "quantity": 1,
+        "unit_price": 1999
+      },
+      {
+        "product": "Water Bottle",
+        "category": "Home",
+        "quantity": 1,
+        "unit_price": 399
+      }
+    ]
+  },
+  {
+    "order_id": "ORD1061",
+    "customer_id": "C030",
+    "order_date": "2026-08-09",
+    "status": "delivered",
+    "payment_method": "Debit Card",
+    "discount_pct": 15,
+    "shipping": {
+      "city": "Mumbai",
+      "cost": 0
+    },
+    "items": [
+      {
+        "product": "Power Bank",
+        "category": "Electronics",
+        "quantity": 1,
+        "unit_price": 1799
+      },
+      {
+        "product": "Deep Learning Book",
+        "category": "Books",
+        "quantity": 1,
+        "unit_price": 1499
+      },
+      {
+        "product": "Notebook Pack",
+        "category": "Books",
+        "quantity": 2,
+        "unit_price": 249
+      }
+    ]
+  },
+  {
+    "order_id": "ORD1062",
+    "customer_id": "C054",
+    "order_date": "2025-02-20",
+    "status": "cancelled",
+    "payment_method": "Cash on Delivery",
+    "discount_pct": 0,
+    "shipping": {
+      "city": "Chennai",
+      "cost": 79
+    },
+    "items": [
+      {
+        "product": "Earbuds",
+        "category": "Electronics",
+        "quantity": 3,
+        "unit_price": 1999
+      },
+      {
+        "product": "Wireless Mouse",
+        "category": "Electronics",
+        "quantity": 3,
+        "unit_price": 799
+      }
+    ]
+  },
+  {
+    "order_id": "ORD1063",
+    "customer_id": "C015",
+    "order_date": "2025-05-21",
+    "status": "delivered",
+    "payment_method": "UPI",
+    "discount_pct": 0,
+    "shipping": {
+      "city": "Pune",
+      "cost": 0
+    },
+    "items": [
+      {
+        "product": "Desk Lamp",
+        "category": "Home",
+        "quantity": 3,
+        "unit_price": 1199
+      },
+      {
+        "product": "Earbuds",
+        "category": "Electronics",
+        "quantity": 3,
+        "unit_price": 1999
+      }
+    ]
+  },
+  {
+    "order_id": "ORD1064",
+    "customer_id": "C038",
+    "order_date": "2025-10-30",
+    "status": "delivered",
+    "payment_method": "Cash on Delivery",
+    "discount_pct": 0,
+    "shipping": {
+      "city": "Chennai",
+      "cost": 49
+    },
+    "items": [
+      {
+        "product": "USB-C Cable",
+        "category": "Electronics",
+        "quantity": 1,
+        "unit_price": 349
+      }
+    ]
+  },
+  {
+    "order_id": "ORD1065",
+    "customer_id": "C051",
+    "order_date": "2025-06-18",
+    "status": "delivered",
+    "payment_method": "Cash on Delivery",
+    "discount_pct": 0,
+    "shipping": {
+      "city": "Delhi",
+      "cost": 0
+    },
+    "items": [
+      {
+        "product": "Python Crash Course",
+        "category": "Books",
+        "quantity": 3,
+        "unit_price": 899
+      },
+      {
+        "product": "Statistics Basics",
+        "category": "Books",
+        "quantity": 2,
+        "unit_price": 699
+      }
+    ]
+  },
+  {
+    "order_id": "ORD1066",
+    "customer_id": "C030",
+    "order_date": "2026-01-10",
+    "status": "delivered",
+    "payment_method": "Cash on Delivery",
+    "discount_pct": 0,
+    "shipping": {
+      "city": "Mumbai",
+      "cost": 0
+    },
+    "items": [
+      {
+        "product": "USB-C Cable",
+        "category": "Electronics",
+        "quantity": 3,
+        "unit_price": 349
+      },
+      {
+        "product": "Running Shoes",
+        "category": "Fashion",
+        "quantity": 3,
+        "unit_price": 2999
+      },
+      {
+        "product": "Power Bank",
+        "category": "Electronics",
+        "quantity": 2,
+        "unit_price": 1799
+      },
+      {
+        "product": "Water Bottle",
+        "category": "Home",
+        "quantity": 3,
+        "unit_price": 399
+      }
+    ]
+  },
+  {
+    "order_id": "ORD1067",
+    "customer_id": "C030",
+    "order_date": "2025-09-26",
+    "status": "delivered",
+    "payment_method": "Debit Card",
+    "discount_pct": null,
+    "shipping": {
+      "city": "Chennai",
+      "cost": 99
+    },
+    "items": [
+      {
+        "product": "Backpack",
+        "category": "Home",
+        "quantity": 3,
+        "unit_price": 1599
+      }
+    ]
+  },
+  {
+    "order_id": "ORD1068",
+    "customer_id": "C002",
+    "order_date": "2025-03-06",
+    "status": "delivered",
+    "payment_method": "Cash on Delivery",
+    "discount_pct": 15,
+    "shipping": {
+      "city": "Mumbai",
+      "cost": 99
+    },
+    "items": [
+      {
+        "product": "Statistics Basics",
+        "category": "Books",
+        "quantity": 3,
+        "unit_price": 699
+      },
+      {
+        "product": "Python Crash Course",
+        "category": "Books",
+        "quantity": 1,
+        "unit_price": 899
+      }
+    ]
+  },
+  {
+    "order_id": "ORD1069",
+    "customer_id": "C008",
+    "order_date": "2026-05-20",
+    "status": "delivered",
+    "payment_method": "Credit Card",
+    "discount_pct": 10,
+    "shipping": {
+      "city": "Bengaluru",
+      "cost": 99
+    },
+    "items": [
+      {
+        "product": "Wireless Mouse",
+        "category": "Electronics",
+        "quantity": 2,
+        "unit_price": 799
+      }
+    ]
+  },
+  {
+    "order_id": "ORD1070",
+    "customer_id": "C030",
+    "order_date": "2026-07-08",
+    "status": "delivered",
+    "payment_method": "Credit Card",
+    "discount_pct": 5,
+    "shipping": {
+      "city": "Kozhikode",
+      "cost": 99
+    },
+    "items": [
+      {
+        "product": "Backpack",
+        "category": "Home",
+        "quantity": 3,
+        "unit_price": 1599
+      }
+    ]
+  },
+  {
+    "order_id": "ORD1071",
+    "customer_id": "C040",
+    "order_date": "2025-08-11",
+    "status": "delivered",
+    "payment_method": "Credit Card",
+    "discount_pct": 0,
+    "shipping": {
+      "city": "Kozhikode",
+      "cost": 79
+    },
+    "items": [
+      {
+        "product": "Earbuds",
+        "category": "Electronics",
+        "quantity": 3,
+        "unit_price": 1999
+      },
+      {
+        "product": "Wireless Mouse",
+        "category": "Electronics",
+        "quantity": 2,
+        "unit_price": 799
+      }
+    ]
+  },
+  {
+    "order_id": "ORD1072",
+    "customer_id": "C035",
+    "order_date": "2025-05-06",
+    "status": "returned",
+    "payment_method": "Cash on Delivery",
+    "discount_pct": 0,
+    "shipping": {
+      "city": "Chennai",
+      "cost": 0
+    },
+    "items": [
+      {
+        "product": "Water Bottle",
+        "category": "Home",
+        "quantity": 2,
+        "unit_price": 399
+      },
+      {
+        "product": "Python Crash Course",
+        "category": "Books",
+        "quantity": 2,
+        "unit_price": 899
+      },
+      {
+        "product": "Wireless Mouse",
+        "category": "Electronics",
+        "quantity": 1,
+        "unit_price": 799
+      }
+    ]
+  },
+  {
+    "order_id": "ORD1073",
+    "customer_id": "C004",
+    "order_date": "2026-07-22",
+    "status": "delivered",
+    "payment_method": "Credit Card",
+    "discount_pct": 0,
+    "shipping": {
+      "city": "Delhi",
+      "cost": 49
+    },
+    "items": [
+      {
+        "product": "Power Bank",
+        "category": "Electronics",
+        "quantity": 3,
+        "unit_price": 1799
+      },
+      {
+        "product": "USB-C Cable",
+        "category": "Electronics",
+        "quantity": 1,
+        "unit_price": 349
+      },
+      {
+        "product": "Running Shoes",
+        "category": "Fashion",
+        "quantity": 1,
+        "unit_price": 2999
+      }
+    ]
+  },
+  {
+    "order_id": "ORD1074",
+    "customer_id": "C051",
+    "order_date": "2025-06-28",
+    "status": "delivered",
+    "payment_method": "UPI",
+    "discount_pct": 0,
+    "shipping": {
+      "city": "Kochi",
+      "cost": 79
+    },
+    "items": [
+      {
+        "product": "Wireless Mouse",
+        "category": "Electronics",
+        "quantity": 1,
+        "unit_price": 799
+      },
+      {
+        "product": "Earbuds",
+        "category": "Electronics",
+        "quantity": 3,
+        "unit_price": 1999
+      },
+      {
+        "product": "USB-C Cable",
+        "category": "Electronics",
+        "quantity": 2,
+        "unit_price": 349
+      }
+    ]
+  },
+  {
+    "order_id": "ORD1075",
+    "customer_id": "C051",
+    "order_date": "2025-05-10",
+    "status": "shipped",
+    "payment_method": "Net Banking",
+    "discount_pct": 0,
+    "shipping": {
+      "city": "Kozhikode",
+      "cost": 99
+    },
+    "items": [
+      {
+        "product": "Desk Lamp",
+        "category": "Home",
+        "quantity": 1,
+        "unit_price": 1199
+      },
+      {
+        "product": "Python Crash Course",
+        "category": "Books",
+        "quantity": 2,
+        "unit_price": 899
+      },
+      {
+        "product": "Wireless Mouse",
+        "category": "Electronics",
+        "quantity": 1,
+        "unit_price": 799
+      }
+    ]
+  },
+  {
+    "order_id": "ORD1076",
+    "customer_id": "C029",
+    "order_date": "2025-02-14",
+    "status": "shipped",
+    "payment_method": "Net Banking",
+    "discount_pct": 0,
+    "shipping": {
+      "city": "Pune",
+      "cost": 0
+    },
+    "items": [
+      {
+        "product": "Statistics Basics",
+        "category": "Books",
+        "quantity": 2,
+        "unit_price": 699
+      },
+      {
+        "product": "Desk Lamp",
+        "category": "Home",
+        "quantity": 3,
+        "unit_price": 1199
+      },
+      {
+        "product": "Bluetooth Speaker",
+        "category": "Electronics",
+        "quantity": 1,
+        "unit_price": 2499
+      }
+    ]
+  },
+  {
+    "order_id": "ORD1077",
+    "customer_id": "C004",
+    "order_date": "2025-03-17",
+    "status": "cancelled",
+    "payment_method": "Debit Card",
+    "discount_pct": 10,
+    "shipping": {
+      "city": "Bengaluru",
+      "cost": 0
+    },
+    "items": [
+      {
+        "product": "Cotton T-Shirt",
+        "category": "Fashion",
+        "quantity": 1,
+        "unit_price": 599
+      },
+      {
+        "product": "Deep Learning Book",
+        "category": "Books",
+        "quantity": 2,
+        "unit_price": 1499
+      },
+      {
+        "product": "Cap",
+        "category": "Fashion",
+        "quantity": 3,
+        "unit_price": 349
+      },
+      {
+        "product": "Water Bottle",
+        "category": "Home",
+        "quantity": 2,
+        "unit_price": 399
+      }
+    ]
+  },
+  {
+    "order_id": "ORD1078",
+    "customer_id": "C888",
+    "order_date": "2026-07-16",
+    "status": "shipped",
+    "payment_method": "Cash on Delivery",
+    "discount_pct": 10,
+    "shipping": {
+      "city": "Thrissur",
+      "cost": 79
+    },
+    "items": [
+      {
+        "product": "Water Bottle",
+        "category": "Home",
+        "quantity": 3,
+        "unit_price": 399
+      }
+    ]
+  },
+  {
+    "order_id": "ORD1079",
+    "customer_id": "C030",
+    "order_date": "2026-07-19",
+    "status": "shipped",
+    "payment_method": "Credit Card",
+    "discount_pct": 5,
+    "shipping": {
+      "city": "Pune",
+      "cost": 49
+    },
+    "items": [
+      {
+        "product": "Deep Learning Book",
+        "category": "Books",
+        "quantity": 3,
+        "unit_price": 1499
+      },
+      {
+        "product": "Bluetooth Speaker",
+        "category": "Electronics",
+        "quantity": 1,
+        "unit_price": 2499
+      }
+    ]
+  },
+  {
+    "order_id": "ORD1080",
+    "customer_id": "C027",
+    "order_date": "2026-03-02",
+    "status": "shipped",
+    "payment_method": "Debit Card",
+    "discount_pct": 5,
+    "shipping": {
+      "city": "Delhi",
+      "cost": 79
+    },
+    "items": [
+      {
+        "product": "Notebook Pack",
+        "category": "Books",
+        "quantity": 2,
+        "unit_price": 249
+      }
+    ]
+  },
+  {
+    "order_id": "ORD1081",
+    "customer_id": "C024",
+    "order_date": "2026-01-17",
+    "status": "shipped",
+    "payment_method": "Net Banking",
+    "discount_pct": 0,
+    "shipping": {
+      "city": "Thrissur",
+      "cost": 79
+    },
+    "items": [
+      {
+        "product": "Water Bottle",
+        "category": "Home",
+        "quantity": 1,
+        "unit_price": 399
+      },
+      {
+        "product": "Notebook Pack",
+        "category": "Books",
+        "quantity": 1,
+        "unit_price": 249
+      },
+      {
+        "product": "Bluetooth Speaker",
+        "category": "Electronics",
+        "quantity": 2,
+        "unit_price": 2499
+      },
+      {
+        "product": "Running Shoes",
+        "category": "Fashion",
+        "quantity": 1,
+        "unit_price": 2999
+      }
+    ]
+  },
+  {
+    "order_id": "ORD1082",
+    "customer_id": "C043",
+    "order_date": "2026-03-10",
+    "status": "cancelled",
+    "payment_method": "UPI",
+    "discount_pct": 0,
+    "shipping": {
+      "city": "Mumbai",
+      "cost": 79
+    },
+    "items": [
+      {
+        "product": "Python Crash Course",
+        "category": "Books",
+        "quantity": 3,
+        "unit_price": 899
+      }
+    ]
+  },
+  {
+    "order_id": "ORD1083",
+    "customer_id": "C007",
+    "order_date": "2025-08-18",
+    "status": "cancelled",
+    "payment_method": "Debit Card",
+    "discount_pct": 10,
+    "shipping": {
+      "city": "Delhi",
+      "cost": 0
+    },
+    "items": [
+      {
+        "product": "Power Bank",
+        "category": "Electronics",
+        "quantity": 3,
+        "unit_price": 1799
+      },
+      {
+        "product": "USB-C Cable",
+        "category": "Electronics",
+        "quantity": 2,
+        "unit_price": 349
+      }
+    ]
+  },
+  {
+    "order_id": "ORD1084",
+    "customer_id": "C049",
+    "order_date": "2026-07-29",
+    "status": "returned",
+    "payment_method": "Net Banking",
+    "discount_pct": 10,
+    "shipping": {
+      "city": "Thrissur",
+      "cost": 0
+    },
+    "items": [
+      {
+        "product": "Power Bank",
+        "category": "Electronics",
+        "quantity": 2,
+        "unit_price": 1799
+      }
+    ]
+  },
+  {
+    "order_id": "ORD1085",
+    "customer_id": "C039",
+    "order_date": "2025-11-13",
+    "status": "cancelled",
+    "payment_method": "Debit Card",
+    "discount_pct": 0,
+    "shipping": {
+      "city": "Bengaluru",
+      "cost": 49
+    },
+    "items": [
+      {
+        "product": "Cotton T-Shirt",
+        "category": "Fashion",
+        "quantity": 1,
+        "unit_price": 599
+      },
+      {
+        "product": "Backpack",
+        "category": "Home",
+        "quantity": 1,
+        "unit_price": 1599
+      },
+      {
+        "product": "Earbuds",
+        "category": "Electronics",
+        "quantity": 2,
+        "unit_price": 1999
+      }
+    ]
+  },
+  {
+    "order_id": "ORD1086",
+    "customer_id": "C037",
+    "order_date": "2025-02-01",
+    "status": "delivered",
+    "payment_method": "Net Banking",
+    "discount_pct": 0,
+    "shipping": {
+      "city": "Hyderabad",
+      "cost": 99
+    },
+    "items": [
+      {
+        "product": "Bluetooth Speaker",
+        "category": "Electronics",
+        "quantity": 3,
+        "unit_price": 2499
+      },
+      {
+        "product": "USB-C Cable",
+        "category": "Electronics",
+        "quantity": 3,
+        "unit_price": 349
+      }
+    ]
+  },
+  {
+    "order_id": "ORD1087",
+    "customer_id": "C030",
+    "order_date": "2025-11-29",
+    "status": "shipped",
+    "payment_method": "Net Banking",
+    "discount_pct": 10,
+    "shipping": {
+      "city": "Kozhikode",
+      "cost": 0
+    },
+    "items": [
+      {
+        "product": "Python Crash Course",
+        "category": "Books",
+        "quantity": 2,
+        "unit_price": 899
+      }
+    ]
+  },
+  {
+    "order_id": "ORD1088",
+    "customer_id": "C010",
+    "order_date": "2025-03-25",
+    "status": "delivered",
+    "payment_method": "Cash on Delivery",
+    "discount_pct": 5,
+    "shipping": {
+      "city": "Pune",
+      "cost": 99
+    },
+    "items": [
+      {
+        "product": "Desk Lamp",
+        "category": "Home",
+        "quantity": 1,
+        "unit_price": 1199
+      }
+    ]
+  },
+  {
+    "order_id": "ORD1089",
+    "customer_id": "C018",
+    "order_date": "2025-12-20",
+    "status": "delivered",
+    "payment_method": "Debit Card",
+    "discount_pct": 15,
+    "shipping": {
+      "city": "Pune",
+      "cost": 79
+    },
+    "items": [
+      {
+        "product": "Statistics Basics",
+        "category": "Books",
+        "quantity": 1,
+        "unit_price": 699
+      }
+    ]
+  },
+  {
+    "order_id": "ORD1090",
+    "customer_id": "C003",
+    "order_date": "2025-01-08",
+    "status": "delivered",
+    "payment_method": "Credit Card",
+    "discount_pct": 0,
+    "shipping": {
+      "city": "Mumbai",
+      "cost": 79
+    },
+    "items": [
+      {
+        "product": "Desk Lamp",
+        "category": "Home",
+        "quantity": 1,
+        "unit_price": 1199
+      }
+    ]
+  },
+  {
+    "order_id": "ORD1091",
+    "customer_id": "C021",
+    "order_date": "2026-03-17",
+    "status": "delivered",
+    "payment_method": "Cash on Delivery",
+    "discount_pct": 10,
+    "shipping": {
+      "city": "Chennai",
+      "cost": 79
+    },
+    "items": [
+      {
+        "product": "Notebook Pack",
+        "category": "Books",
+        "quantity": 3,
+        "unit_price": 249
+      }
+    ]
+  },
+  {
+    "order_id": "ORD1092",
+    "customer_id": "C005",
+    "order_date": "2026-03-23",
+    "status": "delivered",
+    "payment_method": "UPI",
+    "discount_pct": 0,
+    "shipping": {
+      "city": "Hyderabad",
+      "cost": 99
+    },
+    "items": [
+      {
+        "product": "Backpack",
+        "category": "Home",
+        "quantity": 1,
+        "unit_price": 1599
+      }
+    ]
+  },
+  {
+    "order_id": "ORD1093",
+    "customer_id": "C046",
+    "order_date": "2025-11-29",
+    "status": "delivered",
+    "payment_method": "Net Banking",
+    "discount_pct": 5,
+    "shipping": {
+      "city": "Delhi",
+      "cost": 0
+    },
+    "items": [
+      {
+        "product": "Earbuds",
+        "category": "Electronics",
+        "quantity": 2,
+        "unit_price": 1999
+      },
+      {
+        "product": "Bluetooth Speaker",
+        "category": "Electronics",
+        "quantity": 1,
+        "unit_price": 2499
+      }
+    ]
+  },
+  {
+    "order_id": "ORD1094",
+    "customer_id": "C028",
+    "order_date": "2026-02-10",
+    "status": "cancelled",
+    "payment_method": "Debit Card",
+    "discount_pct": 0,
+    "shipping": {
+      "city": "Delhi",
+      "cost": 49
+    },
+    "items": [
+      {
+        "product": "Power Bank",
+        "category": "Electronics",
+        "quantity": 2,
+        "unit_price": 1799
+      },
+      {
+        "product": "Deep Learning Book",
+        "category": "Books",
+        "quantity": 3,
+        "unit_price": 1499
+      },
+      {
+        "product": "Desk Lamp",
+        "category": "Home",
+        "quantity": 1,
+        "unit_price": 1199
+      }
+    ]
+  },
+  {
+    "order_id": "ORD1095",
+    "customer_id": "C005",
+    "order_date": "2025-12-24",
+    "status": "delivered",
+    "payment_method": "Credit Card",
+    "discount_pct": 0,
+    "shipping": {
+      "city": "Kozhikode",
+      "cost": 49
+    },
+    "items": [
+      {
+        "product": "Bluetooth Speaker",
+        "category": "Electronics",
+        "quantity": 3,
+        "unit_price": 2499
+      },
+      {
+        "product": "Statistics Basics",
+        "category": "Books",
+        "quantity": 1,
+        "unit_price": 699
+      }
+    ]
+  },
+  {
+    "order_id": "ORD1096",
+    "customer_id": "C017",
+    "order_date": "2025-03-19",
+    "status": "delivered",
+    "payment_method": "Cash on Delivery",
+    "discount_pct": 5,
+    "shipping": {
+      "city": "Pune",
+      "cost": 79
+    },
+    "items": [
+      {
+        "product": "Desk Lamp",
+        "category": "Home",
+        "quantity": 1,
+        "unit_price": 1199
+      }
+    ]
+  },
+  {
+    "order_id": "ORD1097",
+    "customer_id": "C056",
+    "order_date": "2025-10-09",
+    "status": "delivered",
+    "payment_method": "Debit Card",
+    "discount_pct": 10,
+    "shipping": {
+      "city": "Kozhikode",
+      "cost": 79
+    },
+    "items": [
+      {
+        "product": "Python Crash Course",
+        "category": "Books",
+        "quantity": 2,
+        "unit_price": 899
+      },
+      {
+        "product": "USB-C Cable",
+        "category": "Electronics",
+        "quantity": 2,
+        "unit_price": 349
+      },
+      {
+        "product": "Notebook Pack",
+        "category": "Books",
+        "quantity": 3,
+        "unit_price": 249
+      },
+      {
+        "product": "Bluetooth Speaker",
+        "category": "Electronics",
+        "quantity": 2,
+        "unit_price": 2499
+      }
+    ]
+  },
+  {
+    "order_id": "ORD1098",
+    "customer_id": "C030",
+    "order_date": "2025-04-03",
+    "status": "delivered",
+    "payment_method": "Net Banking",
+    "discount_pct": 5,
+    "shipping": {
+      "city": "Pune",
+      "cost": 0
+    },
+    "items": [
+      {
+        "product": "Wireless Mouse",
+        "category": "Electronics",
+        "quantity": 2,
+        "unit_price": 799
+      },
+      {
+        "product": "Python Crash Course",
+        "category": "Books",
+        "quantity": 1,
+        "unit_price": 899
+      }
+    ]
+  },
+  {
+    "order_id": "ORD1099",
+    "customer_id": "C029",
+    "order_date": "2026-05-29",
+    "status": "delivered",
+    "payment_method": "UPI",
+    "discount_pct": 5,
+    "shipping": {
+      "city": "Kozhikode",
+      "cost": 79
+    },
+    "items": [
+      {
+        "product": "Desk Lamp",
+        "category": "Home",
+        "quantity": 2,
+        "unit_price": 1199
+      },
+      {
+        "product": "Water Bottle",
+        "category": "Home",
+        "quantity": 3,
+        "unit_price": 399
+      },
+      {
+        "product": "Power Bank",
+        "category": "Electronics",
+        "quantity": 2,
+        "unit_price": 1799
+      }
+    ]
+  },
+  {
+    "order_id": "ORD1100",
+    "customer_id": "C046",
+    "order_date": "2025-02-10",
+    "status": "delivered",
+    "payment_method": "Cash on Delivery",
+    "discount_pct": 5,
+    "shipping": {
+      "city": "Thrissur",
+      "cost": 49
+    },
+    "items": [
+      {
+        "product": "Water Bottle",
+        "category": "Home",
+        "quantity": 1,
+        "unit_price": 399
+      }
+    ]
+  },
+  {
+    "order_id": "ORD1101",
+    "customer_id": "C024",
+    "order_date": "2026-02-23",
+    "status": "shipped",
+    "payment_method": "Net Banking",
+    "discount_pct": 0,
+    "shipping": {
+      "city": "Delhi",
+      "cost": 0
+    },
+    "items": [
+      {
+        "product": "Earbuds",
+        "category": "Electronics",
+        "quantity": 2,
+        "unit_price": 1999
+      }
+    ]
+  },
+  {
+    "order_id": "ORD1102",
+    "customer_id": "C022",
+    "order_date": "2025-10-18",
+    "status": "delivered",
+    "payment_method": "Net Banking",
+    "discount_pct": 0,
+    "shipping": {
+      "city": "Delhi",
+      "cost": 0
+    },
+    "items": [
+      {
+        "product": "Water Bottle",
+        "category": "Home",
+        "quantity": 2,
+        "unit_price": 399
+      }
+    ]
+  },
+  {
+    "order_id": "ORD1103",
+    "customer_id": "C038",
+    "order_date": "2026-02-06",
+    "status": "delivered",
+    "payment_method": "UPI",
+    "discount_pct": 0,
+    "shipping": {
+      "city": "Thrissur",
+      "cost": 99
+    },
+    "items": [
+      {
+        "product": "Cap",
+        "category": "Fashion",
+        "quantity": 2,
+        "unit_price": 349
+      },
+      {
+        "product": "Python Crash Course",
+        "category": "Books",
+        "quantity": 3,
+        "unit_price": 899
+      }
+    ]
+  },
+  {
+    "order_id": "ORD1104",
+    "customer_id": "C042",
+    "order_date": "2026-06-24",
+    "status": "delivered",
+    "payment_method": "Cash on Delivery",
+    "discount_pct": 10,
+    "shipping": {
+      "city": "Delhi",
+      "cost": 0
+    },
+    "items": [
+      {
+        "product": "Cotton T-Shirt",
+        "category": "Fashion",
+        "quantity": 3,
+        "unit_price": 599
+      },
+      {
+        "product": "USB-C Cable",
+        "category": "Electronics",
+        "quantity": 3,
+        "unit_price": 349
+      },
+      {
+        "product": "Water Bottle",
+        "category": "Home",
+        "quantity": 3,
+        "unit_price": 399
+      }
+    ]
+  },
+  {
+    "order_id": "ORD1105",
+    "customer_id": "C024",
+    "order_date": "2026-05-13",
+    "status": "delivered",
+    "payment_method": "Credit Card",
+    "discount_pct": 0,
+    "shipping": {
+      "city": "Kozhikode",
+      "cost": 79
+    },
+    "items": [
+      {
+        "product": "Power Bank",
+        "category": "Electronics",
+        "quantity": 2,
+        "unit_price": 1799
+      }
+    ]
+  },
+  {
+    "order_id": "ORD1106",
+    "customer_id": "C055",
+    "order_date": "2025-12-11",
+    "status": "cancelled",
+    "payment_method": "Net Banking",
+    "discount_pct": 0,
+    "shipping": {
+      "city": "Hyderabad",
+      "cost": 49
+    },
+    "items": [
+      {
+        "product": "Statistics Basics",
+        "category": "Books",
+        "quantity": 3,
+        "unit_price": 699
+      },
+      {
+        "product": "Running Shoes",
+        "category": "Fashion",
+        "quantity": 3,
+        "unit_price": 2999
+      },
+      {
+        "product": "Cap",
+        "category": "Fashion",
+        "quantity": 1,
+        "unit_price": 349
+      }
+    ]
+  },
+  {
+    "order_id": "ORD1107",
+    "customer_id": "C011",
+    "order_date": "2025-06-19",
+    "status": "shipped",
+    "payment_method": "UPI",
+    "discount_pct": 5,
+    "shipping": {
+      "city": "Delhi",
+      "cost": 49
+    },
+    "items": [
+      {
+        "product": "Backpack",
+        "category": "Home",
+        "quantity": 3,
+        "unit_price": 1599
+      }
+    ]
+  },
+  {
+    "order_id": "ORD1108",
+    "customer_id": "C029",
+    "order_date": "2026-07-01",
+    "status": "delivered",
+    "payment_method": "Cash on Delivery",
+    "discount_pct": 0,
+    "shipping": {
+      "city": "Delhi",
+      "cost": 99
+    },
+    "items": [
+      {
+        "product": "Running Shoes",
+        "category": "Fashion",
+        "quantity": 2,
+        "unit_price": 2999
+      },
+      {
+        "product": "Backpack",
+        "category": "Home",
+        "quantity": 1,
+        "unit_price": 1599
+      }
+    ]
+  },
+  {
+    "order_id": "ORD1109",
+    "customer_id": "C030",
+    "order_date": "2025-07-24",
+    "status": "shipped",
+    "payment_method": "Credit Card",
+    "discount_pct": 0,
+    "shipping": {
+      "city": "Kochi",
+      "cost": 99
+    },
+    "items": [
+      {
+        "product": "Running Shoes",
+        "category": "Fashion",
+        "quantity": 3,
+        "unit_price": 2999
+      },
+      {
+        "product": "Deep Learning Book",
+        "category": "Books",
+        "quantity": 2,
+        "unit_price": 1499
+      },
+      {
+        "product": "Statistics Basics",
+        "category": "Books",
+        "quantity": 1,
+        "unit_price": 699
+      }
+    ]
+  },
+  {
+    "order_id": "ORD1110",
+    "customer_id": "C056",
+    "order_date": "2026-06-13",
+    "status": "cancelled",
+    "payment_method": "Debit Card",
+    "discount_pct": 0,
+    "shipping": {
+      "city": "Bengaluru",
+      "cost": 79
+    },
+    "items": [
+      {
+        "product": "Cap",
+        "category": "Fashion",
+        "quantity": 1,
+        "unit_price": 349
+      }
+    ]
+  },
+  {
+    "order_id": "ORD1111",
+    "customer_id": "C029",
+    "order_date": "2025-12-24",
+    "status": "returned",
+    "payment_method": "Cash on Delivery",
+    "discount_pct": 0,
+    "shipping": {
+      "city": "Hyderabad",
+      "cost": 79
+    },
+    "items": [
+      {
+        "product": "USB-C Cable",
+        "category": "Electronics",
+        "quantity": 1,
+        "unit_price": 349
+      },
+      {
+        "product": "Cotton T-Shirt",
+        "category": "Fashion",
+        "quantity": 1,
+        "unit_price": 599
+      },
+      {
+        "product": "Deep Learning Book",
+        "category": "Books",
+        "quantity": 2,
+        "unit_price": 1499
+      }
+    ]
+  },
+  {
+    "order_id": "ORD1112",
+    "customer_id": "C016",
+    "order_date": "2025-08-18",
+    "status": "delivered",
+    "payment_method": "UPI",
+    "discount_pct": 15,
+    "shipping": {
+      "city": "Delhi",
+      "cost": 49
+    },
+    "items": [
+      {
+        "product": "Bluetooth Speaker",
+        "category": "Electronics",
+        "quantity": 2,
+        "unit_price": 2499
+      }
+    ]
+  },
+  {
+    "order_id": "ORD1113",
+    "customer_id": "C009",
+    "order_date": "2025-05-23",
+    "status": "shipped",
+    "payment_method": "Cash on Delivery",
+    "discount_pct": 5,
+    "shipping": {
+      "city": "Kochi",
+      "cost": 0
+    },
+    "items": [
+      {
+        "product": "Cap",
+        "category": "Fashion",
+        "quantity": 2,
+        "unit_price": 349
+      }
+    ]
+  },
+  {
+    "order_id": "ORD1114",
+    "customer_id": "C002",
+    "order_date": "2026-07-16",
+    "status": "returned",
+    "payment_method": "Net Banking",
+    "discount_pct": 10,
+    "shipping": {
+      "city": "Hyderabad",
+      "cost": 0
+    },
+    "items": [
+      {
+        "product": "Cotton T-Shirt",
+        "category": "Fashion",
+        "quantity": 1,
+        "unit_price": 599
+      }
+    ]
+  },
+  {
+    "order_id": "ORD1115",
+    "customer_id": "C050",
+    "order_date": "2025-02-18",
+    "status": "delivered",
+    "payment_method": "Net Banking",
+    "discount_pct": 5,
+    "shipping": {
+      "city": "Kozhikode",
+      "cost": 0
+    },
+    "items": [
+      {
+        "product": "Earbuds",
+        "category": "Electronics",
+        "quantity": 1,
+        "unit_price": 1999
+      }
+    ]
+  },
+  {
+    "order_id": "ORD1116",
+    "customer_id": "C054",
+    "order_date": "2025-09-05",
+    "status": "shipped",
+    "payment_method": "Debit Card",
+    "discount_pct": 5,
+    "shipping": {
+      "city": "Kochi",
+      "cost": 79
+    },
+    "items": [
+      {
+        "product": "Desk Lamp",
+        "category": "Home",
+        "quantity": 3,
+        "unit_price": 1199
+      },
+      {
+        "product": "Statistics Basics",
+        "category": "Books",
+        "quantity": 3,
+        "unit_price": 699
+      },
+      {
+        "product": "Wireless Mouse",
+        "category": "Electronics",
+        "quantity": 3,
+        "unit_price": 799
+      }
+    ]
+  },
+  {
+    "order_id": "ORD1117",
+    "customer_id": "C016",
+    "order_date": "2026-06-21",
+    "status": "returned",
+    "payment_method": "UPI",
+    "discount_pct": 10,
+    "shipping": {
+      "city": "Thrissur",
+      "cost": 0
+    },
+    "items": [
+      {
+        "product": "USB-C Cable",
+        "category": "Electronics",
+        "quantity": 3,
+        "unit_price": 349
+      },
+      {
+        "product": "Water Bottle",
+        "category": "Home",
+        "quantity": 1,
+        "unit_price": 399
+      }
+    ]
+  },
+  {
+    "order_id": "ORD1118",
+    "customer_id": "C025",
+    "order_date": "2025-01-17",
+    "status": "delivered",
+    "payment_method": "UPI",
+    "discount_pct": 0,
+    "shipping": {
+      "city": "Chennai",
+      "cost": 0
+    },
+    "items": [
+      {
+        "product": "Wireless Mouse",
+        "category": "Electronics",
+        "quantity": 2,
+        "unit_price": 799
+      },
+      {
+        "product": "Water Bottle",
+        "category": "Home",
+        "quantity": 2,
+        "unit_price": 399
+      },
+      {
+        "product": "Deep Learning Book",
+        "category": "Books",
+        "quantity": 3,
+        "unit_price": 1499
+      }
+    ]
+  },
+  {
+    "order_id": "ORD1119",
+    "customer_id": "C050",
+    "order_date": "2025-12-27",
+    "status": "delivered",
+    "payment_method": "Credit Card",
+    "discount_pct": 15,
+    "shipping": {
+      "city": "Pune",
+      "cost": 99
+    },
+    "items": [
+      {
+        "product": "Running Shoes",
+        "category": "Fashion",
+        "quantity": 1,
+        "unit_price": 2999
+      },
+      {
+        "product": "Python Crash Course",
+        "category": "Books",
+        "quantity": 1,
+        "unit_price": 899
+      }
+    ]
+  },
+  {
+    "order_id": "ORD1120",
+    "customer_id": "C041",
+    "order_date": "2026-04-14",
+    "status": "delivered",
+    "payment_method": "Credit Card",
+    "discount_pct": 0,
+    "shipping": {
+      "city": "Chennai",
+      "cost": 0
+    },
+    "items": [
+      {
+        "product": "USB-C Cable",
+        "category": "Electronics",
+        "quantity": 1,
+        "unit_price": 349
+      }
+    ]
+  }
+]
