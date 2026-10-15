@@ -19,6 +19,15 @@ A daily log tracking concepts learned, notebooks practiced, code written, and ke
 ## 📝 Daily Entries
 
 ### 📅 Entry — 2026-10-15
+- **Topic / Focus:** "Matplotlib Fundementals"
+- **Files Updated:**
+  - `Pyhton Basics/Week3/MatPlotLib/matplotlib_grids.ipynb`
+  - `Pyhton Basics/Week3/MatPlotLib/matplotlib_bar_charts.ipynb`
+  - `Pyhton Basics/Week3/MatPlotLib/matplotlib_pie_charts.ipynb`
+  - `Pyhton Basics/Week3/MatPlotLib/scatter_plots.ipynb`
+---
+
+### 📅 Entry — 2026-10-15
 - **Topic / Focus:** "Matplotlib Fundemantals and Chart"
 - **Files Updated:**
   - `Pyhton Basics/Week3/MatPlotLib/matplotlib_intro.ipynb`
