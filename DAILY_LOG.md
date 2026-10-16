@@ -18,6 +18,146 @@ A daily log tracking concepts learned, notebooks practiced, code written, and ke
 
 ## 📝 Daily Entries
 
+### 📅 Entry — 2026-10-16
+- **Topic / Focus:** "Practicing Pandas,Matplotlib"
+- **Files Updated:**
+  - `Pyhton Basics/Week 1/1 to 10 using for loop.py`
+  - `Pyhton Basics/Week 1/Conditions.py`
+  - `Pyhton Basics/Week 1/Count how many even numbers are in a list.py`
+  - `Pyhton Basics/Week 1/Create a list of 5 fruits and print the whole list..py`
+  - `Pyhton Basics/Week 1/Create a list of 5 marks and print each one with its position, like Mark 1 is 85.py`
+  - `Pyhton Basics/Week 1/Find the sum of all numbers from 1 to 100..py`
+  - `Pyhton Basics/Week 1/Print all even numbers from 1 to 20..py`
+  - `Pyhton Basics/Week 1/Print numbers from 1 to 10 using a while loop..py`
+  - `Pyhton Basics/Week 1/Print the first and last fruit from that list using indexing.py`
+  - `Pyhton Basics/Week 1/Start with an empty list. Keep asking the user for items and append them until they type stop. Then print the final list.py`
+  - `Pyhton Basics/Week 1/Statement.py`
+  - `Pyhton Basics/Week 1/Take a number and print Positive only if it is greater than 0..py`
+  - `Pyhton Basics/Week 1/Take a person's age and print You can vote if they are 18 or older.py`
+  - `Pyhton Basics/Week 1/Using extend() Method.py`
+  - `Pyhton Basics/Week 1/Write a function that takes a number and prints its multiplication table (1 to 10).py`
+  - `Pyhton Basics/Week 1/Write a function that takes two numbers and prints their sum.py`
+  - `Pyhton Basics/Week 1/arithmetic_operations.ipynb`
+  - `Pyhton Basics/Week 1/data_types.ipynb`
+  - `Pyhton Basics/Week 1/find the area and perimeter of a rectangle.py`
+  - `Pyhton Basics/Week 1/floor division operator and modular.py`
+  - `Pyhton Basics/Week 1/for_loop.ipynb`
+  - `Pyhton Basics/Week 1/function.py`
+  - `Pyhton Basics/Week 1/grades.py`
+  - `Pyhton Basics/Week 1/hello.ipynb`
+  - `Pyhton Basics/Week 1/if else.py`
+  - `Pyhton Basics/Week 1/if_else_elif.ipynb`
+  - `Pyhton Basics/Week 1/input and output.py`
+  - `Pyhton Basics/Week 1/input two values and print their sum.py`
+  - `Pyhton Basics/Week 1/input-and-output.ipynb`
+  - `Pyhton Basics/Week 1/list append,sum,alrgest,smallest.py`
+  - `Pyhton Basics/Week 1/list until 0 and print.py`
+  - `Pyhton Basics/Week 1/list using append.py`
+  - `Pyhton Basics/Week 1/list.py`
+  - `Pyhton Basics/Week 1/logical_problems_with_python.ipynb`
+  - `Pyhton Basics/Week 1/login mini programm.py`
+  - `Pyhton Basics/Week 1/loop login.py`
+  - `Pyhton Basics/Week 1/loop.py`
+  - `Pyhton Basics/Week 1/password function.py`
+  - `Pyhton Basics/Week 1/pattern1 using while.py`
+  - `Pyhton Basics/Week 1/pattern2 while.py`
+  - `Pyhton Basics/Week 1/pattern3 while.py`
+  - `Pyhton Basics/Week 1/print 10 to1 in backward .py`
+  - `Pyhton Basics/Week 1/print pattern with star.py`
+  - `Pyhton Basics/Week 1/review week1.ipynb`
+  - `Pyhton Basics/Week 1/test.ipynb`
+  - `Pyhton Basics/Week 1/while_loop.ipynb`
+  - `Pyhton Basics/Week 2/07_modules_packages/07_imports_packages_and_environment.ipynb`
+  - `Pyhton Basics/Week 2/07_modules_packages/arithmetic_operations_module.ipynb`
+  - `Pyhton Basics/Week 2/07_modules_packages/arithmetic_operations_module.py`
+  - `Pyhton Basics/Week 2/07_modules_packages/datetime.py`
+  - `Pyhton Basics/Week 2/07_modules_packages/dictionary.ipynb`
+  - `Pyhton Basics/Week 2/07_modules_packages/helpers/__init__.py`
+  - `Pyhton Basics/Week 2/07_modules_packages/helpers/number_tools.py`
+  - `Pyhton Basics/Week 2/07_modules_packages/helpers/text_tools.py`
+  - `Pyhton Basics/Week 2/07_modules_packages/identation.ipynb`
+  - `Pyhton Basics/Week 2/Week_2_Revision.ipynb/Class/classes.ipynb`
+  - `Pyhton Basics/Week 2/Week_2_Revision.ipynb/Exam_Practice/Exam_practice.ipynb`
+  - `Pyhton Basics/Week 2/Week_2_Revision.ipynb/Exam_Practice/Fayas.txt`
+  - `Pyhton Basics/Week 2/Week_2_Revision.ipynb/Execption_Handling.ipynb/expection_handling.ipynb`
+  - `Pyhton Basics/Week 2/Week_2_Revision.ipynb/File_Handling/Afnan.txt`
+  - `Pyhton Basics/Week 2/Week_2_Revision.ipynb/File_Handling/Alien.txt`
+  - `Pyhton Basics/Week 2/Week_2_Revision.ipynb/File_Handling/Fayas.csv`
+  - `Pyhton Basics/Week 2/Week_2_Revision.ipynb/File_Handling/Fayas.txt`
+  - `Pyhton Basics/Week 2/Week_2_Revision.ipynb/File_Handling/faah.txt`
+  - `Pyhton Basics/Week 2/Week_2_Revision.ipynb/File_Handling/file_handling.ipynb`
+  - `Pyhton Basics/Week 2/Week_2_Revision.ipynb/File_Handling/students.csv`
+  - `Pyhton Basics/Week 2/Week_2_Revision.ipynb/small_project_test/main.py`
+  - `Pyhton Basics/Week 2/Week_2_Revision.ipynb/small_project_test/utils/__init__.py`
+  - `Pyhton Basics/Week 2/Week_2_Revision.ipynb/small_project_test/utils/file_tools.py`
+  - `Pyhton Basics/Week 2/data/passed_students.csv`
+  - `Pyhton Basics/Week 2/data/practice_note.txt`
+  - `Pyhton Basics/Week 2/data/profile.json`
+  - `Pyhton Basics/Week 2/data/sales.csv`
+  - `Pyhton Basics/Week 2/data/sales_report.txt`
+  - `Pyhton Basics/Week 2/data/students.csv`
+  - `Pyhton Basics/Week 2/practical practice/00_workspace_and_style.ipynb`
+  - `Pyhton Basics/Week 2/practical practice/01_variables_input_output.ipynb`
+  - `Pyhton Basics/Week 2/practical practice/02_conditions_loops_and_logic.ipynb`
+  - `Pyhton Basics/Week 2/practical practice/03_lists_tuples_sets_dictionaries.ipynb`
+  - `Pyhton Basics/Week 2/practical practice/04_functions_parameters_returns_scope.ipynb`
+  - `Pyhton Basics/Week 2/practical practice/05_text_csv_json_files.ipynb`
+  - `Pyhton Basics/Week 2/practical practice/06_robust_programs.ipynb`
+  - `Pyhton Basics/Week 2/practical practice/08_oop_classes_inheritance.ipynb`
+  - `Pyhton Basics/Week 2/practical practice/09_comprehensions_lambda_and_loop_controls.ipynb`
+  - `Pyhton Basics/Week 2/practical practice/10_iterators_generators_decorators.ipynb`
+  - `Pyhton Basics/Week 2/practical practice/11_number_string_collection_problems.ipynb`
+  - `Pyhton Basics/Week 2/practical practice/12_ai_explain_debug_refactor_review.ipynb`
+  - `Pyhton Basics/Week 2/practical practice/13_sales_report_mini_project.ipynb`
+  - `Pyhton Basics/Week 2/practical practice/Decorators.ipynb`
+  - `Pyhton Basics/Week 2/practical practice/Dict_comprehension.ipynb`
+  - `Pyhton Basics/Week 2/practical practice/List_Comprehansion.ipynb`
+  - `Pyhton Basics/Week 2/practical practice/Number-based problems.ipynb`
+  - `Pyhton Basics/Week 2/practical practice/Oop.ipynb`
+  - `Pyhton Basics/Week 2/practical practice/abstract_demo.ipynb`
+  - `Pyhton Basics/Week 2/practical practice/class_object.ipynb`
+  - `Pyhton Basics/Week 2/practical practice/inheritance.ipynb`
+  - `Pyhton Basics/Week 2/practical practice/lambda_functions.ipynb`
+  - `Pyhton Basics/Week 2/practical practice/multiple_inheritance.ipynb`
+  - `Pyhton Basics/Week 2/practical practice/poly.ipynb`
+  - `Pyhton Basics/Week 2/practical practice/scope.ipynb`
+  - `Pyhton Basics/Week3/MatPlotLib/matplot_marker.ipynb`
+  - `Pyhton Basics/Week3/MatPlotLib/matplotlib_bar_charts.ipynb`
+  - `Pyhton Basics/Week3/MatPlotLib/matplotlib_grids.ipynb`
+  - `Pyhton Basics/Week3/MatPlotLib/matplotlib_intro.ipynb`
+  - `Pyhton Basics/Week3/MatPlotLib/matplotlib_labels.ipynb`
+  - `Pyhton Basics/Week3/MatPlotLib/matplotlib_linestyle.ipynb`
+  - `Pyhton Basics/Week3/MatPlotLib/matplotlib_pie_charts.ipynb`
+  - `Pyhton Basics/Week3/MatPlotLib/scatter_plots.ipynb`
+  - `Pyhton Basics/Week3/NumPy/100_Numpy_exercises.ipynb`
+  - `Pyhton Basics/Week3/NumPy/array_indexing.ipynb`
+  - `Pyhton Basics/Week3/NumPy/array_slicing.ipynb`
+  - `Pyhton Basics/Week3/NumPy/intro_numpy.ipynb`
+  - `Pyhton Basics/Week3/NumPy/introduction_numpy.ipynb`
+  - `Pyhton Basics/Week3/NumPy/num_practice3.ipynb`
+  - `Pyhton Basics/Week3/NumPy/numpy_Broadcasting .ipynb`
+  - `Pyhton Basics/Week3/NumPy/numpy_Practice2.ipynb`
+  - `Pyhton Basics/Week3/NumPy/numpy_array.ipynb`
+  - `Pyhton Basics/Week3/NumPy/numpy_practice.ipynb`
+  - `Pyhton Basics/Week3/NumPy/numpy_practicee.ipynb`
+  - `Pyhton Basics/Week3/NumPy/random_numpy.ipynb`
+  - `Pyhton Basics/Week3/NumPy/shape_manipulation.ipynb`
+  - `Pyhton Basics/Week3/Pandas/Pokemone.json`
+  - `Pyhton Basics/Week3/Pandas/customers.csv`
+  - `Pyhton Basics/Week3/Pandas/data_cleaning_using_data.ipynb`
+  - `Pyhton Basics/Week3/Pandas/orders.json`
+  - `Pyhton Basics/Week3/Pandas/pandas_aggregation.ipynb`
+  - `Pyhton Basics/Week3/Pandas/pandas_dataframes.ipynb`
+  - `Pyhton Basics/Week3/Pandas/pandas_filtering.ipynb`
+  - `Pyhton Basics/Week3/Pandas/pandas_import_data.ipynb`
+  - `Pyhton Basics/Week3/Pandas/pandas_intro.ipynb`
+  - `Pyhton Basics/Week3/Pandas/pokemone.csv`
+  - `Pyhton Basics/Week3/Pandas/practicing/practice1.ipynb`
+  - `Pyhton Basics/Week3/Titanic-Dataset.csv`
+  - `Pyhton Basics/python login/index.html`
+  - `Learning/`
+---
+
 ### 📅 Entry — 2026-10-15
 - **Topic / Focus:** "Matplotlib Fundementals"
 - **Files Updated:**
