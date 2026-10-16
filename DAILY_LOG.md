@@ -19,6 +19,12 @@ A daily log tracking concepts learned, notebooks practiced, code written, and ke
 ## 📝 Daily Entries
 
 ### 📅 Entry — 2026-10-16
+- **Topic / Focus:** "Matplotlib BoxPlot Practicing"
+- **Files Updated:**
+  - `Learning/Week3/MatPlotLib/matplotlib_barplots.ipynb`
+---
+
+### 📅 Entry — 2026-10-16
 - **Topic / Focus:** "Practicing Pandas,Matplotlib"
 - **Files Updated:**
   - `Pyhton Basics/Week 1/1 to 10 using for loop.py`
