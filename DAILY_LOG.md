@@ -19,6 +19,13 @@ A daily log tracking concepts learned, notebooks practiced, code written, and ke
 ## 📝 Daily Entries
 
 ### 📅 Entry — 2026-10-17
+- **Topic / Focus:** "Practicing_data_processing_and_handling"
+- **Files Updated:**
+  - `Learning/Week3/Week 3 Practice/Dataset_Inspection.ipynb`
+  - `Learning/Week3/Week 3 Practice/practicing_pandas.ipynb`
+---
+
+### 📅 Entry — 2026-10-17
 - **Topic / Focus:** "Practicing_Pandas"
 - **Files Updated:**
   - `Learning/Week3/Data Inspection/`
