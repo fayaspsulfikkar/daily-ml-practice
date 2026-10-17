@@ -18,6 +18,14 @@ A daily log tracking concepts learned, notebooks practiced, code written, and ke
 
 ## 📝 Daily Entries
 
+### 📅 Entry — 2026-10-17
+- **Topic / Focus:** "Practicing_Pandas"
+- **Files Updated:**
+  - `Learning/Week3/Data Inspection/`
+  - `Learning/Week3/Housing.csv`
+  - `Learning/Week3/Week 3 Practice/pandas_practicing.ipynb`
+---
+
 ### 📅 Entry — 2026-10-16
 - **Topic / Focus:** "Matplotlib BoxPlot Practicing"
 - **Files Updated:**
