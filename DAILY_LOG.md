@@ -19,6 +19,15 @@ A daily log tracking concepts learned, notebooks practiced, code written, and ke
 ## 📝 Daily Entries
 
 ### 📅 Entry — 2026-10-18
+- **Topic / Focus:** "Final Practicing for Week 3"
+- **Files Updated:**
+  - `Learning/Week3/Final_practicing.ipynb`
+  - `Learning/Week3/Housing.csv`
+  - `Learning/Week3/MatPlotLib/matplotlib_barplots.ipynb`
+  - `Learning/Week3/final_practicing_2.ipynb`
+---
+
+### 📅 Entry — 2026-10-18
 - **Topic / Focus:** "Final Practicing for Week3"
 - **Files Updated:**
   - `Learning/Week3/MatPlotLib/matplotlib_histogram.ipynb`
