@@ -11,8 +11,7 @@ A daily log tracking concepts learned, notebooks practiced, code written, and ke
 | **Week 1** | Python Fundamentals | ✅ Completed | Syntax, conditions, loops, functions, lists, basic logic |
 | **Week 2** | Intermediate Python & OOP | ✅ Completed | OOP, list comprehensions, lambda, modules, packages |
 | **Week 3** | Data Analysis & Visualization | 🔄 In Progress | NumPy, Pandas, Matplotlib, Titanic EDA |
-| **Week 4** | Advanced Data Prep & EDA | ⏳ Upcoming | Feature engineering, Seaborn, exploratory data analysis |
-| **Week 5+**| Machine Learning Core | ⏳ Upcoming | Scikit-learn, regression, classification, pipelines |
+
 
 ---
 
