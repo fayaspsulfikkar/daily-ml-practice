@@ -18,6 +18,12 @@ A daily log tracking concepts learned, notebooks practiced, code written, and ke
 
 ## 📝 Daily Entries
 
+### 📅 Entry — 2026-10-19
+- **Topic / Focus:** "Practicing and Revisioning Before Review"
+- **Files Updated:**
+  - `Learning/Week3/final_practicing_2.ipynb`
+---
+
 ### 📅 Entry — 2026-10-18
 - **Topic / Focus:** "Final Practicing for Week 3"
 - **Files Updated:**
