@@ -19,6 +19,13 @@ A daily log tracking concepts learned, notebooks practiced, code written, and ke
 ## 📝 Daily Entries
 
 ### 📅 Entry — 2026-10-19
+- **Topic / Focus:** "Practiced Level 3 -- Upper-Intermediate of Review Revision."
+- **Files Updated:**
+  - `Learning/Week3/Data Inspection/data_inspection_basics.ipynb`
+  - `Learning/Week3/final_practicing_2.ipynb`
+---
+
+### 📅 Entry — 2026-10-19
 - **Topic / Focus:** "Practicing Mulptiple Combined Questions"
 - **Files Updated:**
   - `Learning/Week3/final_practicing_2.ipynb`
