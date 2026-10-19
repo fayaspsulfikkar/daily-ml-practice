@@ -26,9 +26,6 @@ Welcome to my personal Machine Learning & Python learning repository! This repo 
 | **Week 1** | **Python Core Fundamentals** | Syntax, Data Types, If-Else, Loops, Functions, Lists | ✅ Completed |
 | **Week 2** | **Intermediate Python & OOP** | OOP (Classes/Objects), Comprehensions, Lambda, Modules & Packages | ✅ Completed |
 | **Week 3** | **Data Science Foundation** | NumPy Matrices, Pandas DataFrames, Matplotlib Visuals, Titanic EDA | 🔄 In Progress |
-| **Week 4** | **Exploratory Data Analysis** | Seaborn, Data Cleaning, Missing Values, Feature Engineering | ⏳ Upcoming |
-| **Week 5** | **Supervised Learning Basics** | Linear Regression, Logistic Regression, Scikit-learn Pipelines | ⏳ Upcoming |
-| **Week 6** | **Tree-Based Models & Tuning** | Decision Trees, Random Forests, Hyperparameter Tuning | ⏳ Upcoming |
 
 ---
 
