@@ -17,6 +17,14 @@ A daily log tracking concepts learned, notebooks practiced, code written, and ke
 
 ## 📝 Daily Entries
 
+### 📅 Entry — 2026-10-20
+- **Topic / Focus:** "Started Week 4 and Updated Previous Week's Review Feedback"
+- **Files Updated:**
+  - `Exam_Reviews/Week2/Week 2 Exam Feedback .png`
+  - `Exam_Reviews/Week3/Week 3 Exam Feedback .png`
+  - `Learning/Week 4/`
+---
+
 ### 📅 Entry — 2026-10-19
 - **Topic / Focus:** "Week 3 Review Completed"
 - **Files Updated:**
