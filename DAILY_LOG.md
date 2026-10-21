@@ -17,6 +17,12 @@ A daily log tracking concepts learned, notebooks practiced, code written, and ke
 
 ## 📝 Daily Entries
 
+### 📅 Entry — 2026-10-21
+- **Topic / Focus:** "Week 4: Mathematics, Statistics & Probability"
+- **Files Updated:**
+  - `Learning/Week 4/trial_graph.ipynb`
+---
+
 ### 📅 Entry — 2026-10-20
 - **Topic / Focus:** "Started Week 4 and Updated Previous Week's Review Feedback"
 - **Files Updated:**
