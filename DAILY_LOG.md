@@ -18,6 +18,16 @@ A daily log tracking concepts learned, notebooks practiced, code written, and ke
 ## 📝 Daily Entries
 
 ### 📅 Entry — 2026-10-21
+- **Topic / Focus:** "Basic Satistics"
+- **Files Updated:**
+  - `Learning/Week 4/trial_graph.ipynb`
+  - `Learning/Week3/customers.csv`
+  - `Learning/Week 4/Stati/`
+  - `Learning/Week 4/customers.csv`
+  - `Learning/Week 4/statistics_fundamentals_practice.csv`
+---
+
+### 📅 Entry — 2026-10-21
 - **Topic / Focus:** "Week 4: Mathematics, Statistics & Probability"
 - **Files Updated:**
   - `Learning/Week 4/trial_graph.ipynb`

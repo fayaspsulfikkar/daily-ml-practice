@@ -1,0 +1,241 @@
+student_id,age_years,gender,city,education_level,study_hours_daily,screen_time_hours_daily,sleep_hours_daily,attendance_pct,practice_quizzes_completed,intervention_group,pre_test_score,post_test_score,exam_score,commute_minutes,monthly_spending_inr
+S001,20,Other,Kochi,Postgraduate,2.2,2.5,4.7,64,7,Workshop,39.3,46.3,45.2,17,931
+S002,23,Male,Kannur,Undergraduate,3.9,3.8,5.4,83,2,Control,52.9,57.9,52.8,34,1362
+S003,26,Female,Wayanad,Diploma,5.6,5.1,6.1,46,9,Workshop,66.4,79.4,60.7,51,1793
+S004,19,Other,Thrissur,Higher Secondary,7.3,6.4,6.8,65,4,Control,80,81,68.3,68,2224
+S005,22,Male,Other,Postgraduate,1.4,7.7,7.5,84,11,Workshop,82.1,91.1,59.8,85,2655
+S006,25,Female,Kozhikode,Undergraduate,3.1,9,8.2,47,6,Control,34.6,41.6,53.3,102,3086
+S007,18,Other,Kochi,Diploma,4.8,1.4,8.9,66,1,Workshop,48.2,53.2,60.9,119,3517
+S008,21,Male,Kannur,Higher Secondary,6.5,2.7,4.5,85,8,Control,61.8,64.8,82.8,15,3948
+S009,24,Female,Wayanad,Postgraduate,0.6,4,5.2,48,3,Workshop,63.9,74.9,46,32,4379
+S010,17,Other,Thrissur,Undergraduate,2.3,5.3,5.9,67,10,Control,77.5,76.5,68,49,4810
+S011,20,Male,Other,Diploma,4,6.6,6.6,86,5,Workshop,91,98,54.5,66,5241
+S012,23,Female,Kozhikode,Higher Secondary,5.7,7.9,7.3,49,0,Control,43.5,48.5,48,83,5672
+S013,-4,Other,Kochi,Postgraduate,7.4,9.2,8,68,7,Workshop,57.1,70.1,70,100,6103
+S014,19,Male,Kannur,Undergraduate,1.5,1.6,8.7,87,2,Control,59.3,60.3,47.1,117,6534
+S015,22,Female,Wayanad,Diploma,3.2,2.9,4.3,50,9,Workshop,72.8,81.8,55.1,13,6965
+S016,25,Other,Thrissur,Higher Secondary,4.9,4.2,5,69,4,Control,86.3,93.3,62.7,30,7396
+S017,18,Male,Other,Postgraduate,6.6,5.5,5.7,88,11,Workshop,38.9,43.9,84.6,47,7827
+S018,21,Female,Kozhikode,Undergraduate,0.7,6.8,6.4,51,6,Control,41,44,47.8,64,758
+S019,24,Other,Kochi,Diploma,2.4,8.1,7.1,70,1,Workshop,54.6,65.6,55.3,81,1189
+S020,17,Male,Kannur,Higher Secondary,4.1,9.4,7.8,89,8,Control,68.2,67.2,77.3,98,1620
+S021,20,Female,Wayanad,Postgraduate,5.8,1.8,8.5,52,3,Workshop,81.7,88.7,49.8,115,2051
+S022,23,Other,Thrissur,Undergraduate,7.5,3.1,4.1,71,10,Control,95.3,100,71.8,11,2482
+S023,26,Male,Other,Diploma,1.6,4.4,4.8,90,5,Workshop,36.4,49.4,48.9,28,2913
+S024,19,Female,Kozhikode,Higher Secondary,3.3,5.7,5.5,53,0,Control,50,51,42.5,45,3344
+S025,22,Other,Kochi,Postgraduate,5,7,6.2,72,7,Workshop,63.5,72.5,64.4,62,3775
+S026,25,Male,Kannur,Undergraduate,6.7,8.3,6.9,91,2,Control,77,84,72,79,4206
+S027,18,Female,Wayanad,Diploma,0.8,9.6,7.6,54,9,Workshop,79.2,84.2,49.5,96,4637
+S028,21,Other,Thrissur,Higher Secondary,2.5,2,8.3,73,4,Control,31.8,34.8,57,113,5068
+S029,24,Male,Other,Postgraduate,4.2,3.3,9,92,11,Workshop,45.3,56.3,79,9,5499
+S030,17,Female,Kozhikode,Undergraduate,5.9,4.6,4.6,55,6,Control,58.9,57.9,72.5,26,5930
+S031,20,Other,Kochi,Diploma,7.6,5.9,5.3,74,1,Workshop,72.4,79.4,80.1,43,6361
+S032,23,Male,Kannur,Higher Secondary,1.7,7.2,6,93,8,Control,74.5,79.5,50.6,60,6792
+S033,26,Female,Wayanad,Postgraduate,3.4,8.5,6.7,56,3,Workshop,88.1,100,44.2,77,7223
+S034,19,Other,Thrissur,Undergraduate,5.1,9.8,7.4,75,10,Control,40.6,41.6,66.2,94,7654
+S035,22,Male,Other,Diploma,6.8,2.2,8.1,94,5,Workshop,54.2,63.2,73.7,111,585
+S036,25,Female,Kozhikode,Higher Secondary,0.9,3.5,8.8,57,0,Control,56.4,63.4,36.9,7,1016
+S037,,Other,Kochi,Postgraduate,2.6,4.8,4.4,76,7,Workshop,69.9,74.9,58.8,24,1447
+S038,21,Male,Kannur,Undergraduate,4.3,6.1,5.1,95,2,Control,83.5,86.5,66.3,41,1878
+S039,24,Female,Wayanad,Diploma,6,7.4,5.8,58,9,Workshop,36,47,74.3,58,2309
+S040,17,Other,Thrissur,Higher Secondary,7.7,8.7,6.5,77,4,Control,49.5,48.5,81.8,75,2740
+S041,20,Male,,Postgraduate,1.8,10,7.2,96,11,Workshop,51.7,58.7,73.4,92,3171
+S042,23,Female,Kozhikode,Undergraduate,3.5,2.4,7.9,59,6,Control,65.3,70.3,46,109,3602
+S043,26,Other,Kochi,Diploma,5.2,3.7,8.6,78,1,Workshop,78.8,91.8,53.5,5,4033
+S044,19,Male,Kannur,Higher Secondary,6.9,5,4.2,97,8,Control,92.3,93.3,75.4,22,4464
+S045,22,Female,Wayanad,Postgraduate,1,6.3,4.9,60,3,Workshop,33.5,42.5,38.6,39,4895
+S046,25,Other,Thrissur,Undergraduate,2.7,7.6,5.6,79,10,Control,47,54,60.5,56,5326
+S047,18,Male,Other,Diploma,4.4,8.9,6.3,98,5,Workshop,60.6,65.6,68.1,73,5757
+S048,21,Female,Kozhikode,Higher Secondary,6.1,1.3,7,61,0,Control,74.2,77.2,61.7,90,6188
+S049,24,Other,Kochi,Postgraduate,7.8,2.6,7.7,80,7,Workshop,87.7,98.7,83.6,107,6619
+S050,17,Male,Kannur,Undergraduate,1.9,3.9,8.4,99,2,Control,28.9,27.9,60.8,3,7050
+S051,20,Female,Wayanad,Diploma,3.6,5.2,4,62,9,Workshop,42.4,49.4,68.7,20,7481
+S052,23,Other,Thrissur,Higher Secondary,5.3,6.5,4.7,81,4,Control,56,61,76.3,37,7912
+S053,26,Male,Other,Postgraduate,,7.8,5.4,100,11,Workshop,69.5,82.5,77.2,54,843
+S054,19,Female,Kozhikode,Undergraduate,1.1,9.1,6.1,63,6,Control,71.7,72.7,40.3,71,1274
+S055,22,Other,Kochi,Diploma,2.8,1.5,6.8,82,1,Workshop,85.2,94.2,47.9,88,1705
+S056,25,Male,Kannur,Higher Secondary,4.5,2.8,7.5,45,8,Control,37.8,44.8,55.8,105,2136
+S057,18,Female,Wayanad,Postgraduate,6.2,4.1,8.2,64,3,Workshop,51.3,56.3,63.4,1,2567
+S058,21,Other,Thrissur,Undergraduate,7.9,5.4,8.9,83,10,Control,64.8,67.8,85.3,18,2998
+S059,24,Male,Other,Diploma,2,6.7,4.5,46,5,Workshop,67,78,48.5,35,3429
+S060,17,Female,Kozhikode,Higher Secondary,3.7,8,5.2,65,0,Control,80.5,79.5,56,52,3860
+S061,20,Other,Kochi,Postgraduate,5.4,9.3,5.9,84,7,Workshop,33.1,40.1,78,69,4291
+S062,23,Male,Kannur,Undergraduate,7.1,1.7,6.6,47,2,Control,46.6,51.6,71.5,86,4722
+S063,26,Female,Wayanad,Diploma,1.2,3,7.3,66,9,Workshop,48.8,61.8,42.1,103,5153
+S064,19,Other,Thrissur,Higher Secondary,2.9,4.3,8,85,4,Control,62.4,63.4,49.6,120,5584
+S065,22,female,Other,Postgraduate,4.6,5.6,8.7,48,11,Workshop,75.9,84.9,57.6,16,6015
+S066,25,Female,Kozhikode,Undergraduate,6.3,6.9,4.3,67,6,Control,89.5,96.5,65.2,33,6446
+S067,18,Other,Kochi,Diploma,8,8.2,5,86,1,Workshop,42,47,72.7,50,6877
+S068,21,Male,Kannur,Higher Secondary,2.1,9.5,5.7,49,8,Control,44.1,47.1,50.3,67,7308
+S069,24,Female,Wayanad,Postgraduate,3.8,1.9,6.4,68,3,Workshop,57.7,68.7,57.8,84,7739
+S070,17,Other,Thrissur,Undergraduate,5.5,3.2,7.1,87,10,Control,71.3,70.3,79.8,101,670
+S071,20,Male,Other,Diploma,7.2,4.5,7.8,50,5,Workshop,84.8,91.8,73.3,118,1101
+S072,23,Female,Kozhikode,Higher Secondary,1.3,5.8,8.5,69,0,Control,87,92,50.5,14,1532
+S073,26,Other,Kochi,Postgraduate,3,7.1,4.1,88,7,Workshop,39.5,52.5,72.4,31,1963
+S074,,Male,Kannur,Undergraduate,4.7,8.4,4.8,51,2,Control,53,54,44.9,48,2394
+S075,22,Female,Wayanad,Diploma,6.4,9.7,5.5,70,9,Workshop,66.6,75.6,66.9,65,2825
+S076,25,Other,Thrissur,Higher Secondary,0.5,2.1,6.2,89,4,Control,68.8,75.8,44,82,3256
+S077,18,Male,Other,Postgraduate,2.2,3.4,6.9,52,11,Workshop,82.3,87.3,52,99,3687
+S078,21,Female,Kozhikode,Undergraduate,3.9,4.7,7.6,71,6,Control,34.9,37.9,59.5,116,4118
+S079,24,Other,Kochi,Diploma,5.6,6,8.3,90,1,Workshop,48.4,59.4,67.1,12,4549
+S080,17,Male,Kannur,Higher Secondary,7.3,7.3,9,53,8,Control,62,61,75,29,4980
+S081,20,Female,Wayanad,Postgraduate,1.4,8.6,4.6,72,3,Workshop,64.1,71.1,52.2,46,5411
+S082,23,Other,,Undergraduate,3.1,9.9,5.3,91,10,Control,77.7,82.7,74.2,63,5842
+S083,26,Male,Other,Diploma,4.8,2.3,6,54,5,Workshop,91.2,100,67.7,80,6273
+S084,19,Female,Kozhikode,Higher Secondary,6.5,3.6,6.7,73,0,Control,43.8,44.8,54.3,97,6704
+S085,22,Other,Kochi,Postgraduate,0.6,4.9,7.4,92,7,Workshop,45.9,54.9,45.8,114,7135
+S086,25,Male,Kannur,Undergraduate,2.3,6.2,8.1,55,2,Control,59.5,66.5,39.4,10,7566
+S087,18,Female,Wayanad,Diploma,4,7.5,8.8,74,9,Workshop,73,78,61.3,27,7997
+S088,21,Other,Thrissur,Higher Secondary,5.7,8.8,4.4,93,4,Control,86.5,89.5,68.8,44,928
+S089,125,Male,Other,Postgraduate,7.4,1.2,5.1,56,11,Workshop,39.1,50.1,125,61,1359
+S090,17,Female,Kozhikode,Undergraduate,1.5,2.5,5.8,75,6,Control,41.3,40.3,54,78,1790
+S091,20,Other,Kochi,Diploma,3.2,3.8,6.5,94,1,Workshop,54.8,61.8,61.5,95,2221
+S092,23,Male,Kannur,Higher Secondary,4.9,5.1,7.2,57,8,Control,68.3,73.3,69.5,112,2652
+S093,26,Female,Wayanad,Postgraduate,6.6,6.4,7.9,76,3,Workshop,81.9,94.9,77,8,3083
+S094,19,Other,Thrissur,Undergraduate,0.7,7.7,8.6,95,10,Control,84,85,68.5,25,3514
+S095,22,Male,Other,Diploma,2.4,9,4.2,58,5,Workshop,36.6,45.6,41.1,42,3945
+S096,25,Female,Kozhikode,Higher Secondary,4.1,1.4,4.9,77,0,Control,50.1,57.1,48.6,59,4376
+S097,18,Other,Kochi,Postgraduate,5.8,2.7,5.6,96,7,Workshop,63.7,68.7,70.6,76,4807
+S098,21,Male,Kannur,Undergraduate,7.5,4,6.3,59,2,Control,77.3,80.3,64.2,93,5238
+S099,24,Female,Wayanad,Diploma,1.6,5.3,7,78,9,Workshop,79.4,90.4,55.7,110,5669
+S100,17,Other,Thrissur,Higher Secondary,3.3,6.6,7.7,97,4,Control,31.9,30.9,63.3,6,6100
+S101,20,Male,Other,Postgraduate,5,7.9,8.4,60,11,Workshop,45.5,52.5,71.2,23,6531
+S102,23,Female,Kozhikode,Undergraduate,6.7,9.2,4,79,6,Control,59,64,78.8,40,6962
+S103,26,Other,Kochi,Diploma,0.8,1.6,4.7,98,1,Workshop,61.2,74.2,55.9,57,7393
+S104,19,Male,Kannur,Higher Secondary,2.5,2.9,5.4,61,8,Control,74.8,75.8,63.8,74,7824
+S105,22,Female,Wayanad,Postgraduate,4.2,4.2,6.1,80,3,Workshop,88.3,97.3,50.4,91,755
+S106,25,Other,Thrissur,Undergraduate,,5.5,6.8,99,10,Control,40.9,47.9,72.3,108,1186
+S107,18,Male,Other,Diploma,7.6,6.8,7.5,62,5,Workshop,54.4,59.4,65.9,4,1617
+S108,21,Female,Kozhikode,Higher Secondary,1.7,8.1,8.2,81,0,Control,56.5,59.5,43,21,2048
+S109,24,Other,Kochi,Postgraduate,3.4,9.4,8.9,100,7,Workshop,70.1,81.1,65,38,2479
+S110,17,Male,Kannur,Undergraduate,5.1,1.8,4.5,63,2,Control,83.7,82.7,58.5,55,2910
+S111,,Female,Wayanad,Diploma,6.8,3.1,5.2,82,9,Workshop,36.2,43.2,80.5,72,3341
+S112,23,Other,Thrissur,Higher Secondary,0.9,4.4,5.9,45,4,Control,38.4,43.4,43.6,89,3772
+S113,26,Male,Other,Postgraduate,2.6,5.7,6.6,64,11,Workshop,51.9,64.9,65.6,106,4203
+S114,19,Female,Kozhikode,Undergraduate,4.3,7,7.3,83,6,Control,65.5,66.5,73.2,2,4634
+S115,22,Other,Kochi,Diploma,6,8.3,8,46,1,Workshop,79,88,66.7,19,5065
+S116,25,Male,Kannur,Higher Secondary,7.7,9.6,8.7,65,8,Control,92.5,99.5,67.6,36,5496
+S117,18,Female,Wayanad,Postgraduate,1.8,2,4.3,84,3,Workshop,33.7,38.7,44.8,53,5927
+S118,21,Other,Thrissur,Undergraduate,3.5,3.3,5,47,10,Control,47.3,50.3,52.8,70,6358
+S119,24,Male,Other,Diploma,5.2,4.6,5.7,66,5,Workshop,60.8,71.8,60.3,87,6789
+S120,17,Female,Kozhikode,Higher Secondary,6.9,5.9,6.4,135,0,Control,74.3,73.3,67.8,104,7220
+S121,20,Other,Kochi,Postgraduate,1,7.2,7.1,48,7,Workshop,76.5,83.5,45.4,0,7651
+S122,23,Male,Kannur,Undergraduate,2.7,8.5,7.8,67,2,Control,29.1,34.1,52.9,17,582
+S123,26,Female,,Diploma,4.4,9.8,8.5,86,9,Workshop,42.6,55.6,74.9,34,1013
+S124,19,Other,Thrissur,Higher Secondary,6.1,2.2,4.1,49,4,Control,56.1,57.1,68.4,51,1444
+S125,22,Male,Other,Postgraduate,7.8,3.5,4.8,68,11,Workshop,69.7,78.7,90.4,68,1875
+S126,25,Female,Kozhikode,Undergraduate,1.9,4.8,5.5,87,6,Control,71.8,78.8,46.5,85,2306
+S127,18,Other,Kochi,Diploma,3.6,6.1,6.2,50,1,Workshop,85.4,90.4,40.1,102,2737
+S128,21,Male,Kannur,Higher Secondary,5.3,7.4,6.9,69,8,Control,38,41,62,119,3168
+S129,24,Female,Wayanad,Postgraduate,7,8.7,7.6,88,3,Workshop,51.5,62.5,69.6,15,3599
+S130,17,Other,Thrissur,Undergraduate,1.1,10,8.3,51,10,Control,53.6,52.6,47.1,32,4030
+S131,20,Male,Other,Diploma,2.8,2.4,9,70,5,Workshop,67.2,74.2,54.7,49,4461
+S132,23,Female,Kozhikode,Higher Secondary,4.5,3.7,4.6,89,0,Control,80.8,85.8,62.3,66,4892
+S133,26,Other,Kochi,Postgraduate,6.2,5,5.3,52,7,Workshop,94.3,100,70.2,83,5323
+S134,19,Male,Kannur,Undergraduate,7.9,6.3,6,71,2,Control,46.9,47.9,77.8,100,5754
+S135,22,Female,Wayanad,Diploma,2,7.6,6.7,90,9,Workshop,49,58,69.3,117,6185
+S136,25,Other,Thrissur,Higher Secondary,3.7,8.9,7.4,53,4,Control,62.5,69.5,62.8,13,6616
+S137,18,Male,Other,Postgraduate,5.4,1.3,8.1,72,11,Workshop,76.1,81.1,63.8,30,7047
+S138,21,Female,Kozhikode,Undergraduate,7.1,2.6,8.8,91,6,Control,89.7,92.7,71.4,47,7478
+S139,24,Other,Kochi,Diploma,1.2,3.9,4.4,54,1,Workshop,30.8,41.8,34.5,64,7909
+S140,17,Male,Kannur,Higher Secondary,2.9,5.2,5.1,73,8,Control,44.4,43.4,56.5,81,840
+S141,20,Female,Wayanad,Postgraduate,4.6,6.5,5.8,92,3,Workshop,57.9,64.9,64,98,1271
+S142,23,Other,Thrissur,Undergraduate,6.3,7.8,6.5,55,10,Control,71.5,76.5,72,115,1702
+S143,26,Male,Other,Diploma,8,9.1,7.2,74,5,Workshop,85,98,79.5,11,2133
+S144,19,Female,Kozhikode,Higher Secondary,2.1,1.5,7.9,93,0,Control,87.2,88.2,56.7,28,2564
+S145,22,Other,Kochi,Postgraduate,3.8,2.8,8.6,56,7,Workshop,39.7,48.7,64.6,45,2995
+S146,25,Male,Kannur,Undergraduate,5.5,4.1,4.2,75,2,Control,53.3,60.3,72.2,62,3426
+S147,18,Female,Wayanad,Diploma,7.2,5.4,4.9,94,9,Workshop,66.8,71.8,73.1,79,3857
+S148,,Other,Thrissur,Higher Secondary,1.3,6.7,5.6,57,4,Control,69,72,36.3,96,4288
+S149,24,Male,Other,Postgraduate,3,8,6.3,76,11,Workshop,82.5,93.5,58.2,113,4719
+S150,17,Female,Kozhikode,Undergraduate,4.7,9.3,7,95,6,Control,35,34,65.8,9,5150
+S151,20,Other,Kochi,Diploma,6.4,1.7,7.7,58,1,Workshop,48.6,55.6,59.3,26,5581
+S152,23,Male,Kannur,Higher Secondary,0.5,3,8.4,77,8,Control,50.8,55.8,50.9,43,6012
+S153,26,Female,Wayanad,Postgraduate,2.2,4.3,4,96,3,Workshop,64.3,77.3,58.4,60,6443
+S154,19,Other,Thrissur,Undergraduate,3.9,5.6,4.7,59,10,Control,77.8,78.8,66.3,77,6874
+S155,22,Male,Other,Diploma,5.6,6.9,5.4,78,5,Workshop,91.4,100,73.9,94,7305
+S156,25,Female,Kozhikode,Higher Secondary,7.3,8.2,6.1,97,0,Control,44,51,81.5,111,7736
+S157,18,Other,Kochi,Postgraduate,1.4,9.5,6.8,60,7,Workshop,46.1,51.1,59,7,667
+S158,21,Male,Kannur,Undergraduate,3.1,1.9,7.5,79,2,Control,59.6,62.6,45.5,24,1098
+S159,24,Female,Wayanad,Diploma,,3.2,8.2,98,9,Workshop,73.2,84.2,67.5,41,1529
+S160,17,Other,Thrissur,Higher Secondary,6.5,4.5,8.9,61,4,Control,86.8,85.8,61,58,1960
+S161,20,Male,Other,Postgraduate,0.6,5.8,4.5,80,11,Workshop,27.9,34.9,52.6,75,2391
+S162,23,Female,Kozhikode,Undergraduate,2.3,7.1,5.2,99,6,Control,41.5,46.5,60.2,92,2822
+S163,26,Other,Kochi,Diploma,4,8.4,5.9,62,1,Workshop,55,68,53.7,109,3253
+S164,19,Male,,Higher Secondary,5.7,9.7,6.6,81,8,Control,68.5,69.5,75.6,5,3684
+S165,22,Female,Wayanad,Postgraduate,7.4,2.1,7.3,100,3,Workshop,82.1,91.1,83.2,22,4115
+S166,25,Other,Thrissur,Undergraduate,1.5,3.4,8,63,10,Control,84.3,91.3,60.8,39,4546
+S167,18,Male,Other,Diploma,3.2,4.7,8.7,82,5,Workshop,36.8,41.8,68.3,56,4977
+S168,21,Female,Kozhikode,Higher Secondary,4.9,6,4.3,45,0,Control,50.4,53.4,40.9,73,5408
+S169,24,Other,Kochi,Postgraduate,6.6,7.3,5,64,7,Workshop,63.9,74.9,62.8,90,5839
+S170,17,Male,Kannur,Undergraduate,0.7,8.6,5.7,83,2,Control,66,65,39.9,107,6270
+S171,20,Female,Wayanad,Diploma,2.4,9.9,6.4,46,9,Workshop,79.6,86.6,47.9,3,6701
+S172,23,Other,Thrissur,Higher Secondary,4.1,2.3,7.1,65,4,Control,32.1,37.1,55.4,20,7132
+S173,26,Male,Other,Postgraduate,5.8,3.6,7.8,84,11,Workshop,45.7,58.7,77.4,37,7563
+S174,19,Female,Kozhikode,Undergraduate,7.5,4.9,8.5,47,6,Control,59.3,60.3,71,54,7994
+S175,22,Other,Kochi,Diploma,1.6,6.2,4.1,66,1,Workshop,61.4,70.4,48.1,71,925
+S176,25,Male,Kannur,Higher Secondary,3.3,7.5,4.8,85,8,Control,75,82,70,88,1356
+S177,18,Female,Wayanad,Postgraduate,5,8.8,5.5,48,3,Workshop,88.5,93.5,63.6,105,1787
+S178,21,Other,Thrissur,Undergraduate,6.7,1.2,6.2,67,10,Control,41,44,85.5,1,2218
+S179,24,Male,Other,Diploma,0.8,2.5,6.9,86,5,Workshop,43.2,54.2,41.7,18,2649
+S180,17,Female,Kozhikode,Higher Secondary,2.5,3.8,7.6,49,0,Control,56.8,55.8,35.3,35,3080
+S181,20,Other,Kochi,Postgraduate,4.2,5.1,8.3,68,7,Workshop,70.3,77.3,57.2,52,3511
+S182,23,Male,Kannur,Undergraduate,5.9,6.4,9,87,2,Control,83.8,88.8,64.8,69,3942
+S183,26,Female,Wayanad,Diploma,7.6,7.7,4.6,50,9,Workshop,36.4,49.4,72.7,86,4373
+S184,19,Other,Thrissur,Higher Secondary,1.7,9,5.3,69,4,Control,38.5,39.5,49.8,103,4804
+S185,,Male,Other,Postgraduate,3.4,1.4,6,88,11,Workshop,52.1,61.1,71.8,120,5235
+S186,25,Female,Kozhikode,Undergraduate,5.1,2.7,6.7,51,6,Control,65.7,72.7,65.3,16,5666
+S187,18,Other,Kochi,Diploma,6.8,4,7.4,70,1,Workshop,79.2,84.2,72.9,33,6097
+S188,21,Male,Kannur,Higher Secondary,0.9,5.3,8.1,89,8,Control,81.3,84.3,64.5,50,6528
+S189,24,Female,Wayanad,Postgraduate,2.6,6.6,8.8,52,3,Workshop,33.9,44.9,37,67,6959
+S190,17,Other,Thrissur,Undergraduate,4.3,7.9,4.4,71,10,Control,47.5,46.5,59,84,7390
+S191,20,Male,Other,Diploma,6,9.2,5.1,90,5,Workshop,61,68,66.5,101,7821
+S192,23,Female,Kozhikode,Higher Secondary,7.7,1.6,5.8,53,0,Control,74.5,79.5,60,118,752
+S193,26,Other,Kochi,Postgraduate,1.8,2.9,6.5,72,7,Workshop,76.7,89.7,51.6,14,1183
+S194,19,Male,Kannur,Undergraduate,3.5,4.2,7.2,91,2,Control,90.3,91.3,59.2,31,1614
+S195,22,Female,Wayanad,Diploma,5.2,5.5,7.9,54,9,Workshop,42.8,51.8,67.1,48,2045
+S196,25,Other,Thrissur,Higher Secondary,6.9,6.8,8.6,73,4,Control,56.4,63.4,74.6,65,2476
+S197,18,Male,Other,Postgraduate,1,8.1,4.2,92,11,Workshop,58.5,63.5,66.2,82,2907
+S198,21,Female,Kozhikode,Undergraduate,2.7,9.4,4.9,55,6,Control,72,75,59.8,99,3338
+S199,24,Other,Kochi,Diploma,4.4,1.8,5.6,74,1,Workshop,85.6,96.6,67.3,116,3769
+S200,17,Male,Kannur,Higher Secondary,6.1,3.1,6.3,93,8,Control,38.1,37.1,68.3,12,4200
+S201,20,Female,Wayanad,Postgraduate,7.8,4.4,7,56,3,Workshop,51.7,58.7,61.8,29,4631
+S202,23,Other,Thrissur,Undergraduate,1.9,5.7,7.7,75,10,Control,53.9,58.9,53.4,46,5062
+S203,26,Male,Other,Diploma,3.6,7,8.4,94,5,Workshop,67.4,80.4,60.9,63,5493
+S204,19,Female,Kozhikode ,Higher Secondary,5.3,8.3,4,57,0,Control,81,82,54.5,80,5924
+S205,22,Other,,Postgraduate,7,9.6,4.7,76,7,Workshop,94.5,100,76.4,97,6355
+S206,25,Male,Kannur,Undergraduate,1.1,2,5.4,95,2,Control,35.6,42.6,53.5,114,6786
+S207,18,Female,Wayanad,Diploma,2.8,3.3,6.1,58,9,Workshop,49.2,54.2,61.5,10,7217
+S208,21,Other,Thrissur,Higher Secondary,4.5,4.6,6.8,77,4,Control,62.8,65.8,69,27,7648
+S209,24,Male,Other,Postgraduate,6.2,5.9,7.5,96,11,Workshop,76.3,87.3,91,44,579
+S210,17,Female,Kozhikode,Undergraduate,7.9,7.2,8.2,59,6,Control,89.8,88.8,63.5,61,1010
+S211,20,Other,Kochi,Diploma,2,8.5,8.9,78,1,Workshop,31,38,40.7,78,1441
+S212,23,Male,Kannur,Higher Secondary,,9.8,4.5,97,8,Control,44.5,49.5,62.6,95,1872
+S213,26,Female,Wayanad,Postgraduate,5.4,2.2,5.2,60,3,Workshop,58.1,71.1,56.2,112,2303
+S214,19,Other,Thrissur,Undergraduate,7.1,3.5,5.9,79,10,Control,71.7,72.7,78.2,8,2734
+S215,22,Male,Other,Diploma,1.2,4.8,6.6,98,5,Workshop,73.8,82.8,55.3,25,3165
+S216,25,Female,Kozhikode,Higher Secondary,2.9,6.1,7.3,61,0,Control,87.3,94.3,48.9,42,3596
+S217,18,Other,Kochi,Postgraduate,4.6,7.4,8,80,7,Workshop,39.9,44.9,70.8,59,4027
+S218,21,Male,Kannur,Undergraduate,6.3,8.7,8.7,99,2,Control,53.5,56.5,78.4,76,4458
+S219,24,Female,Wayanad,Diploma,8,10,4.3,62,9,Workshop,67,78,86.3,93,4889
+S220,17,Other,Thrissur,Higher Secondary,2.1,2.4,5,81,4,Control,69.2,68.2,63.4,110,5320
+S221,20,Male,Other,Postgraduate,3.8,3.7,5.7,100,11,Workshop,82.7,89.7,64.4,6,5751
+S222,,Female,Kozhikode,Undergraduate,5.5,5,6.4,63,6,Control,35.3,40.3,58,23,6182
+S223,26,Other,Kochi,Diploma,7.2,6.3,7.1,82,1,Workshop,48.8,61.8,65.5,40,6613
+S224,19,Male,Kannur,Higher Secondary,1.3,7.6,7.8,45,8,Control,51,52,43.1,57,7044
+S225,22,Female,Wayanad,Postgraduate,3,8.9,8.5,64,3,Workshop,64.5,73.5,50.6,74,7475
+S226,25,Other,Thrissur,Undergraduate,4.7,1.3,4.1,83,10,Control,78,85,72.5,91,7906
+S227,18,Male,Other,Diploma,6.4,2.6,4.8,46,5,Workshop,91.6,96.6,66.1,108,837
+S228,21,Female,Kozhikode,Higher Secondary,0.5,3.9,5.5,65,0,Control,32.8,35.8,43.3,4,1268
+S229,24,Other,Kochi,Postgraduate,2.2,5.2,6.2,84,7,Workshop,46.3,57.3,65.2,21,1699
+S230,17,Male,Kannur,Undergraduate,3.9,6.5,6.9,47,2,Control,59.9,58.9,58.8,38,2130
+S231,20,Female,Wayanad,Diploma,5.6,7.8,7.6,66,9,Workshop,73.4,80.4,59.7,55,2561
+S232,23,Other,Thrissur,Higher Secondary,7.3,9.1,8.3,85,4,Control,87,92,67.3,72,2992
+S233,26,Male,Other,Postgraduate,1.4,1.5,9,48,11,Workshop,28.1,41.1,44.8,89,3423
+S234,19,Female,Kozhikode,Undergraduate,3.1,2.8,4.6,67,6,Control,41.6,42.6,52.3,106,3854
+S235,22,Other,Kochi,Diploma,4.8,4.1,5.3,86,1,Workshop,55.2,64.2,59.9,2,4285
+S236,25,Male,Kannur,Higher Secondary,6.5,5.4,6,49,8,Control,68.8,75.8,67.8,19,4716
+S237,18,Female,Wayanad,Postgraduate,0.6,6.7,6.7,68,3,Workshop,70.9,75.9,45,36,5147
+S238,21,Other,Thrissur,Undergraduate,2.3,8,7.4,87,10,Control,84.5,87.5,67,53,5578
+S238,21,Other,Thrissur,Undergraduate,2.3,8,7.4,87,10,Control,84.5,87.5,67,53,5578
+S240,17,Female,Kozhikode,Higher Secondary,5.7,1.7,8.8,69,0,Control,50.5,49.5,68,87,6440
