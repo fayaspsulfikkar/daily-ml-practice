@@ -17,6 +17,14 @@ A daily log tracking concepts learned, notebooks practiced, code written, and ke
 
 ## 📝 Daily Entries
 
+### 📅 Entry — 2026-10-26
+- **Topic / Focus:** "`Practice probability, statistics, and data visualization exercises`"
+- **Files Updated:**
+  - `Learning/Week 4/Mathematical Foundations for ML/`
+  - `Learning/Week 4/Probability/`
+  - `Learning/Week 4/Statistics \342\200\224 Mean, median, and mode/`
+---
+
 ### 📅 Entry — 2026-10-25
 - **Topic / Focus:** "Maths"
 - **Files Updated:**
