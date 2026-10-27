@@ -18,6 +18,18 @@ A daily log tracking concepts learned, notebooks practiced, code written, and ke
 ## 📝 Daily Entries
 
 ### 📅 Entry — 2026-10-27
+- **Topic / Focus:** "Distributions  Practical"
+- **Files Updated:**
+  - `Learning/Week 4/Common distributions/bernoulli.ipynb`
+  - `Learning/Week 4/Common distributions/binomial.ipynb`
+  - `Learning/Week 4/Distributions/Discrete, continuous, PDF, and CDF.ipynb`
+  - `Learning/Week 4/Distributions/calls_data.csv`
+  - `Learning/Week 4/Uniform Distribution/Uniform Distribution.ipynb`
+  - `Learning/Week 4/ distributions/`
+  - `Learning/Week 4/Mathematical Foundations for ML/straight-line prediction.ipynb`
+---
+
+### 📅 Entry — 2026-10-27
 - **Topic / Focus:** "Visualizing Maths"
 - **Files Updated:**
   - `Learning/Week 4/Probability/ Complement, union, intersection, and addition rule.ipynb`
