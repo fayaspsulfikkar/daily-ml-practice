@@ -17,6 +17,17 @@ A daily log tracking concepts learned, notebooks practiced, code written, and ke
 
 ## 📝 Daily Entries
 
+### 📅 Entry — 2026-10-27
+- **Topic / Focus:** "Visualizing Maths"
+- **Files Updated:**
+  - `Learning/Week 4/Probability/ Complement, union, intersection, and addition rule.ipynb`
+  - `Learning/Week 4/Common distributions/`
+  - `Learning/Week 4/Distributions/`
+  - `Learning/Week 4/Probability/Imagine tossing a fair coin twice.ipynb`
+  - `Learning/Week 4/Probability/Mutually exclusive, independent, and conditional events.ipynb`
+  - `Learning/Week 4/Uniform Distribution/`
+---
+
 ### 📅 Entry — 2026-10-26
 - **Topic / Focus:** "`Practice probability, statistics, and data visualization exercises`"
 - **Files Updated:**
