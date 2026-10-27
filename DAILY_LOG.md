@@ -18,6 +18,22 @@ A daily log tracking concepts learned, notebooks practiced, code written, and ke
 ## 📝 Daily Entries
 
 ### 📅 Entry — 2026-10-27
+- **Topic / Focus:** "Practicing Distribution"
+- **Files Updated:**
+  - `Learning/Week 4/Stati/Basic_starting.ipynb`
+  - `Learning/Week 4/Stati/Stati_practice.ipynb`
+  - `Learning/Week 4/Stati/trial_graph.ipynb`
+  - `Learning/Week 4/Stati/untouched_copy.csv`
+  - `Learning/Week 4/Probability/Conditional probability and Bayes' rule.ipynb`
+  - `Learning/Week 4/Probability/bayes_condition_test_dataset.csv`
+  - `Learning/Week 4/Statistics \342\200\224 Mean, median, and mode/Basic_starting.ipynb`
+  - `Learning/Week 4/Statistics \342\200\224 Mean, median, and mode/Population variance versus sample variance.ipynb`
+  - `Learning/Week 4/Statistics \342\200\224 Mean, median, and mode/Stati_practice.ipynb`
+  - `Learning/Week 4/Statistics \342\200\224 Mean, median, and mode/trial_graph.ipynb`
+  - `Learning/Week 4/Statistics \342\200\224 Mean, median, and mode/untouched_copy.csv`
+---
+
+### 📅 Entry — 2026-10-27
 - **Topic / Focus:** "Distributions  Practical"
 - **Files Updated:**
   - `Learning/Week 4/Common distributions/bernoulli.ipynb`
