@@ -18,6 +18,20 @@ A daily log tracking concepts learned, notebooks practiced, code written, and ke
 ## 📝 Daily Entries
 
 ### 📅 Entry — 2026-10-27
+- **Topic / Focus:** "COvarience and correlation"
+- **Files Updated:**
+  - `Learning/Week 4/ distributions/Discrete, continuous, PDF, and CDF.ipynb`
+  - `Learning/Week 4/ distributions/Exponential Distribution.ipynb`
+  - `Learning/Week 4/ distributions/Poisson.ipynb`
+  - `Learning/Week 4/ distributions/Uniform Distribution.ipynb`
+  - `Learning/Week 4/ distributions/bernoulli.ipynb`
+  - `Learning/Week 4/ distributions/binomial.ipynb`
+  - `Learning/Week 4/ distributions/calls_data.csv`
+  - `Learning/Week 4/ Distributions/`
+  - `Learning/Week 4/Correlation/`
+---
+
+### 📅 Entry — 2026-10-27
 - **Topic / Focus:** "Practicing Distribution"
 - **Files Updated:**
   - `Learning/Week 4/Stati/Basic_starting.ipynb`
