@@ -18,6 +18,14 @@ A daily log tracking concepts learned, notebooks practiced, code written, and ke
 ## 📝 Daily Entries
 
 ### 📅 Entry — 2026-10-27
+- **Topic / Focus:** "Practicing Statistics"
+- **Files Updated:**
+  - `Learning/Week 4/Statistics \342\200\224 Mean, median, and mode/stati.ipynb`
+  - `Learning/Week 4/Correlation/correlation_pearson_spearman_matrix.ipynb`
+  - `Learning/Week 4/Practice/`
+---
+
+### 📅 Entry — 2026-10-27
 - **Topic / Focus:** "COvarience and correlation"
 - **Files Updated:**
   - `Learning/Week 4/ distributions/Discrete, continuous, PDF, and CDF.ipynb`
