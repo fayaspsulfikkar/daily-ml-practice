@@ -17,6 +17,12 @@ A daily log tracking concepts learned, notebooks practiced, code written, and ke
 
 ## 📝 Daily Entries
 
+### 📅 Entry — 2026-10-28
+- **Topic / Focus:** "Population Variance"
+- **Files Updated:**
+  - `Learning/Week 4/Practice/pratice_1.ipynb`
+---
+
 ### 📅 Entry — 2026-10-27
 - **Topic / Focus:** "Practicing Statistics"
 - **Files Updated:**
