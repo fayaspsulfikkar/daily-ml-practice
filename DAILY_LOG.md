@@ -18,6 +18,12 @@ A daily log tracking concepts learned, notebooks practiced, code written, and ke
 ## 📝 Daily Entries
 
 ### 📅 Entry — 2026-10-28
+- **Topic / Focus:** "Practicing Correlation"
+- **Files Updated:**
+  - `Learning/Week 4/Practice/practice number 2.ipynb`
+---
+
+### 📅 Entry — 2026-10-28
 - **Topic / Focus:** "Practicing Deviation,Variance,etc..."
 - **Files Updated:**
   - `Learning/Week 4/Practice/pratice_1.ipynb`
