@@ -17,6 +17,13 @@ A daily log tracking concepts learned, notebooks practiced, code written, and ke
 
 ## 📝 Daily Entries
 
+### 📅 Entry — 2026-10-29
+- **Topic / Focus:** "Practiced Statistic Basic"
+- **Files Updated:**
+  - `Learning/Week 4/Practice/practice number 2.ipynb`
+  - `Learning/Week 4/Practice/practice_probability.ipynb`
+---
+
 ### 📅 Entry — 2026-10-28
 - **Topic / Focus:** "Practicing Correlation"
 - **Files Updated:**
