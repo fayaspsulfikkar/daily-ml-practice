@@ -17,6 +17,17 @@ A daily log tracking concepts learned, notebooks practiced, code written, and ke
 
 ## 📝 Daily Entries
 
+### 📅 Entry — 2026-10-30
+- **Topic / Focus:** "Scalar and Vector Values"
+- **Files Updated:**
+  - `Exam_Reviews/Week2/Week 2 Exam Feedback .png`
+  - `Exam_Reviews/Week3/Week 3 Exam Feedback .png`
+  - `Learning/Week 4/Practice/practice_probability.ipynb`
+  - `Learning/Week 4/Probability/ Complement, union, intersection, and addition rule.ipynb`
+  - `Exam_Reviews/Week 4/`
+  - `Learning/Week 5/`
+---
+
 ### 📅 Entry — 2026-10-29
 - **Topic / Focus:** "Practiced Probability"
 - **Files Updated:**
