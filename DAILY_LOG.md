@@ -18,6 +18,18 @@ A daily log tracking concepts learned, notebooks practiced, code written, and ke
 ## 📝 Daily Entries
 
 ### 📅 Entry — 2026-10-31
+- **Topic / Focus:** "Day 1 Finished"
+- **Files Updated:**
+  - `Learning/Week 5/Start one running mistakes list (a single file, used every day.txt`
+  - `Learning/Week 5/linear algebra and vector maths/basics.ipynb`
+  - `Learning/Week 5/linear algebra and vector maths/distance_measurement.ipynb`
+  - `Learning/Week 5/linear algebra and vector maths/dot products.ipynb`
+  - `Learning/Week 5/linear algebra and vector maths/vector similarity.ipynb`
+  - `Learning/Week 5/linear algebra and vector maths/vectors.ipynb`
+  - `Learning/Week 5/Day 1/`
+---
+
+### 📅 Entry — 2026-10-31
 - **Topic / Focus:** "Linear Algebra"
 - **Files Updated:**
   - `Learning/Week 5/1. Understand Linear Algebra Fundamentals/basics.ipynb`

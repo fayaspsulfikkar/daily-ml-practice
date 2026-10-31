@@ -1,2 +1,17 @@
 This is a file to list Flaws
 -----------------------------
+
+DAY 1:
+
+Topic: Cosine Similarity vs. Sine;
+- np.sin() calculates the sine of individual values (in radians).
+- Cosine similarity compares the directions of two vectors using their dot product and magnitudes.
+- Correction: Use the cosine similarity formula, not element-wise trigonometric functions.
+
+Topic: Matrix Rank;
+Matrix rank is the number of linearly independent rows or columns in a matrix. 
+A row that can be expressed as a linear combination of other rows does not increase the rank. 
+The rank tells us how much independent information the matrix contains.
+
+
+
