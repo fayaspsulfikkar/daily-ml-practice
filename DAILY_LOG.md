@@ -18,6 +18,15 @@ A daily log tracking concepts learned, notebooks practiced, code written, and ke
 ## 📝 Daily Entries
 
 ### 📅 Entry — 2026-10-31
+- **Topic / Focus:** "Linear Algebra"
+- **Files Updated:**
+  - `Learning/Week 5/1. Understand Linear Algebra Fundamentals/basics.ipynb`
+  - `Learning/Week 5/1. Understand Linear Algebra Fundamentals/dot products.ipynb`
+  - `Learning/Week 5/1. Understand Linear Algebra Fundamentals/vectors.ipynb`
+  - `Learning/Week 5/linear algebra and vector maths/`
+---
+
+### 📅 Entry — 2026-10-31
 - **Topic / Focus:** "Learning Vectors, Matrix, Dot product"
 - **Files Updated:**
   - `Learning/Week 5/1. Understand Linear Algebra Fundamentals/vectors.ipynb`
