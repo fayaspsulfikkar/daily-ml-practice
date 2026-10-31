@@ -17,6 +17,59 @@ A daily log tracking concepts learned, notebooks practiced, code written, and ke
 
 ## 📝 Daily Entries
 
+### 📅 Entry — 2026-10-31
+- **Topic / Focus:** "Learning Vectors, Matrix, Dot product"
+- **Files Updated:**
+  - `Learning/Week 5/1. Understand Linear Algebra Fundamentals/vectors.ipynb`
+  - `Learning/Week3/Data Inspection/data_inspection_basics.ipynb`
+  - `Learning/Week3/Final_practicing.ipynb`
+  - `Learning/Week3/MatPlotLib/Titanic-Dataset.csv`
+  - `Learning/Week3/MatPlotLib/matplot_marker.ipynb`
+  - `Learning/Week3/MatPlotLib/matplotlib_bar_charts.ipynb`
+  - `Learning/Week3/MatPlotLib/matplotlib_barplots.ipynb`
+  - `Learning/Week3/MatPlotLib/matplotlib_grids.ipynb`
+  - `Learning/Week3/MatPlotLib/matplotlib_histogram.ipynb`
+  - `Learning/Week3/MatPlotLib/matplotlib_intro.ipynb`
+  - `Learning/Week3/MatPlotLib/matplotlib_labels.ipynb`
+  - `Learning/Week3/MatPlotLib/matplotlib_linestyle.ipynb`
+  - `Learning/Week3/MatPlotLib/matplotlib_pie_charts.ipynb`
+  - `Learning/Week3/MatPlotLib/matplotlib_subplots.ipynb`
+  - `Learning/Week3/MatPlotLib/matplotlib_with_pandas.ipynb`
+  - `Learning/Week3/MatPlotLib/scatter_plots.ipynb`
+  - `Learning/Week3/NumPy/100_Numpy_exercises.ipynb`
+  - `Learning/Week3/NumPy/array_indexing.ipynb`
+  - `Learning/Week3/NumPy/array_slicing.ipynb`
+  - `Learning/Week3/NumPy/intro_numpy.ipynb`
+  - `Learning/Week3/NumPy/introduction_numpy.ipynb`
+  - `Learning/Week3/NumPy/num_practice3.ipynb`
+  - `Learning/Week3/NumPy/numpy_Broadcasting .ipynb`
+  - `Learning/Week3/NumPy/numpy_Practice2.ipynb`
+  - `Learning/Week3/NumPy/numpy_array.ipynb`
+  - `Learning/Week3/NumPy/numpy_practice.ipynb`
+  - `Learning/Week3/NumPy/numpy_practicee.ipynb`
+  - `Learning/Week3/NumPy/random_numpy.ipynb`
+  - `Learning/Week3/NumPy/shape_manipulation.ipynb`
+  - `Learning/Week3/Pandas/data_cleaning_using_data.ipynb`
+  - `Learning/Week3/Pandas/orders.json`
+  - `Learning/Week3/Pandas/pandas_aggregation.ipynb`
+  - `Learning/Week3/Pandas/pandas_dataframes.ipynb`
+  - `Learning/Week3/Pandas/pandas_filtering.ipynb`
+  - `Learning/Week3/Pandas/pandas_import_data.ipynb`
+  - `Learning/Week3/Pandas/pandas_intro.ipynb`
+  - `Learning/Week3/Pandas/practicing/practice1.ipynb`
+  - `Learning/Week3/Pokemone.json`
+  - `Learning/Week3/Practice_1/Dataset_Inspection.ipynb`
+  - `Learning/Week3/Practice_1/pandas_practicing.ipynb`
+  - `Learning/Week3/Practice_1/practice.ipynb`
+  - `Learning/Week3/Practice_1/practicing_pandas.ipynb`
+  - `Learning/Week3/Quick_revisions.ipynb`
+  - `Learning/Week3/Titanic-Dataset.csv`
+  - `Learning/Week3/final_practicing.ipynb`
+  - `Learning/Week3/final_practicing_2.ipynb`
+  - `Learning/Week 3/`
+  - `Learning/Week 5/1. Understand Linear Algebra Fundamentals/dot products.ipynb`
+---
+
 ### 📅 Entry — 2026-10-30
 - **Topic / Focus:** "Scalar and Vector Values"
 - **Files Updated:**
