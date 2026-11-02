@@ -17,6 +17,12 @@ A daily log tracking concepts learned, notebooks practiced, code written, and ke
 
 ## 📝 Daily Entries
 
+### 📅 Entry — 2026-11-02
+- **Topic / Focus:** Updated Learning/Week 5/Day 2/
+- **Files Updated:**
+  - `Learning/Week 5/Day 2/`
+---
+
 ### 📅 Entry — 2026-10-31
 - **Topic / Focus:** "Day 1 Finished"
 - **Files Updated:**
