@@ -17,6 +17,14 @@ A daily log tracking concepts learned, notebooks practiced, code written, and ke
 
 ## 📝 Daily Entries
 
+### 📅 Entry — 2026-11-03
+- **Topic / Focus:** Updated Learning/Week 5/Day 2/svd.ipynb, Learning/Week 5/Day 2/matrix_factorization.ipynb, Learning/Week 5/Day 2/functions_rateofchange .ipynb
+- **Files Updated:**
+  - `Learning/Week 5/Day 2/functions_rateofchange .ipynb`
+  - `Learning/Week 5/Day 2/matrix_factorization.ipynb`
+  - `Learning/Week 5/Day 2/svd.ipynb`
+---
+
 ### 📅 Entry — 2026-11-02
 - **Topic / Focus:** Updated Learning/Week 5/Day 2/
 - **Files Updated:**
