@@ -18,6 +18,12 @@ A daily log tracking concepts learned, notebooks practiced, code written, and ke
 ## 📝 Daily Entries
 
 ### 📅 Entry — 2026-11-04
+- **Topic / Focus:** "Practicing"
+- **Files Updated:**
+  - `Learning/Week 5/practice.ipynb`
+---
+
+### 📅 Entry — 2026-11-04
 - **Topic / Focus:** Updated anupam/week9/trainingModel.ipynb, anupam/week9/students.ipynb, anupam/week9/student_scores.csv, anupam/week9/ststs.ipynb, anupam/week9/problem3.ipynb, anupam/week9/problem2.ipynb, anupam/week9/problem.ipynb, anupam/week9/iris.ipynb, anupam/week9/inferential_sts.ipynb, anupam/week9/gradiantDescentLR.ipynb, anupam/week9/desc_sts.ipynb, anupam/week9/base.ipynb, anupam/week8/New folder (6)/review.ipynb, anupam/week8/New folder (5)/review.ipynb, anupam/week8/New folder (4)/review2.ipynb, anupam/week8/New folder (4)/review1.ipynb, anupam/week8/New folder (4)/review.ipynb, anupam/week8/New folder (4)/PCA.ipynb, anupam/week8/New folder (3)/linearAlgebra.ipynb, anupam/week8/New folder (3)/gradientDescent2.ipynb, anupam/week8/New folder (3)/differentiation&Integration.ipynb, anupam/week8/New folder (3)/basic.ipynb, anupam/week8/New folder (3)/PCA.ipynb, anupam/week8/New folder (3)/GradientDescent.ipynb
 - **Files Updated:**
   - `anupam/week8/New folder (3)/GradientDescent.ipynb`
