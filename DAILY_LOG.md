@@ -17,6 +17,46 @@ A daily log tracking concepts learned, notebooks practiced, code written, and ke
 
 ## 📝 Daily Entries
 
+### 📅 Entry — 2026-11-04
+- **Topic / Focus:** Updated anupam/, Learning/Week 5/vectors.ipynb, Learning/Week 5/vector similarity.ipynb, Learning/Week 5/svd.ipynb, Learning/Week 5/slopes.ipynb, Learning/Week 5/practice.ipynb, Learning/Week 5/orthogonal matrices.ipynb, Learning/Week 5/matrix_factorization.ipynb, Learning/Week 5/gradient_descent2.ipynb, Learning/Week 5/gradient_descent.ipynb, Learning/Week 5/functions_rateofchange .ipynb, Learning/Week 5/eigenvalues_vectors.ipynb, Learning/Week 5/dot products.ipynb, Learning/Week 5/distance_measurement.ipynb, Learning/Week 5/cost_of_funtions.ipynb, Learning/Week 5/basics.ipynb, Learning/Week 5/Matrix Multiplication/, Learning/Week 5/Checkpoint and buffer.ipynb, Learning/Week 5/Day 2/svd.ipynb, Learning/Week 5/Day 2/slopes.ipynb, Learning/Week 5/Day 2/orthogonal matrices.ipynb, Learning/Week 5/Day 2/matrix_factorization.ipynb, Learning/Week 5/Day 2/functions_rateofchange .ipynb, Learning/Week 5/Day 2/eigenvalues_vectors.ipynb, Learning/Week 5/Day 1/linear algebra and vector maths/vectors.ipynb, Learning/Week 5/Day 1/linear algebra and vector maths/vector similarity.ipynb, Learning/Week 5/Day 1/linear algebra and vector maths/dot products.ipynb, Learning/Week 5/Day 1/linear algebra and vector maths/distance_measurement.ipynb, Learning/Week 5/Day 1/linear algebra and vector maths/basics.ipynb, Learning/Week 5/Day 1/Matrix Multiplication/matrix_transpose.ipynb, Learning/Week 5/Day 1/Matrix Multiplication/matrix_rank.ipynb, Learning/Week 5/Day 1/Matrix Multiplication/inverse.ipynb, Learning/Week 5/Day 1/Matrix Multiplication/identity_matrix.ipynb, Learning/Week 5/Day 1/Matrix Multiplication/determinants.ipynb, Learning/Week 5/Day 1/Checkpoint and buffer.ipynb
+- **Files Updated:**
+  - `Learning/Week 5/Day 1/Checkpoint and buffer.ipynb`
+  - `Learning/Week 5/Day 1/Matrix Multiplication/determinants.ipynb`
+  - `Learning/Week 5/Day 1/Matrix Multiplication/identity_matrix.ipynb`
+  - `Learning/Week 5/Day 1/Matrix Multiplication/inverse.ipynb`
+  - `Learning/Week 5/Day 1/Matrix Multiplication/matrix_rank.ipynb`
+  - `Learning/Week 5/Day 1/Matrix Multiplication/matrix_transpose.ipynb`
+  - `Learning/Week 5/Day 1/linear algebra and vector maths/basics.ipynb`
+  - `Learning/Week 5/Day 1/linear algebra and vector maths/distance_measurement.ipynb`
+  - `Learning/Week 5/Day 1/linear algebra and vector maths/dot products.ipynb`
+  - `Learning/Week 5/Day 1/linear algebra and vector maths/vector similarity.ipynb`
+  - `Learning/Week 5/Day 1/linear algebra and vector maths/vectors.ipynb`
+  - `Learning/Week 5/Day 2/eigenvalues_vectors.ipynb`
+  - `Learning/Week 5/Day 2/functions_rateofchange .ipynb`
+  - `Learning/Week 5/Day 2/matrix_factorization.ipynb`
+  - `Learning/Week 5/Day 2/orthogonal matrices.ipynb`
+  - `Learning/Week 5/Day 2/slopes.ipynb`
+  - `Learning/Week 5/Day 2/svd.ipynb`
+  - `Learning/Week 5/Checkpoint and buffer.ipynb`
+  - `Learning/Week 5/Matrix Multiplication/`
+  - `Learning/Week 5/basics.ipynb`
+  - `Learning/Week 5/cost_of_funtions.ipynb`
+  - `Learning/Week 5/distance_measurement.ipynb`
+  - `Learning/Week 5/dot products.ipynb`
+  - `Learning/Week 5/eigenvalues_vectors.ipynb`
+  - `Learning/Week 5/functions_rateofchange .ipynb`
+  - `Learning/Week 5/gradient_descent.ipynb`
+  - `Learning/Week 5/gradient_descent2.ipynb`
+  - `Learning/Week 5/matrix_factorization.ipynb`
+  - `Learning/Week 5/orthogonal matrices.ipynb`
+  - `Learning/Week 5/practice.ipynb`
+  - `Learning/Week 5/slopes.ipynb`
+  - `Learning/Week 5/svd.ipynb`
+  - `Learning/Week 5/vector similarity.ipynb`
+  - `Learning/Week 5/vectors.ipynb`
+  - `anupam/`
+---
+
 ### 📅 Entry — 2026-11-03
 - **Topic / Focus:** "Day 2 Completed"
 - **Files Updated:**
