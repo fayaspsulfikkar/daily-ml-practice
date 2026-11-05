@@ -17,6 +17,39 @@ A daily log tracking concepts learned, notebooks practiced, code written, and ke
 
 ## 📝 Daily Entries
 
+### 📅 Entry — 2026-11-05
+- **Topic / Focus:** "Final Practicing"
+- **Files Updated:**
+  - `Exam_Reviews/Week 4/review.ipynb`
+  - `Learning/Week 5/Checkpoint and buffer.ipynb`
+  - `Learning/Week 5/Matrix Multiplication/determinants.ipynb`
+  - `Learning/Week 5/Matrix Multiplication/identity_matrix.ipynb`
+  - `Learning/Week 5/Matrix Multiplication/inverse.ipynb`
+  - `Learning/Week 5/Matrix Multiplication/matrix_rank.ipynb`
+  - `Learning/Week 5/Matrix Multiplication/matrix_transpose.ipynb`
+  - `Learning/Week 5/basics.ipynb`
+  - `Learning/Week 5/cost_of_funtions.ipynb`
+  - `Learning/Week 5/distance_measurement.ipynb`
+  - `Learning/Week 5/dot products.ipynb`
+  - `Learning/Week 5/eigenvalues_vectors.ipynb`
+  - `Learning/Week 5/functions_rateofchange .ipynb`
+  - `Learning/Week 5/gradient_descent.ipynb`
+  - `Learning/Week 5/gradient_descent2.ipynb`
+  - `Learning/Week 5/matrix_factorization.ipynb`
+  - `Learning/Week 5/orthogonal matrices.ipynb`
+  - `Learning/Week 5/practice.ipynb`
+  - `Learning/Week 5/slopes.ipynb`
+  - `Learning/Week 5/svd.ipynb`
+  - `Learning/Week 5/vector similarity.ipynb`
+  - `Learning/Week 5/vectors.ipynb`
+  - `Learning/Week 5/00. Foundations/`
+  - `Learning/Week 5/01. Vector Mathematics/`
+  - `Learning/Week 5/02. Matrix Mathematics/`
+  - `Learning/Week 5/03. Matrix Decompositions/`
+  - `Learning/Week 5/04. Calculus & Optimization/`
+  - `Learning/Week 5/05. Assessments/`
+---
+
 ### 📅 Entry — 2026-11-04
 - **Topic / Focus:** "Practicing"
 - **Files Updated:**
