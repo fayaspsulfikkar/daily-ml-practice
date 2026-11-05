@@ -18,6 +18,12 @@ A daily log tracking concepts learned, notebooks practiced, code written, and ke
 ## 📝 Daily Entries
 
 ### 📅 Entry — 2026-11-05
+- **Topic / Focus:** "Practiced Eigen Values"
+- **Files Updated:**
+  - `Learning/Week 5/05. Assessments/Pass1.ipynb`
+---
+
+### 📅 Entry — 2026-11-05
 - **Topic / Focus:** "Final Practicing"
 - **Files Updated:**
   - `Exam_Reviews/Week 4/review.ipynb`
