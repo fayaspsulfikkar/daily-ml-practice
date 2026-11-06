@@ -18,6 +18,217 @@ A daily log tracking concepts learned, notebooks practiced, code written, and ke
 ## 📝 Daily Entries
 
 ### 📅 Entry — 2026-11-06
+- **Topic / Focus:** Updated Learning/Module 5/, Learning/Module 4/, Learning/Module 3/, Learning/Module 2/, Learning/Module 1/, Learning/python login/index.html, Learning/Week 5/Start one running mistakes list (a single file, used every day.txt, Learning/Week 5/05. Assessments/practice.ipynb, Learning/Week 5/05. Assessments/Pass1.ipynb, Learning/Week 5/05. Assessments/Checkpoint and buffer.ipynb, Learning/Week 5/04. Calculus & Optimization/slopes.ipynb, Learning/Week 5/04. Calculus & Optimization/gradient_descent2.ipynb, Learning/Week 5/04. Calculus & Optimization/gradient_descent.ipynb, Learning/Week 5/04. Calculus & Optimization/functions_rateofchange .ipynb, Learning/Week 5/04. Calculus & Optimization/cost_of_funtions.ipynb, Learning/Week 5/03. Matrix Decompositions/svd.ipynb, Learning/Week 5/03. Matrix Decompositions/matrix_factorization.ipynb, Learning/Week 5/02. Matrix Mathematics/orthogonal matrices.ipynb, Learning/Week 5/02. Matrix Mathematics/matrix_transpose.ipynb, Learning/Week 5/02. Matrix Mathematics/matrix_rank.ipynb, Learning/Week 5/02. Matrix Mathematics/inverse.ipynb, Learning/Week 5/02. Matrix Mathematics/identity_matrix.ipynb, Learning/Week 5/02. Matrix Mathematics/eigenvalues_vectors.ipynb, Learning/Week 5/02. Matrix Mathematics/determinants.ipynb, Learning/Week 5/01. Vector Mathematics/vector similarity.ipynb, Learning/Week 5/01. Vector Mathematics/dot products.ipynb, Learning/Week 5/01. Vector Mathematics/distance_measurement.ipynb, Learning/Week 5/00. Foundations/vectors.ipynb, Learning/Week 5/00. Foundations/basics.ipynb, Learning/Week 4/statistics_fundamentals_practice.csv, Learning/Week 4/penguins.csv, Learning/Week 4/notes.ipynb, Learning/Week 4/customers.csv, Learning/Week 4/Statistics \342\200\224 Mean, median, and mode/untouched_copy.csv, Learning/Week 4/Statistics \342\200\224 Mean, median, and mode/trial_graph.ipynb, Learning/Week 4/Statistics \342\200\224 Mean, median, and mode/stati.ipynb, Learning/Week 4/Statistics \342\200\224 Mean, median, and mode/Stati_practice.ipynb, Learning/Week 4/Statistics \342\200\224 Mean, median, and mode/Range, variance, and standard deviation.ipynb, Learning/Week 4/Statistics \342\200\224 Mean, median, and mode/Population variance versus sample variance.ipynb, Learning/Week 4/Statistics \342\200\224 Mean, median, and mode/Histograms, box plots, skewness, and kurtosis.ipynb, Learning/Week 4/Statistics \342\200\224 Mean, median, and mode/Basic_starting.ipynb, Learning/Week 4/Probability/bayes_condition_test_dataset.csv, Learning/Week 4/Probability/Mutually exclusive, independent, and conditional events.ipynb, Learning/Week 4/Probability/Imagine tossing a fair coin twice.ipynb, Learning/Week 4/Probability/Conditional probability and Bayes' rule.ipynb, Learning/Week 4/Probability/ Random experiments, sample spaces, and events.ipynb, Learning/Week 4/Probability/ Complement, union, intersection, and addition rule.ipynb, Learning/Week 4/Practice/pratice_1.ipynb, Learning/Week 4/Practice/practice_probability.ipynb, Learning/Week 4/Practice/practice number 2.ipynb, Learning/Week 4/Mathematical Foundations for ML/straight-line prediction.ipynb, Learning/Week 4/Mathematical Foundations for ML/maths_foundations.ipynb, Learning/Week 4/Correlation/covariance_vs_correlation.py.ipynb, Learning/Week 4/Correlation/correlation_pearson_spearman_matrix.ipynb, Learning/Week 4/ Distributions/calls_data.csv, Learning/Week 4/ Distributions/binomial.ipynb, Learning/Week 4/ Distributions/bernoulli.ipynb, Learning/Week 4/ Distributions/Uniform Distribution.ipynb, Learning/Week 4/ Distributions/Poisson.ipynb, Learning/Week 4/ Distributions/Exponential Distribution.ipynb, Learning/Week 4/ Distributions/Discrete, continuous, PDF, and CDF.ipynb, Learning/Week 3/final_practicing_2.ipynb, Learning/Week 3/final_practicing.ipynb, Learning/Week 3/Titanic-Dataset.csv, Learning/Week 3/Quick_revisions.ipynb, Learning/Week 3/Practice_1/practicing_pandas.ipynb, Learning/Week 3/Practice_1/practice.ipynb, Learning/Week 3/Practice_1/pandas_practicing.ipynb, Learning/Week 3/Practice_1/Dataset_Inspection.ipynb, Learning/Week 3/Pokemone.json, Learning/Week 3/Pandas/practicing/practice1.ipynb, Learning/Week 3/Pandas/pandas_intro.ipynb, Learning/Week 3/Pandas/pandas_import_data.ipynb, Learning/Week 3/Pandas/pandas_filtering.ipynb, Learning/Week 3/Pandas/pandas_dataframes.ipynb, Learning/Week 3/Pandas/pandas_aggregation.ipynb, Learning/Week 3/Pandas/orders.json, Learning/Week 3/Pandas/data_cleaning_using_data.ipynb, Learning/Week 3/NumPy/shape_manipulation.ipynb, Learning/Week 3/NumPy/random_numpy.ipynb, Learning/Week 3/NumPy/numpy_practicee.ipynb, Learning/Week 3/NumPy/numpy_practice.ipynb, Learning/Week 3/NumPy/numpy_array.ipynb, Learning/Week 3/NumPy/numpy_Practice2.ipynb, Learning/Week 3/NumPy/numpy_Broadcasting .ipynb, Learning/Week 3/NumPy/num_practice3.ipynb, Learning/Week 3/NumPy/introduction_numpy.ipynb, Learning/Week 3/NumPy/intro_numpy.ipynb, Learning/Week 3/NumPy/array_slicing.ipynb, Learning/Week 3/NumPy/array_indexing.ipynb, Learning/Week 3/NumPy/100_Numpy_exercises.ipynb, Learning/Week 3/MatPlotLib/scatter_plots.ipynb, Learning/Week 3/MatPlotLib/matplotlib_with_pandas.ipynb, Learning/Week 3/MatPlotLib/matplotlib_subplots.ipynb, Learning/Week 3/MatPlotLib/matplotlib_pie_charts.ipynb, Learning/Week 3/MatPlotLib/matplotlib_linestyle.ipynb, Learning/Week 3/MatPlotLib/matplotlib_labels.ipynb, Learning/Week 3/MatPlotLib/matplotlib_intro.ipynb, Learning/Week 3/MatPlotLib/matplotlib_histogram.ipynb, Learning/Week 3/MatPlotLib/matplotlib_grids.ipynb, Learning/Week 3/MatPlotLib/matplotlib_barplots.ipynb, Learning/Week 3/MatPlotLib/matplotlib_bar_charts.ipynb, Learning/Week 3/MatPlotLib/matplot_marker.ipynb, Learning/Week 3/MatPlotLib/Titanic-Dataset.csv, Learning/Week 3/Final_practicing.ipynb, Learning/Week 3/Data Inspection/data_inspection_basics.ipynb, Learning/Week 2/practical practice/scope.ipynb, Learning/Week 2/practical practice/poly.ipynb, Learning/Week 2/practical practice/multiple_inheritance.ipynb, Learning/Week 2/practical practice/lambda_functions.ipynb, Learning/Week 2/practical practice/inheritance.ipynb, Learning/Week 2/practical practice/class_object.ipynb, Learning/Week 2/practical practice/abstract_demo.ipynb, Learning/Week 2/practical practice/Oop.ipynb, Learning/Week 2/practical practice/Number-based problems.ipynb, Learning/Week 2/practical practice/List_Comprehansion.ipynb, Learning/Week 2/practical practice/Dict_comprehension.ipynb, Learning/Week 2/practical practice/Decorators.ipynb, Learning/Week 2/practical practice/13_sales_report_mini_project.ipynb, Learning/Week 2/practical practice/12_ai_explain_debug_refactor_review.ipynb, Learning/Week 2/practical practice/11_number_string_collection_problems.ipynb, Learning/Week 2/practical practice/10_iterators_generators_decorators.ipynb, Learning/Week 2/practical practice/09_comprehensions_lambda_and_loop_controls.ipynb, Learning/Week 2/practical practice/08_oop_classes_inheritance.ipynb, Learning/Week 2/practical practice/06_robust_programs.ipynb, Learning/Week 2/practical practice/05_text_csv_json_files.ipynb, Learning/Week 2/practical practice/04_functions_parameters_returns_scope.ipynb, Learning/Week 2/practical practice/03_lists_tuples_sets_dictionaries.ipynb, Learning/Week 2/practical practice/02_conditions_loops_and_logic.ipynb, Learning/Week 2/practical practice/01_variables_input_output.ipynb, Learning/Week 2/practical practice/00_workspace_and_style.ipynb, Learning/Week 2/data/students.csv, Learning/Week 2/data/sales_report.txt, Learning/Week 2/data/sales.csv, Learning/Week 2/data/profile.json, Learning/Week 2/data/practice_note.txt, Learning/Week 2/data/passed_students.csv, Learning/Week 2/Week_2_Revision.ipynb/small_project_test/utils/file_tools.py, Learning/Week 2/Week_2_Revision.ipynb/small_project_test/utils/__init__.py, Learning/Week 2/Week_2_Revision.ipynb/small_project_test/main.py, Learning/Week 2/Week_2_Revision.ipynb/File_Handling/students.csv, Learning/Week 2/Week_2_Revision.ipynb/File_Handling/file_handling.ipynb, Learning/Week 2/Week_2_Revision.ipynb/File_Handling/faah.txt, Learning/Week 2/Week_2_Revision.ipynb/File_Handling/Fayas.txt, Learning/Week 2/Week_2_Revision.ipynb/File_Handling/Fayas.csv, Learning/Week 2/Week_2_Revision.ipynb/File_Handling/Alien.txt, Learning/Week 2/Week_2_Revision.ipynb/File_Handling/Afnan.txt, Learning/Week 2/Week_2_Revision.ipynb/Execption_Handling.ipynb/expection_handling.ipynb, Learning/Week 2/Week_2_Revision.ipynb/Exam_Practice/Fayas.txt, Learning/Week 2/Week_2_Revision.ipynb/Exam_Practice/Exam_practice.ipynb, Learning/Week 2/Week_2_Revision.ipynb/Class/classes.ipynb, Learning/Week 2/07_modules_packages/identation.ipynb, Learning/Week 2/07_modules_packages/helpers/text_tools.py, Learning/Week 2/07_modules_packages/helpers/number_tools.py, Learning/Week 2/07_modules_packages/helpers/__init__.py, Learning/Week 2/07_modules_packages/dictionary.ipynb, Learning/Week 2/07_modules_packages/datetime.py, Learning/Week 2/07_modules_packages/arithmetic_operations_module.py, Learning/Week 2/07_modules_packages/arithmetic_operations_module.ipynb, Learning/Week 2/07_modules_packages/07_imports_packages_and_environment.ipynb, Learning/Week 1/while_loop.ipynb, Learning/Week 1/test.ipynb, Learning/Week 1/review week1.ipynb, Learning/Week 1/print pattern with star.py, Learning/Week 1/print 10 to1 in backward .py, Learning/Week 1/pattern3 while.py, Learning/Week 1/pattern2 while.py, Learning/Week 1/pattern1 using while.py, Learning/Week 1/password function.py, Learning/Week 1/loop.py, Learning/Week 1/loop login.py, Learning/Week 1/login mini programm.py, Learning/Week 1/logical_problems_with_python.ipynb, Learning/Week 1/list.py, Learning/Week 1/list using append.py, Learning/Week 1/list until 0 and print.py, Learning/Week 1/list append,sum,alrgest,smallest.py, Learning/Week 1/input-and-output.ipynb, Learning/Week 1/input two values and print their sum.py, Learning/Week 1/input and output.py, Learning/Week 1/if_else_elif.ipynb, Learning/Week 1/if else.py, Learning/Week 1/hello.ipynb, Learning/Week 1/grades.py, Learning/Week 1/function.py, Learning/Week 1/for_loop.ipynb, Learning/Week 1/floor division operator and modular.py, Learning/Week 1/find the area and perimeter of a rectangle.py, Learning/Week 1/data_types.ipynb, Learning/Week 1/arithmetic_operations.ipynb, Learning/Week 1/Write a function that takes two numbers and prints their sum.py, Learning/Week 1/Write a function that takes a number and prints its multiplication table (1 to 10).py, Learning/Week 1/Using extend() Method.py, Learning/Week 1/Take a person's age and print You can vote if they are 18 or older.py, Learning/Week 1/Take a number and print Positive only if it is greater than 0..py, Learning/Week 1/Statement.py, Learning/Week 1/Start with an empty list. Keep asking the user for items and append them until they type stop. Then print the final list.py, Learning/Week 1/Print the first and last fruit from that list using indexing.py, Learning/Week 1/Print numbers from 1 to 10 using a while loop..py, Learning/Week 1/Print all even numbers from 1 to 20..py, Learning/Week 1/Find the sum of all numbers from 1 to 100..py, Learning/Week 1/Create a list of 5 marks and print each one with its position, like Mark 1 is 85.py, Learning/Week 1/Create a list of 5 fruits and print the whole list..py, Learning/Week 1/Count how many even numbers are in a list.py, Learning/Week 1/Conditions.py, Learning/Week 1/1 to 10 using for loop.py
+- **Files Updated:**
+  - `Learning/Week 1/1 to 10 using for loop.py`
+  - `Learning/Week 1/Conditions.py`
+  - `Learning/Week 1/Count how many even numbers are in a list.py`
+  - `Learning/Week 1/Create a list of 5 fruits and print the whole list..py`
+  - `Learning/Week 1/Create a list of 5 marks and print each one with its position, like Mark 1 is 85.py`
+  - `Learning/Week 1/Find the sum of all numbers from 1 to 100..py`
+  - `Learning/Week 1/Print all even numbers from 1 to 20..py`
+  - `Learning/Week 1/Print numbers from 1 to 10 using a while loop..py`
+  - `Learning/Week 1/Print the first and last fruit from that list using indexing.py`
+  - `Learning/Week 1/Start with an empty list. Keep asking the user for items and append them until they type stop. Then print the final list.py`
+  - `Learning/Week 1/Statement.py`
+  - `Learning/Week 1/Take a number and print Positive only if it is greater than 0..py`
+  - `Learning/Week 1/Take a person's age and print You can vote if they are 18 or older.py`
+  - `Learning/Week 1/Using extend() Method.py`
+  - `Learning/Week 1/Write a function that takes a number and prints its multiplication table (1 to 10).py`
+  - `Learning/Week 1/Write a function that takes two numbers and prints their sum.py`
+  - `Learning/Week 1/arithmetic_operations.ipynb`
+  - `Learning/Week 1/data_types.ipynb`
+  - `Learning/Week 1/find the area and perimeter of a rectangle.py`
+  - `Learning/Week 1/floor division operator and modular.py`
+  - `Learning/Week 1/for_loop.ipynb`
+  - `Learning/Week 1/function.py`
+  - `Learning/Week 1/grades.py`
+  - `Learning/Week 1/hello.ipynb`
+  - `Learning/Week 1/if else.py`
+  - `Learning/Week 1/if_else_elif.ipynb`
+  - `Learning/Week 1/input and output.py`
+  - `Learning/Week 1/input two values and print their sum.py`
+  - `Learning/Week 1/input-and-output.ipynb`
+  - `Learning/Week 1/list append,sum,alrgest,smallest.py`
+  - `Learning/Week 1/list until 0 and print.py`
+  - `Learning/Week 1/list using append.py`
+  - `Learning/Week 1/list.py`
+  - `Learning/Week 1/logical_problems_with_python.ipynb`
+  - `Learning/Week 1/login mini programm.py`
+  - `Learning/Week 1/loop login.py`
+  - `Learning/Week 1/loop.py`
+  - `Learning/Week 1/password function.py`
+  - `Learning/Week 1/pattern1 using while.py`
+  - `Learning/Week 1/pattern2 while.py`
+  - `Learning/Week 1/pattern3 while.py`
+  - `Learning/Week 1/print 10 to1 in backward .py`
+  - `Learning/Week 1/print pattern with star.py`
+  - `Learning/Week 1/review week1.ipynb`
+  - `Learning/Week 1/test.ipynb`
+  - `Learning/Week 1/while_loop.ipynb`
+  - `Learning/Week 2/07_modules_packages/07_imports_packages_and_environment.ipynb`
+  - `Learning/Week 2/07_modules_packages/arithmetic_operations_module.ipynb`
+  - `Learning/Week 2/07_modules_packages/arithmetic_operations_module.py`
+  - `Learning/Week 2/07_modules_packages/datetime.py`
+  - `Learning/Week 2/07_modules_packages/dictionary.ipynb`
+  - `Learning/Week 2/07_modules_packages/helpers/__init__.py`
+  - `Learning/Week 2/07_modules_packages/helpers/number_tools.py`
+  - `Learning/Week 2/07_modules_packages/helpers/text_tools.py`
+  - `Learning/Week 2/07_modules_packages/identation.ipynb`
+  - `Learning/Week 2/Week_2_Revision.ipynb/Class/classes.ipynb`
+  - `Learning/Week 2/Week_2_Revision.ipynb/Exam_Practice/Exam_practice.ipynb`
+  - `Learning/Week 2/Week_2_Revision.ipynb/Exam_Practice/Fayas.txt`
+  - `Learning/Week 2/Week_2_Revision.ipynb/Execption_Handling.ipynb/expection_handling.ipynb`
+  - `Learning/Week 2/Week_2_Revision.ipynb/File_Handling/Afnan.txt`
+  - `Learning/Week 2/Week_2_Revision.ipynb/File_Handling/Alien.txt`
+  - `Learning/Week 2/Week_2_Revision.ipynb/File_Handling/Fayas.csv`
+  - `Learning/Week 2/Week_2_Revision.ipynb/File_Handling/Fayas.txt`
+  - `Learning/Week 2/Week_2_Revision.ipynb/File_Handling/faah.txt`
+  - `Learning/Week 2/Week_2_Revision.ipynb/File_Handling/file_handling.ipynb`
+  - `Learning/Week 2/Week_2_Revision.ipynb/File_Handling/students.csv`
+  - `Learning/Week 2/Week_2_Revision.ipynb/small_project_test/main.py`
+  - `Learning/Week 2/Week_2_Revision.ipynb/small_project_test/utils/__init__.py`
+  - `Learning/Week 2/Week_2_Revision.ipynb/small_project_test/utils/file_tools.py`
+  - `Learning/Week 2/data/passed_students.csv`
+  - `Learning/Week 2/data/practice_note.txt`
+  - `Learning/Week 2/data/profile.json`
+  - `Learning/Week 2/data/sales.csv`
+  - `Learning/Week 2/data/sales_report.txt`
+  - `Learning/Week 2/data/students.csv`
+  - `Learning/Week 2/practical practice/00_workspace_and_style.ipynb`
+  - `Learning/Week 2/practical practice/01_variables_input_output.ipynb`
+  - `Learning/Week 2/practical practice/02_conditions_loops_and_logic.ipynb`
+  - `Learning/Week 2/practical practice/03_lists_tuples_sets_dictionaries.ipynb`
+  - `Learning/Week 2/practical practice/04_functions_parameters_returns_scope.ipynb`
+  - `Learning/Week 2/practical practice/05_text_csv_json_files.ipynb`
+  - `Learning/Week 2/practical practice/06_robust_programs.ipynb`
+  - `Learning/Week 2/practical practice/08_oop_classes_inheritance.ipynb`
+  - `Learning/Week 2/practical practice/09_comprehensions_lambda_and_loop_controls.ipynb`
+  - `Learning/Week 2/practical practice/10_iterators_generators_decorators.ipynb`
+  - `Learning/Week 2/practical practice/11_number_string_collection_problems.ipynb`
+  - `Learning/Week 2/practical practice/12_ai_explain_debug_refactor_review.ipynb`
+  - `Learning/Week 2/practical practice/13_sales_report_mini_project.ipynb`
+  - `Learning/Week 2/practical practice/Decorators.ipynb`
+  - `Learning/Week 2/practical practice/Dict_comprehension.ipynb`
+  - `Learning/Week 2/practical practice/List_Comprehansion.ipynb`
+  - `Learning/Week 2/practical practice/Number-based problems.ipynb`
+  - `Learning/Week 2/practical practice/Oop.ipynb`
+  - `Learning/Week 2/practical practice/abstract_demo.ipynb`
+  - `Learning/Week 2/practical practice/class_object.ipynb`
+  - `Learning/Week 2/practical practice/inheritance.ipynb`
+  - `Learning/Week 2/practical practice/lambda_functions.ipynb`
+  - `Learning/Week 2/practical practice/multiple_inheritance.ipynb`
+  - `Learning/Week 2/practical practice/poly.ipynb`
+  - `Learning/Week 2/practical practice/scope.ipynb`
+  - `Learning/Week 3/Data Inspection/data_inspection_basics.ipynb`
+  - `Learning/Week 3/Final_practicing.ipynb`
+  - `Learning/Week 3/MatPlotLib/Titanic-Dataset.csv`
+  - `Learning/Week 3/MatPlotLib/matplot_marker.ipynb`
+  - `Learning/Week 3/MatPlotLib/matplotlib_bar_charts.ipynb`
+  - `Learning/Week 3/MatPlotLib/matplotlib_barplots.ipynb`
+  - `Learning/Week 3/MatPlotLib/matplotlib_grids.ipynb`
+  - `Learning/Week 3/MatPlotLib/matplotlib_histogram.ipynb`
+  - `Learning/Week 3/MatPlotLib/matplotlib_intro.ipynb`
+  - `Learning/Week 3/MatPlotLib/matplotlib_labels.ipynb`
+  - `Learning/Week 3/MatPlotLib/matplotlib_linestyle.ipynb`
+  - `Learning/Week 3/MatPlotLib/matplotlib_pie_charts.ipynb`
+  - `Learning/Week 3/MatPlotLib/matplotlib_subplots.ipynb`
+  - `Learning/Week 3/MatPlotLib/matplotlib_with_pandas.ipynb`
+  - `Learning/Week 3/MatPlotLib/scatter_plots.ipynb`
+  - `Learning/Week 3/NumPy/100_Numpy_exercises.ipynb`
+  - `Learning/Week 3/NumPy/array_indexing.ipynb`
+  - `Learning/Week 3/NumPy/array_slicing.ipynb`
+  - `Learning/Week 3/NumPy/intro_numpy.ipynb`
+  - `Learning/Week 3/NumPy/introduction_numpy.ipynb`
+  - `Learning/Week 3/NumPy/num_practice3.ipynb`
+  - `Learning/Week 3/NumPy/numpy_Broadcasting .ipynb`
+  - `Learning/Week 3/NumPy/numpy_Practice2.ipynb`
+  - `Learning/Week 3/NumPy/numpy_array.ipynb`
+  - `Learning/Week 3/NumPy/numpy_practice.ipynb`
+  - `Learning/Week 3/NumPy/numpy_practicee.ipynb`
+  - `Learning/Week 3/NumPy/random_numpy.ipynb`
+  - `Learning/Week 3/NumPy/shape_manipulation.ipynb`
+  - `Learning/Week 3/Pandas/data_cleaning_using_data.ipynb`
+  - `Learning/Week 3/Pandas/orders.json`
+  - `Learning/Week 3/Pandas/pandas_aggregation.ipynb`
+  - `Learning/Week 3/Pandas/pandas_dataframes.ipynb`
+  - `Learning/Week 3/Pandas/pandas_filtering.ipynb`
+  - `Learning/Week 3/Pandas/pandas_import_data.ipynb`
+  - `Learning/Week 3/Pandas/pandas_intro.ipynb`
+  - `Learning/Week 3/Pandas/practicing/practice1.ipynb`
+  - `Learning/Week 3/Pokemone.json`
+  - `Learning/Week 3/Practice_1/Dataset_Inspection.ipynb`
+  - `Learning/Week 3/Practice_1/pandas_practicing.ipynb`
+  - `Learning/Week 3/Practice_1/practice.ipynb`
+  - `Learning/Week 3/Practice_1/practicing_pandas.ipynb`
+  - `Learning/Week 3/Quick_revisions.ipynb`
+  - `Learning/Week 3/Titanic-Dataset.csv`
+  - `Learning/Week 3/final_practicing.ipynb`
+  - `Learning/Week 3/final_practicing_2.ipynb`
+  - `Learning/Week 4/ Distributions/Discrete, continuous, PDF, and CDF.ipynb`
+  - `Learning/Week 4/ Distributions/Exponential Distribution.ipynb`
+  - `Learning/Week 4/ Distributions/Poisson.ipynb`
+  - `Learning/Week 4/ Distributions/Uniform Distribution.ipynb`
+  - `Learning/Week 4/ Distributions/bernoulli.ipynb`
+  - `Learning/Week 4/ Distributions/binomial.ipynb`
+  - `Learning/Week 4/ Distributions/calls_data.csv`
+  - `Learning/Week 4/Correlation/correlation_pearson_spearman_matrix.ipynb`
+  - `Learning/Week 4/Correlation/covariance_vs_correlation.py.ipynb`
+  - `Learning/Week 4/Mathematical Foundations for ML/maths_foundations.ipynb`
+  - `Learning/Week 4/Mathematical Foundations for ML/straight-line prediction.ipynb`
+  - `Learning/Week 4/Practice/practice number 2.ipynb`
+  - `Learning/Week 4/Practice/practice_probability.ipynb`
+  - `Learning/Week 4/Practice/pratice_1.ipynb`
+  - `Learning/Week 4/Probability/ Complement, union, intersection, and addition rule.ipynb`
+  - `Learning/Week 4/Probability/ Random experiments, sample spaces, and events.ipynb`
+  - `Learning/Week 4/Probability/Conditional probability and Bayes' rule.ipynb`
+  - `Learning/Week 4/Probability/Imagine tossing a fair coin twice.ipynb`
+  - `Learning/Week 4/Probability/Mutually exclusive, independent, and conditional events.ipynb`
+  - `Learning/Week 4/Probability/bayes_condition_test_dataset.csv`
+  - `Learning/Week 4/Statistics \342\200\224 Mean, median, and mode/Basic_starting.ipynb`
+  - `Learning/Week 4/Statistics \342\200\224 Mean, median, and mode/Histograms, box plots, skewness, and kurtosis.ipynb`
+  - `Learning/Week 4/Statistics \342\200\224 Mean, median, and mode/Population variance versus sample variance.ipynb`
+  - `Learning/Week 4/Statistics \342\200\224 Mean, median, and mode/Range, variance, and standard deviation.ipynb`
+  - `Learning/Week 4/Statistics \342\200\224 Mean, median, and mode/Stati_practice.ipynb`
+  - `Learning/Week 4/Statistics \342\200\224 Mean, median, and mode/stati.ipynb`
+  - `Learning/Week 4/Statistics \342\200\224 Mean, median, and mode/trial_graph.ipynb`
+  - `Learning/Week 4/Statistics \342\200\224 Mean, median, and mode/untouched_copy.csv`
+  - `Learning/Week 4/customers.csv`
+  - `Learning/Week 4/notes.ipynb`
+  - `Learning/Week 4/penguins.csv`
+  - `Learning/Week 4/statistics_fundamentals_practice.csv`
+  - `Learning/Week 5/00. Foundations/basics.ipynb`
+  - `Learning/Week 5/00. Foundations/vectors.ipynb`
+  - `Learning/Week 5/01. Vector Mathematics/distance_measurement.ipynb`
+  - `Learning/Week 5/01. Vector Mathematics/dot products.ipynb`
+  - `Learning/Week 5/01. Vector Mathematics/vector similarity.ipynb`
+  - `Learning/Week 5/02. Matrix Mathematics/determinants.ipynb`
+  - `Learning/Week 5/02. Matrix Mathematics/eigenvalues_vectors.ipynb`
+  - `Learning/Week 5/02. Matrix Mathematics/identity_matrix.ipynb`
+  - `Learning/Week 5/02. Matrix Mathematics/inverse.ipynb`
+  - `Learning/Week 5/02. Matrix Mathematics/matrix_rank.ipynb`
+  - `Learning/Week 5/02. Matrix Mathematics/matrix_transpose.ipynb`
+  - `Learning/Week 5/02. Matrix Mathematics/orthogonal matrices.ipynb`
+  - `Learning/Week 5/03. Matrix Decompositions/matrix_factorization.ipynb`
+  - `Learning/Week 5/03. Matrix Decompositions/svd.ipynb`
+  - `Learning/Week 5/04. Calculus & Optimization/cost_of_funtions.ipynb`
+  - `Learning/Week 5/04. Calculus & Optimization/functions_rateofchange .ipynb`
+  - `Learning/Week 5/04. Calculus & Optimization/gradient_descent.ipynb`
+  - `Learning/Week 5/04. Calculus & Optimization/gradient_descent2.ipynb`
+  - `Learning/Week 5/04. Calculus & Optimization/slopes.ipynb`
+  - `Learning/Week 5/05. Assessments/Checkpoint and buffer.ipynb`
+  - `Learning/Week 5/05. Assessments/Pass1.ipynb`
+  - `Learning/Week 5/05. Assessments/practice.ipynb`
+  - `Learning/Week 5/Start one running mistakes list (a single file, used every day.txt`
+  - `Learning/python login/index.html`
+  - `Learning/Module 1/`
+  - `Learning/Module 2/`
+  - `Learning/Module 3/`
+  - `Learning/Module 4/`
+  - `Learning/Module 5/`
+---
+
+### 📅 Entry — 2026-11-06
 - **Topic / Focus:** "Week 5 Review"
 - **Files Updated:**
   - `Exam_Reviews/Week2/list_comprehension.ipynb`
