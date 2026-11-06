@@ -17,6 +17,19 @@ A daily log tracking concepts learned, notebooks practiced, code written, and ke
 
 ## 📝 Daily Entries
 
+### 📅 Entry — 2026-11-06
+- **Topic / Focus:** "Week 5 Review"
+- **Files Updated:**
+  - `Exam_Reviews/Week2/list_comprehension.ipynb`
+  - `Exam_Reviews/Week2/test.csv`
+  - `Exam_Reviews/Week3/Review_Test.ipynb`
+  - `Exam_Reviews/Week3/pokemone.csv`
+  - `Learning/Week 5/05. Assessments/Pass1.ipynb`
+  - `Exam_Reviews/Week 2/`
+  - `Exam_Reviews/Week 3/`
+  - `Exam_Reviews/Week 5/`
+---
+
 ### 📅 Entry — 2026-11-05
 - **Topic / Focus:** "Practicing Before Review"
 - **Files Updated:**
