@@ -18,6 +18,17 @@ A daily log tracking concepts learned, notebooks practiced, code written, and ke
 ## 📝 Daily Entries
 
 ### 📅 Entry — 2026-11-09
+- **Topic / Focus:** ""
+- **Files Updated:**
+  - `Learning/Paper 1/Day 1/Input and output.ipynb`
+  - `Learning/Paper 1/Day 1/Variables and data types.ipynb`
+  - `Learning/Paper 1/Day 1/logical problems.ipynb`
+  - `Learning/Paper 1/Day 1/logical_problems_2.ipynb`
+  - `Learning/Paper 1/Day 1/Python Basics/`
+  - `Learning/Paper 1/Day 1/Python Functions/`
+---
+
+### 📅 Entry — 2026-11-09
 - **Topic / Focus:** "Practicing Papre Exam"
 - **Files Updated:**
   - `Learning/Paper 1/`
