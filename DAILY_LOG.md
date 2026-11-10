@@ -17,6 +17,22 @@ A daily log tracking concepts learned, notebooks practiced, code written, and ke
 
 ## 📝 Daily Entries
 
+### 📅 Entry — 2026-11-10
+- **Topic / Focus:** "Revision On Advanced Python For Paper 1"
+- **Files Updated:**
+  - `Learning/Paper 1/Day 1/Python Basics/list_tuple_set_dict.ipynb`
+  - `Learning/Paper 1/Day 1/Python Basics/logical_problems_2.ipynb`
+  - `Learning/Paper 1/Day 1/Python Functions/functions_2.ipynb`
+  - `Learning/Paper 1/Day 1/Python Functions/scope.ipynb`
+  - `Learning/Paper 1/Day 1/Exception_Handling/`
+  - `Learning/Paper 1/Day 1/File Handling/`
+  - `Learning/Paper 1/Day 1/Modules_and_Packages/`
+  - `Learning/Paper 1/Day 1/OOP/`
+  - `Learning/Paper 1/Day 1/Python Functions/inner_function.ipynb`
+  - `Learning/Paper 1/Day 1/control.ipynb`
+  - `Learning/Paper 1/Day 1/match.ipynb`
+---
+
 ### 📅 Entry — 2026-11-09
 - **Topic / Focus:** ""
 - **Files Updated:**
