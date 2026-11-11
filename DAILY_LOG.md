@@ -18,6 +18,14 @@ A daily log tracking concepts learned, notebooks practiced, code written, and ke
 ## 📝 Daily Entries
 
 ### 📅 Entry — 2026-11-11
+- **Topic / Focus:** Practicing Oop"
+- **Files Updated:**
+  - `Learning/Paper 1/Day 1/OOP/types of methods.ipynb`
+  - `Learning/Paper 1/Day 1/OOP/inherintance_mro.ipynb`
+  - `Learning/Paper 1/Day 1/OOP/polymorphism.ipynb`
+---
+
+### 📅 Entry — 2026-11-11
 - **Topic / Focus:** "Practicing Paper 1 Revision"
 - **Files Updated:**
   - `Learning/Paper 1/Day 1/Python Basics/logical_problems_2.ipynb`
