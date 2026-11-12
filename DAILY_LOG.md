@@ -18,6 +18,15 @@ A daily log tracking concepts learned, notebooks practiced, code written, and ke
 ## 📝 Daily Entries
 
 ### 📅 Entry — 2026-11-12
+- **Topic / Focus:** "Maths And Numpy"
+- **Files Updated:**
+  - `Learning/Paper 1/Phase 2/Python Basics/Maths/probab_lib.ipynb`
+  - `Learning/Paper 1/Phase 2/Numpy/`
+  - `Learning/Paper 1/Phase 2/Python Basics/Maths/prob_bas.ipynb`
+  - `Learning/Paper 1/Phase 2/Python Basics/Maths/prob_raw.ipynb`
+---
+
+### 📅 Entry — 2026-11-12
 - **Topic / Focus:** Updated Learning/Paper 1/Phase 2/, Learning/Paper 1/Phase 1/, Learning/Paper 1/Day 1/special_variables.ipynb, Learning/Paper 1/Day 1/match.ipynb, Learning/Paper 1/Day 1/control.ipynb, Learning/Paper 1/Day 1/Python Functions/scope.ipynb, Learning/Paper 1/Day 1/Python Functions/inner_function.ipynb, Learning/Paper 1/Day 1/Python Functions/functions_2.ipynb, Learning/Paper 1/Day 1/Python Functions/def_call.ipynb, Learning/Paper 1/Day 1/Python Basics/nested_loop.ipynb, Learning/Paper 1/Day 1/Python Basics/logical_problems_2.ipynb, Learning/Paper 1/Day 1/Python Basics/logical problems.ipynb, Learning/Paper 1/Day 1/Python Basics/list_tuple_set_dict.ipynb, Learning/Paper 1/Day 1/Python Basics/enumerate.ipynb, Learning/Paper 1/Day 1/Python Basics/Variables and data types.ipynb, Learning/Paper 1/Day 1/Python Basics/Type conversion .ipynb, Learning/Paper 1/Day 1/OOP/types of methods.ipynb, Learning/Paper 1/Day 1/OOP/polymorphism.ipynb, Learning/Paper 1/Day 1/OOP/inherintance_mro.ipynb, Learning/Paper 1/Day 1/OOP/decorators.ipynb, Learning/Paper 1/Day 1/OOP/contructor.ipynb, Learning/Paper 1/Day 1/OOP/Basics.ipynb, Learning/Paper 1/Day 1/Modules_and_Packages/import_modules.ipynb, Learning/Paper 1/Day 1/Modules_and_Packages/custom Module/maths.py, Learning/Paper 1/Day 1/Modules_and_Packages/custom Module/main.ipynb, Learning/Paper 1/Day 1/File Handling/user.json, Learning/Paper 1/Day 1/File Handling/students.csv, Learning/Paper 1/Day 1/File Handling/notes.txt, Learning/Paper 1/Day 1/File Handling/learning_log.txt, Learning/Paper 1/Day 1/File Handling/json_handlng.ipynb, Learning/Paper 1/Day 1/File Handling/json_dump.json, Learning/Paper 1/Day 1/File Handling/json_dump, Learning/Paper 1/Day 1/File Handling/filename.txt, Learning/Paper 1/Day 1/File Handling/file_handling_1.ipynb, Learning/Paper 1/Day 1/File Handling/file_handlig.txt, Learning/Paper 1/Day 1/File Handling/csv_handling.ipynb, Learning/Paper 1/Day 1/Exception_Handling/try_except.ipynb
 - **Files Updated:**
   - `Learning/Paper 1/Day 1/Exception_Handling/try_except.ipynb`
