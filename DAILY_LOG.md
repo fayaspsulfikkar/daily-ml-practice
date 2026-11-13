@@ -17,6 +17,12 @@ A daily log tracking concepts learned, notebooks practiced, code written, and ke
 
 ## 📝 Daily Entries
 
+### 📅 Entry — 2026-11-13
+- **Topic / Focus:** "Numpy Practicing"
+- **Files Updated:**
+  - `Learning/Paper 1/Phase 2/Numpy/Numpy_Basics.ipynb`
+---
+
 ### 📅 Entry — 2026-11-12
 - **Topic / Focus:** "Maths And Numpy"
 - **Files Updated:**
