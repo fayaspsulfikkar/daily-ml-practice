@@ -18,6 +18,17 @@ A daily log tracking concepts learned, notebooks practiced, code written, and ke
 ## 📝 Daily Entries
 
 ### 📅 Entry — 2026-11-14
+- **Topic / Focus:** "Practicing Hands On Tasks"
+- **Files Updated:**
+  - `Exam_Reviews/Week 4/review 2.ipynb`
+  - `Learning/Paper 1/Phase 3/Practicing_Maths.ipynb`
+  - `Learning/Paper 1/Phase 3/Hand_on_task.ipynb`
+  - `Learning/Paper 1/Phase 3/Practice_prob.ipynb`
+  - `Learning/Paper 1/Phase 3/data_dist.ipynb`
+  - `Learning/Paper 1/Phase 3/practical_maths.ipynb`
+---
+
+### 📅 Entry — 2026-11-14
 - **Topic / Focus:** "Praacticing Matplotlib and Maths"
 - **Files Updated:**
   - `Learning/Paper 1/Phase 2/Matplotlib/matplotlib_basics.ipynb`
