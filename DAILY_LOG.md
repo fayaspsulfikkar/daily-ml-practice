@@ -17,6 +17,13 @@ A daily log tracking concepts learned, notebooks practiced, code written, and ke
 
 ## 📝 Daily Entries
 
+### 📅 Entry — 2026-11-14
+- **Topic / Focus:** "Praacticing Matplotlib and Maths"
+- **Files Updated:**
+  - `Learning/Paper 1/Phase 2/Matplotlib/matplotlib_basics.ipynb`
+  - `Learning/Paper 1/Phase 3/`
+---
+
 ### 📅 Entry — 2026-11-13
 - **Topic / Focus:** "Completing Phase 2"
 - **Files Updated:**
