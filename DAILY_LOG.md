@@ -20,6 +20,13 @@ A daily log tracking concepts learned, notebooks practiced, code written, and ke
 ### 📅 Entry — 2026-11-16
 - **Topic / Focus:** "Practical Assesment"
 - **Files Updated:**
+  - `Learning/Paper 1/Phase 3/practical_assesment.ipynb`
+  - `Learning/Paper 1/Phase 3/Hi.txt`
+---
+
+### 📅 Entry — 2026-11-16
+- **Topic / Focus:** "Practical Assesment"
+- **Files Updated:**
   - `Learning/Paper 1/Phase 3/Hand_on_task.ipynb`
   - `Learning/Paper 1/Phase 3/Practicing_libraries.ipynb`
   - `Learning/Paper 1/Phase 3/Week 1 Practice By Hand.ipynb`
