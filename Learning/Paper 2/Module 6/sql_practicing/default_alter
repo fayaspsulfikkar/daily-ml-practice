@@ -1,0 +1,95 @@
+ALTER TABLE branches
+ADD CONSTRAINT branch_unique
+UNIQUE (branch_id);
+
+ALTER TABLE customers
+ADD CONSTRAINT phone_unique
+UNIQUE (phone);
+
+ALTER TABLE services
+ADD CONSTRAINT serviceName_unique
+UNIQUE (service_name);
+
+ALTER TABLE profiles
+ADD CONSTRAINT igHandle_unique
+UNIQUE (instagram_handle);
+
+
+ALTER TABLE services
+ADD CONSTRAINT check_price
+CHECK (price > 0);
+
+
+ALTER TABLE services
+ADD CONSTRAINT check_duration
+CHECK (duration_minutes > 0);
+
+ALTER TABLE staff
+ADD CONSTRAINT check_salary
+CHECK (monthly_salary > 0);
+
+ALTER TABLE profiles
+ADD CONSTRAINT check_ExpYears
+CHECK (experience_years >= 0);
+
+
+ALTER TABLE appointments
+ADD CONSTRAINT check_status
+CHECK (status IN ('booked','completed','cancelled'));
+
+
+ALTER TABLE appointments
+ADD COLUMN rating SMALLINT;
+
+
+ALTER TABLE appointments
+ADD CONSTRAINT check_rating
+CHECK (rating BETWEEN 1 AND 5);
+
+
+ALTER TABLE appointment_services
+ADD CONSTRAINT check_price
+CHECK (price_charged >= 0);
+
+
+ALTER TABLE customers
+ALTER COLUMN joined_date SET DEFAULT CURRENT_DATE;
+
+
+ALTER TABLE customers
+ALTER COLUMN is_member SET DEFAULT FALSE;
+
+ALTER TABLE appointments
+ALTER COLUMN status SET DEFAULT 'booked';
+
+ALTER TABLE staff
+ALTER COLUMN
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,14 @@
+SELECT VERSION();
+
+SELECT CURRENT_DATE;
+
+SELECT NOW();
+
+SELECT 
+VERSION() AS Server_Version,
+CURRENT_DATE AS today;
+
+CREATE DATABASE glowup_salon;
+
+
+

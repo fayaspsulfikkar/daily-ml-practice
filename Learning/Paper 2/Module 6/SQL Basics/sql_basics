@@ -1,0 +1,261 @@
+ALTER TABLE students
+
+
+SELECT * 
+FROM students;
+
+
+UPDATE students
+SET age = 20
+WHERE student_id = 1;
+
+SELECT *
+FROM students
+ORDER BY student_id asc;
+
+
+select *
+from students;
+
+
+DELETE FROM students where student_id = 2;
+
+SELECT *
+FROM students;
+
+
+ALTER TABLE students
+ADD COLUMN city VARCHAR(20),
+ADD COLUMN eligble BOOLEAN;
+
+SELECT *
+FROM students;
+
+INSERT INTO students (city,eligble)
+VALUES
+('Kozhikode', TRUE),
+('Malappuram', TRUE),
+('Wayanad', FALSE),
+('Kannur', TRUE),
+('Kochi', TRUE),
+('Thrissur', FALSE),
+('Palakkad', TRUE),
+('Kollam', TRUE),
+('Alappuzha', FALSE),
+('Kottayam', TRUE),
+('Thiruvananthapuram', TRUE),
+('Idukki', FALSE),
+('Kasaragod', TRUE),
+('Pathanamthitta', FALSE),
+('Bengaluru', TRUE),
+('Chennai', TRUE),
+('Mumbai', FALSE),
+('Hyderabad', TRUE),
+('Pune', TRUE),
+('Delhi', FALSE),
+('Mysuru', TRUE),
+('Coimbatore', TRUE),
+('Mangalore', FALSE),
+('Goa', TRUE),
+('Jaipur', FALSE),
+('Kozhikode', TRUE),
+('Kannur', FALSE),
+('Kochi', TRUE),
+('Wayanad', TRUE),
+('Malappuram', FALSE),
+('Thrissur', TRUE),
+('Palakkad', FALSE),
+('Kollam', TRUE),
+('Alappuzha', TRUE),
+('Kottayam', FALSE),
+('Bengaluru', TRUE),
+('Chennai', FALSE),
+('Mumbai', TRUE),
+('Pune', FALSE),
+('Hyderabad', TRUE),
+('Delhi', TRUE),
+('Mysuru', FALSE),
+('Coimbatore', TRUE),
+('Mangalore', TRUE),
+('Jaipur', FALSE),
+('Goa', TRUE),
+('Kasaragod', FALSE),
+('Idukki', TRUE),
+('Kozhikode', FALSE);
+
+UPDATE students AS s
+SET
+    city = v.city,
+    eligble = v.eligible
+FROM (VALUES
+    (1, 'Kozhikode', TRUE),
+    (3, 'Malappuram', FALSE),
+    (4, 'Wayanad', TRUE),
+    (5, 'Kannur', FALSE),
+    (6, 'Kochi', TRUE),
+    (7, 'Thrissur', FALSE),
+    (8, 'Palakkad', TRUE),
+    (9, 'Kollam', FALSE),
+    (10, 'Alappuzha', TRUE),
+    (11, 'Kottayam', FALSE),
+    (12, 'Bengaluru', TRUE),
+    (13, 'Chennai', FALSE),
+    (14, 'Mumbai', TRUE),
+    (15, 'Hyderabad', FALSE),
+    (16, 'Pune', TRUE),
+    (17, 'Delhi', FALSE),
+    (18, 'Mysuru', TRUE),
+    (19, 'Coimbatore', FALSE),
+    (20, 'Mangalore', TRUE),
+    (21, 'Goa', FALSE),
+    (22, 'Jaipur', TRUE),
+    (23, 'Kozhikode', FALSE),
+    (24, 'Kannur', TRUE),
+    (25, 'Kochi', FALSE),
+    (26, 'Wayanad', TRUE),
+    (27, 'Malappuram', FALSE),
+    (28, 'Thrissur', TRUE),
+    (29, 'Palakkad', FALSE),
+    (30, 'Kollam', TRUE),
+    (31, 'Alappuzha', FALSE),
+    (32, 'Kottayam', TRUE),
+    (33, 'Bengaluru', FALSE),
+    (34, 'Chennai', TRUE),
+    (35, 'Mumbai', FALSE),
+    (36, 'Pune', TRUE),
+    (37, 'Hyderabad', FALSE),
+    (38, 'Delhi', TRUE),
+    (39, 'Mysuru', FALSE),
+    (40, 'Coimbatore', TRUE),
+    (41, 'Mangalore', FALSE),
+    (42, 'Jaipur', TRUE),
+    (43, 'Goa', FALSE),
+    (44, 'Kasaragod', TRUE),
+    (45, 'Idukki', FALSE),
+    (46, 'Kozhikode', TRUE),
+    (47, 'Kannur', FALSE),
+    (48, 'Kochi', TRUE),
+    (49, 'Wayanad', FALSE),
+    (50, 'Malappuram', TRUE)
+) AS v(id, city, eligible)
+WHERE s.student_id = v.id;
+
+
+SELECT *
+FROM students;
+
+
+INSERT INTO students
+VALUES 
+(2, 'Velvet', 'Ezzsh', 22, 'velvet@gmail.com', '2026-08-20', 'Kozhikode', TRUE);
+
+
+SELECT *
+FROM students;
+
+
+SELECT *
+FROM students
+ORDER BY student_id ASC;
+
+
+CREATE TABLE course(
+	course_id SERIAL PRIMARY KEY,
+	course_name VARCHAR(255) UNIQUE,
+	duration INT CHECK (duration BETWEEN 0 AND 12),
+	trainer_name VARCHAR(255) NOT NULL,
+	description VARCHAR(255)
+	
+);
+
+
+
+SELECT *
+FROM course;
+
+INSERT INTO course (course_name, duration, trainer_name, description)
+VALUES
+('AI/ML',12,'Ramanan','No Need');
+
+
+SELECT *
+FROM course;
+
+
+
+INSERT INTO course (course_name, duration, trainer_name, description)
+VALUES
+('Python Programming', 3, 'Arun Kumar', 'Python fundamentals and programming'),
+('Data Science', 6, 'Rahul Menon', 'Data analysis and visualization'),
+('Machine Learning', 8, 'Ramanan', 'Machine learning algorithms and models'),
+('Deep Learning', 6, 'Anjali Nair', 'Neural networks and deep learning'),
+('Web Development', 4, 'Vishnu Raj', 'HTML CSS and JavaScript'),
+('Full Stack Development', 10, 'Akhil Das', 'Frontend and backend development'),
+('SQL Fundamentals', 2, 'Sneha Thomas', 'Database management using SQL'),
+('PostgreSQL', 3, 'Nikhil Varma', 'PostgreSQL database fundamentals'),
+('Artificial Intelligence', 12, 'Meera Krishnan', 'AI concepts and applications'),
+('Data Analytics', 5, 'Devika Menon', 'Data analysis using Python'),
+('Cloud Computing', 6, 'Sahil Khan', 'Cloud infrastructure and services'),
+('Cybersecurity', 8, 'Amal Joseph', 'Network and application security'),
+('C Programming', 3, 'Kiran Kumar', 'C programming fundamentals'),
+('Java Programming', 5, 'Athira Rajan', 'Object oriented programming with Java'),
+('Computer Networks', 4, 'Joel Mathew', 'Networking concepts and protocols');
+
+
+SELECT *
+FROM course;
+
+
+CREATE TABLE enrollment (
+	enrollment_id SERIAL PRIMARY KEY,
+	student_id INT REFERENCES students(student_id),
+	course_id INT REFERENCES course(course_id)
+);
+
+
+SELECT * 
+FROM enrollment;
+
+INSERT INTO enrollment (student_id, course_id)
+VALUES 
+(1, 1),
+(1, 2),
+(3, 1),
+(4, 3),
+(5, 2),
+(6, 4),
+(7, 5),
+(8, 3),
+(9, 6),
+(10, 1),
+(11, 7),
+(12, 8),
+(13, 2),
+(14, 9),
+(15, 10);
+
+
+SELECT *
+FROM enrollment;
+
+
+ALTER TABLE enrollment
+RENAME TO enrollments;
+
+
+SELECT *
+FROM enrollments;
+
+
+SELECT students.first_name, course.course_name
+FROM enrollments
+JOIN students 
+ON enrollments.student_id = students.student_id
+JOIN course
+ON enrollments.course_id = course.course_id;
+
+
+
+
+
+

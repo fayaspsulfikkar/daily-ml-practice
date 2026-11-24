@@ -17,6 +17,281 @@ A daily log tracking concepts learned, notebooks practiced, code written, and ke
 
 ## 📝 Daily Entries
 
+### 📅 Entry — 2026-11-24
+- **Topic / Focus:** "Completed PSQL Basics"
+- **Files Updated:**
+  - `Learning/Module 1/1 to 10 using for loop.py`
+  - `Learning/Module 1/Conditions.py`
+  - `Learning/Module 1/Count how many even numbers are in a list.py`
+  - `Learning/Module 1/Create a list of 5 fruits and print the whole list..py`
+  - `Learning/Module 1/Create a list of 5 marks and print each one with its position, like Mark 1 is 85.py`
+  - `Learning/Module 1/Find the sum of all numbers from 1 to 100..py`
+  - `Learning/Module 1/Print all even numbers from 1 to 20..py`
+  - `Learning/Module 1/Print numbers from 1 to 10 using a while loop..py`
+  - `Learning/Module 1/Print the first and last fruit from that list using indexing.py`
+  - `Learning/Module 1/Start with an empty list. Keep asking the user for items and append them until they type stop. Then print the final list.py`
+  - `Learning/Module 1/Statement.py`
+  - `Learning/Module 1/Take a number and print Positive only if it is greater than 0..py`
+  - `Learning/Module 1/Take a person's age and print You can vote if they are 18 or older.py`
+  - `Learning/Module 1/Using extend() Method.py`
+  - `Learning/Module 1/Write a function that takes a number and prints its multiplication table (1 to 10).py`
+  - `Learning/Module 1/Write a function that takes two numbers and prints their sum.py`
+  - `Learning/Module 1/arithmetic_operations.ipynb`
+  - `Learning/Module 1/data_types.ipynb`
+  - `Learning/Module 1/find the area and perimeter of a rectangle.py`
+  - `Learning/Module 1/floor division operator and modular.py`
+  - `Learning/Module 1/for_loop.ipynb`
+  - `Learning/Module 1/function.py`
+  - `Learning/Module 1/grades.py`
+  - `Learning/Module 1/hello.ipynb`
+  - `Learning/Module 1/if else.py`
+  - `Learning/Module 1/if_else_elif.ipynb`
+  - `Learning/Module 1/input and output.py`
+  - `Learning/Module 1/input two values and print their sum.py`
+  - `Learning/Module 1/input-and-output.ipynb`
+  - `Learning/Module 1/list append,sum,alrgest,smallest.py`
+  - `Learning/Module 1/list until 0 and print.py`
+  - `Learning/Module 1/list using append.py`
+  - `Learning/Module 1/list.py`
+  - `Learning/Module 1/logical_problems_with_python.ipynb`
+  - `Learning/Module 1/login mini programm.py`
+  - `Learning/Module 1/loop login.py`
+  - `Learning/Module 1/loop.py`
+  - `Learning/Module 1/password function.py`
+  - `Learning/Module 1/pattern1 using while.py`
+  - `Learning/Module 1/pattern2 while.py`
+  - `Learning/Module 1/pattern3 while.py`
+  - `Learning/Module 1/print 10 to1 in backward .py`
+  - `Learning/Module 1/print pattern with star.py`
+  - `Learning/Module 1/review week1.ipynb`
+  - `Learning/Module 1/test.ipynb`
+  - `Learning/Module 1/while_loop.ipynb`
+  - `Learning/Module 2/07_modules_packages/07_imports_packages_and_environment.ipynb`
+  - `Learning/Module 2/07_modules_packages/arithmetic_operations_module.ipynb`
+  - `Learning/Module 2/07_modules_packages/arithmetic_operations_module.py`
+  - `Learning/Module 2/07_modules_packages/datetime.py`
+  - `Learning/Module 2/07_modules_packages/dictionary.ipynb`
+  - `Learning/Module 2/07_modules_packages/helpers/__init__.py`
+  - `Learning/Module 2/07_modules_packages/helpers/number_tools.py`
+  - `Learning/Module 2/07_modules_packages/helpers/text_tools.py`
+  - `Learning/Module 2/07_modules_packages/identation.ipynb`
+  - `Learning/Module 2/Week_2_Revision.ipynb/Class/classes.ipynb`
+  - `Learning/Module 2/Week_2_Revision.ipynb/Exam_Practice/Exam_practice.ipynb`
+  - `Learning/Module 2/Week_2_Revision.ipynb/Exam_Practice/Fayas.txt`
+  - `Learning/Module 2/Week_2_Revision.ipynb/Execption_Handling.ipynb/expection_handling.ipynb`
+  - `Learning/Module 2/Week_2_Revision.ipynb/File_Handling/Afnan.txt`
+  - `Learning/Module 2/Week_2_Revision.ipynb/File_Handling/Alien.txt`
+  - `Learning/Module 2/Week_2_Revision.ipynb/File_Handling/Fayas.csv`
+  - `Learning/Module 2/Week_2_Revision.ipynb/File_Handling/Fayas.txt`
+  - `Learning/Module 2/Week_2_Revision.ipynb/File_Handling/faah.txt`
+  - `Learning/Module 2/Week_2_Revision.ipynb/File_Handling/file_handling.ipynb`
+  - `Learning/Module 2/Week_2_Revision.ipynb/File_Handling/students.csv`
+  - `Learning/Module 2/Week_2_Revision.ipynb/small_project_test/main.py`
+  - `Learning/Module 2/Week_2_Revision.ipynb/small_project_test/utils/__init__.py`
+  - `Learning/Module 2/Week_2_Revision.ipynb/small_project_test/utils/file_tools.py`
+  - `Learning/Module 2/data/passed_students.csv`
+  - `Learning/Module 2/data/practice_note.txt`
+  - `Learning/Module 2/data/profile.json`
+  - `Learning/Module 2/data/sales.csv`
+  - `Learning/Module 2/data/sales_report.txt`
+  - `Learning/Module 2/data/students.csv`
+  - `Learning/Module 2/practical practice/00_workspace_and_style.ipynb`
+  - `Learning/Module 2/practical practice/01_variables_input_output.ipynb`
+  - `Learning/Module 2/practical practice/02_conditions_loops_and_logic.ipynb`
+  - `Learning/Module 2/practical practice/03_lists_tuples_sets_dictionaries.ipynb`
+  - `Learning/Module 2/practical practice/04_functions_parameters_returns_scope.ipynb`
+  - `Learning/Module 2/practical practice/05_text_csv_json_files.ipynb`
+  - `Learning/Module 2/practical practice/06_robust_programs.ipynb`
+  - `Learning/Module 2/practical practice/08_oop_classes_inheritance.ipynb`
+  - `Learning/Module 2/practical practice/09_comprehensions_lambda_and_loop_controls.ipynb`
+  - `Learning/Module 2/practical practice/10_iterators_generators_decorators.ipynb`
+  - `Learning/Module 2/practical practice/11_number_string_collection_problems.ipynb`
+  - `Learning/Module 2/practical practice/12_ai_explain_debug_refactor_review.ipynb`
+  - `Learning/Module 2/practical practice/13_sales_report_mini_project.ipynb`
+  - `Learning/Module 2/practical practice/Decorators.ipynb`
+  - `Learning/Module 2/practical practice/Dict_comprehension.ipynb`
+  - `Learning/Module 2/practical practice/List_Comprehansion.ipynb`
+  - `Learning/Module 2/practical practice/Number-based problems.ipynb`
+  - `Learning/Module 2/practical practice/Oop.ipynb`
+  - `Learning/Module 2/practical practice/abstract_demo.ipynb`
+  - `Learning/Module 2/practical practice/class_object.ipynb`
+  - `Learning/Module 2/practical practice/inheritance.ipynb`
+  - `Learning/Module 2/practical practice/lambda_functions.ipynb`
+  - `Learning/Module 2/practical practice/multiple_inheritance.ipynb`
+  - `Learning/Module 2/practical practice/poly.ipynb`
+  - `Learning/Module 2/practical practice/scope.ipynb`
+  - `Learning/Module 3/Data Inspection/data_inspection_basics.ipynb`
+  - `Learning/Module 3/Final_practicing.ipynb`
+  - `Learning/Module 3/MatPlotLib/Titanic-Dataset.csv`
+  - `Learning/Module 3/MatPlotLib/matplot_marker.ipynb`
+  - `Learning/Module 3/MatPlotLib/matplotlib_bar_charts.ipynb`
+  - `Learning/Module 3/MatPlotLib/matplotlib_barplots.ipynb`
+  - `Learning/Module 3/MatPlotLib/matplotlib_grids.ipynb`
+  - `Learning/Module 3/MatPlotLib/matplotlib_histogram.ipynb`
+  - `Learning/Module 3/MatPlotLib/matplotlib_intro.ipynb`
+  - `Learning/Module 3/MatPlotLib/matplotlib_labels.ipynb`
+  - `Learning/Module 3/MatPlotLib/matplotlib_linestyle.ipynb`
+  - `Learning/Module 3/MatPlotLib/matplotlib_pie_charts.ipynb`
+  - `Learning/Module 3/MatPlotLib/matplotlib_subplots.ipynb`
+  - `Learning/Module 3/MatPlotLib/matplotlib_with_pandas.ipynb`
+  - `Learning/Module 3/MatPlotLib/scatter_plots.ipynb`
+  - `Learning/Module 3/NumPy/100_Numpy_exercises.ipynb`
+  - `Learning/Module 3/NumPy/array_indexing.ipynb`
+  - `Learning/Module 3/NumPy/array_slicing.ipynb`
+  - `Learning/Module 3/NumPy/intro_numpy.ipynb`
+  - `Learning/Module 3/NumPy/introduction_numpy.ipynb`
+  - `Learning/Module 3/NumPy/num_practice3.ipynb`
+  - `Learning/Module 3/NumPy/numpy_Broadcasting .ipynb`
+  - `Learning/Module 3/NumPy/numpy_Practice2.ipynb`
+  - `Learning/Module 3/NumPy/numpy_array.ipynb`
+  - `Learning/Module 3/NumPy/numpy_practice.ipynb`
+  - `Learning/Module 3/NumPy/numpy_practicee.ipynb`
+  - `Learning/Module 3/NumPy/random_numpy.ipynb`
+  - `Learning/Module 3/NumPy/shape_manipulation.ipynb`
+  - `Learning/Module 3/Pandas/data_cleaning_using_data.ipynb`
+  - `Learning/Module 3/Pandas/orders.json`
+  - `Learning/Module 3/Pandas/pandas_aggregation.ipynb`
+  - `Learning/Module 3/Pandas/pandas_dataframes.ipynb`
+  - `Learning/Module 3/Pandas/pandas_filtering.ipynb`
+  - `Learning/Module 3/Pandas/pandas_import_data.ipynb`
+  - `Learning/Module 3/Pandas/pandas_intro.ipynb`
+  - `Learning/Module 3/Pandas/practicing/practice1.ipynb`
+  - `Learning/Module 3/Pokemone.json`
+  - `Learning/Module 3/Practice_1/Dataset_Inspection.ipynb`
+  - `Learning/Module 3/Practice_1/pandas_practicing.ipynb`
+  - `Learning/Module 3/Practice_1/practice.ipynb`
+  - `Learning/Module 3/Practice_1/practicing_pandas.ipynb`
+  - `Learning/Module 3/Quick_revisions.ipynb`
+  - `Learning/Module 3/Titanic-Dataset.csv`
+  - `Learning/Module 3/final_practicing.ipynb`
+  - `Learning/Module 3/final_practicing_2.ipynb`
+  - `Learning/Module 4/ Distributions/Discrete, continuous, PDF, and CDF.ipynb`
+  - `Learning/Module 4/ Distributions/Exponential Distribution.ipynb`
+  - `Learning/Module 4/ Distributions/Poisson.ipynb`
+  - `Learning/Module 4/ Distributions/Uniform Distribution.ipynb`
+  - `Learning/Module 4/ Distributions/bernoulli.ipynb`
+  - `Learning/Module 4/ Distributions/binomial.ipynb`
+  - `Learning/Module 4/ Distributions/calls_data.csv`
+  - `Learning/Module 4/Correlation/correlation_pearson_spearman_matrix.ipynb`
+  - `Learning/Module 4/Correlation/covariance_vs_correlation.py.ipynb`
+  - `Learning/Module 4/Mathematical Foundations for ML/maths_foundations.ipynb`
+  - `Learning/Module 4/Mathematical Foundations for ML/straight-line prediction.ipynb`
+  - `Learning/Module 4/Practice/practice number 2.ipynb`
+  - `Learning/Module 4/Practice/practice_probability.ipynb`
+  - `Learning/Module 4/Practice/pratice_1.ipynb`
+  - `Learning/Module 4/Probability/ Complement, union, intersection, and addition rule.ipynb`
+  - `Learning/Module 4/Probability/ Random experiments, sample spaces, and events.ipynb`
+  - `Learning/Module 4/Probability/Conditional probability and Bayes' rule.ipynb`
+  - `Learning/Module 4/Probability/Imagine tossing a fair coin twice.ipynb`
+  - `Learning/Module 4/Probability/Mutually exclusive, independent, and conditional events.ipynb`
+  - `Learning/Module 4/Probability/bayes_condition_test_dataset.csv`
+  - `Learning/Module 4/Probability/penguins.csv`
+  - `Learning/Module 4/Statistics \342\200\224 Mean, median, and mode/Basic_starting.ipynb`
+  - `Learning/Module 4/Statistics \342\200\224 Mean, median, and mode/Histograms, box plots, skewness, and kurtosis.ipynb`
+  - `Learning/Module 4/Statistics \342\200\224 Mean, median, and mode/Population variance versus sample variance.ipynb`
+  - `Learning/Module 4/Statistics \342\200\224 Mean, median, and mode/Range, variance, and standard deviation.ipynb`
+  - `Learning/Module 4/Statistics \342\200\224 Mean, median, and mode/Stati_practice.ipynb`
+  - `Learning/Module 4/Statistics \342\200\224 Mean, median, and mode/stati.ipynb`
+  - `Learning/Module 4/Statistics \342\200\224 Mean, median, and mode/trial_graph.ipynb`
+  - `Learning/Module 4/Statistics \342\200\224 Mean, median, and mode/untouched_copy.csv`
+  - `Learning/Module 4/notes.ipynb`
+  - `Learning/Module 4/penguins.csv`
+  - `Learning/Module 5/00. Foundations/basics.ipynb`
+  - `Learning/Module 5/00. Foundations/vectors.ipynb`
+  - `Learning/Module 5/01. Vector Mathematics/distance_measurement.ipynb`
+  - `Learning/Module 5/01. Vector Mathematics/dot products.ipynb`
+  - `Learning/Module 5/01. Vector Mathematics/vector similarity.ipynb`
+  - `Learning/Module 5/02. Matrix Mathematics/determinants.ipynb`
+  - `Learning/Module 5/02. Matrix Mathematics/eigenvalues_vectors.ipynb`
+  - `Learning/Module 5/02. Matrix Mathematics/identity_matrix.ipynb`
+  - `Learning/Module 5/02. Matrix Mathematics/inverse.ipynb`
+  - `Learning/Module 5/02. Matrix Mathematics/matrix_rank.ipynb`
+  - `Learning/Module 5/02. Matrix Mathematics/matrix_transpose.ipynb`
+  - `Learning/Module 5/02. Matrix Mathematics/orthogonal matrices.ipynb`
+  - `Learning/Module 5/03. Matrix Decompositions/matrix_factorization.ipynb`
+  - `Learning/Module 5/03. Matrix Decompositions/svd.ipynb`
+  - `Learning/Module 5/04. Calculus & Optimization/cost_of_funtions.ipynb`
+  - `Learning/Module 5/04. Calculus & Optimization/functions_rateofchange .ipynb`
+  - `Learning/Module 5/04. Calculus & Optimization/gradient_descent.ipynb`
+  - `Learning/Module 5/04. Calculus & Optimization/gradient_descent2.ipynb`
+  - `Learning/Module 5/04. Calculus & Optimization/slopes.ipynb`
+  - `Learning/Module 5/05. Assessments/Checkpoint and buffer.ipynb`
+  - `Learning/Module 5/05. Assessments/Pass1.ipynb`
+  - `Learning/Module 5/05. Assessments/practice.ipynb`
+  - `Learning/Module 5/Start one running mistakes list (a single file, used every day.txt`
+  - `Learning/Paper 1/Phase 1/Exception_Handling/try_except.ipynb`
+  - `Learning/Paper 1/Phase 1/File Handling/csv_handling.ipynb`
+  - `Learning/Paper 1/Phase 1/File Handling/file_handlig.txt`
+  - `Learning/Paper 1/Phase 1/File Handling/file_handling_1.ipynb`
+  - `Learning/Paper 1/Phase 1/File Handling/filename.txt`
+  - `Learning/Paper 1/Phase 1/File Handling/json_dump`
+  - `Learning/Paper 1/Phase 1/File Handling/json_dump.json`
+  - `Learning/Paper 1/Phase 1/File Handling/json_handlng.ipynb`
+  - `Learning/Paper 1/Phase 1/File Handling/learning_log.txt`
+  - `Learning/Paper 1/Phase 1/File Handling/notes.txt`
+  - `Learning/Paper 1/Phase 1/File Handling/students.csv`
+  - `Learning/Paper 1/Phase 1/File Handling/user.json`
+  - `Learning/Paper 1/Phase 1/Modules_and_Packages/custom Module/main.ipynb`
+  - `Learning/Paper 1/Phase 1/Modules_and_Packages/custom Module/maths.py`
+  - `Learning/Paper 1/Phase 1/Modules_and_Packages/import_modules.ipynb`
+  - `Learning/Paper 1/Phase 1/Multithreading.ipynb`
+  - `Learning/Paper 1/Phase 1/OOP/Basics.ipynb`
+  - `Learning/Paper 1/Phase 1/OOP/abstraction.ipynb`
+  - `Learning/Paper 1/Phase 1/OOP/contructor.ipynb`
+  - `Learning/Paper 1/Phase 1/OOP/decorators.ipynb`
+  - `Learning/Paper 1/Phase 1/OOP/inherintance_mro.ipynb`
+  - `Learning/Paper 1/Phase 1/OOP/method_overloading.ipynb`
+  - `Learning/Paper 1/Phase 1/OOP/method_overriding.ipynb`
+  - `Learning/Paper 1/Phase 1/OOP/polymorphism.ipynb`
+  - `Learning/Paper 1/Phase 1/OOP/types of methods.ipynb`
+  - `Learning/Paper 1/Phase 1/Python Basics/Type conversion .ipynb`
+  - `Learning/Paper 1/Phase 1/Python Basics/Variables and data types.ipynb`
+  - `Learning/Paper 1/Phase 1/Python Basics/enumerate.ipynb`
+  - `Learning/Paper 1/Phase 1/Python Basics/list_tuple_set_dict.ipynb`
+  - `Learning/Paper 1/Phase 1/Python Basics/logical problems.ipynb`
+  - `Learning/Paper 1/Phase 1/Python Basics/logical_problems_2.ipynb`
+  - `Learning/Paper 1/Phase 1/Python Basics/nested_loop.ipynb`
+  - `Learning/Paper 1/Phase 1/Python Functions/def_call.ipynb`
+  - `Learning/Paper 1/Phase 1/Python Functions/functions_2.ipynb`
+  - `Learning/Paper 1/Phase 1/Python Functions/inner_function.ipynb`
+  - `Learning/Paper 1/Phase 1/Python Functions/scope.ipynb`
+  - `Learning/Paper 1/Phase 1/control.ipynb`
+  - `Learning/Paper 1/Phase 1/match.ipynb`
+  - `Learning/Paper 1/Phase 1/special_variables.ipynb`
+  - `Learning/Paper 1/Phase 2/Matplotlib/matplotlib_basics.ipynb`
+  - `Learning/Paper 1/Phase 2/Numpy/Numpy_Basics.ipynb`
+  - `Learning/Paper 1/Phase 2/Pandas/customers.csv`
+  - `Learning/Paper 1/Phase 2/Pandas/pandas_basics.ipynb`
+  - `Learning/Paper 1/Phase 2/Pandas/statistics_fundamentals_practice.csv`
+  - `Learning/Paper 1/Phase 2/Python Basics/Maths/Basic_sati.ipynb`
+  - `Learning/Paper 1/Phase 2/Python Basics/Maths/math_lib.ipynb`
+  - `Learning/Paper 1/Phase 2/Python Basics/Maths/prob_bas.ipynb`
+  - `Learning/Paper 1/Phase 2/Python Basics/Maths/prob_raw.ipynb`
+  - `Learning/Paper 1/Phase 2/Python Basics/Maths/probab_lib.ipynb`
+  - `Learning/Paper 1/Phase 2/Python Basics/Shopping Discount Calculator.ipynb`
+  - `Learning/Paper 1/Phase 3/Hand_on_task.ipynb`
+  - `Learning/Paper 1/Phase 3/Hi.txt`
+  - `Learning/Paper 1/Phase 3/Practice_prob.ipynb`
+  - `Learning/Paper 1/Phase 3/Practicing_Maths.ipynb`
+  - `Learning/Paper 1/Phase 3/Practicing_libraries.ipynb`
+  - `Learning/Paper 1/Phase 3/Week 1 Practice By Hand.ipynb`
+  - `Learning/Paper 1/Phase 3/data_dist.ipynb`
+  - `Learning/Paper 1/Phase 3/exam_practice.ipynb`
+  - `Learning/Paper 1/Phase 3/logical_practicing.ipynb`
+  - `Learning/Paper 1/Phase 3/practical_assesment.ipynb`
+  - `Learning/Paper 1/Phase 3/practical_maths.ipynb`
+  - `Learning/Paper 1/Phase 3/practicing_maths.ipynb`
+  - `Learning/Paper 1/Phase 3/practicing_maths1.ipynb`
+  - `Exam_Reviews/Paper 1/`
+  - `Learning/Paper 1/Module 1/`
+  - `Learning/Paper 1/Module 2/`
+  - `Learning/Paper 1/Module 3/`
+  - `Learning/Paper 1/Module 4/`
+  - `Learning/Paper 1/Module 5/`
+  - `Learning/Paper 1/Paper_Exam_Prep/`
+  - `Learning/Paper 2/`
+---
+
 ### 📅 Entry — 2026-11-16
 - **Topic / Focus:** "Practical Assesment"
 - **Files Updated:**

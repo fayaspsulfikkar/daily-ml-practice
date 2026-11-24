@@ -1,0 +1,61 @@
+CREATE TABLE branches (
+	branch_id SERIAL PRIMARY KEY,
+	branch_name VARCHAR(60),
+	city VARCHAR(40),
+	opened_date DATE
+);
+
+
+CREATE TABLE staff (
+	staff_id INT GENERATED ALWAYS AS IDENTITY PRIMARY KEY,
+	branch_id INT REFERENCES branches(branch_id),
+	full_name VARCHAR(80),
+	job_role VARCHAR(30),
+	hired_on DATE,
+	monthly_salary INT
+);
+
+
+CREATE TABLE profiles(
+	staff_id INT PRIMARY KEY REFERENCES staff(staff_id),
+	experience_years SMALLINT,
+	instagram_handle VARCHAR(40),
+	bio TEXT
+);
+
+
+CREATE TABLE customers(
+	customer_id SERIAL PRIMARY KEY,
+	first_name VARCHAR(40),
+	last_name VARCHAR(40),
+	phone VARCHAR(15),
+	email VARCHAR(100),
+	joined_date DATE,
+	is_member BOOLEAN
+);
+
+CREATE TABLE services (
+	service_id SERIAL PRIMARY KEY,
+	service_name VARCHAR(60),
+	category VARCHAR(30),
+	price INT,
+	duration_minutes SMALLINT
+);
+
+
+CREATE TABLE appointments(
+	appointment_id SERIAL PRIMARY KEY,
+	customer_id INT REFERENCES customers(customer_id),
+	staff_id INT REFERENCES staff(staff_id),
+	appointment_date DATE,
+	status VARCHAR(15)
+);
+
+CREATE TABLE appointment_services (
+	
+	appointment_id INT REFERENCES appointments(appointment_id),
+	service_id INT REFERENCES services(service_id),
+	price_charged INT,
+	PRIMARY KEY(appointment_id, service_id)
+);
+

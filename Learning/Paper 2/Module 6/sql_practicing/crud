@@ -1,0 +1,405 @@
+SELECT * 
+FROM branches;
+
+
+INSERT INTO branches
+VALUES
+(1, 'Central Branch', 'Kozhikode', '2020-01-15'),
+(2, 'North Branch', 'Kannur', '2021-03-20'),
+(3, 'South Branch', 'Kochi', '2022-06-10'),
+(4, 'East Branch', 'Wayanad', '2023-09-05');
+
+
+SELECT *
+FROM staff;
+
+
+INSERT INTO staff (branch_id,full_name,job_role,hired_on,monthly_salary)
+VALUES
+(1, 'Arun Kumar', 'Manager', '2020-02-10', 45000),
+(1, 'Rahul Das', 'Cashier', '2021-05-15', 22000),
+(1, 'Nikhil Raj', 'Sales Executive', '2022-03-20', 25000),
+(2, 'Akhil Mohan', 'Manager', '2021-04-12', 42000),
+(2, 'Vishnu P', 'Cashier', '2022-07-18', 21000),
+(3, 'Adarsh S', 'Manager', '2022-06-15', 44000),
+(3, 'Rohit K', 'Sales Executive', '2023-01-10', 26000),
+(4, 'Amal Dev', 'Cashier', '2023-10-05', 20000),
+(4, 'Sanjay M', 'Sales Executive', '2024-02-20', 24000);
+
+
+
+
+SELECT *
+FROM profiles;
+
+
+INSERT INTO profiles
+VALUES
+(1, 5, '@arun_kumar', 'Experienced branch manager with leadership skills.'),
+(2, 3, '@rahul_das', 'Cashier with strong customer service skills.'),
+(3, 2, '@nikhil_raj', 'Sales executive focused on customer relations.'),
+(4, 4, '@akhil_mohan', 'Experienced manager with team management skills.'),
+(5, 2, '@vishnu_p', 'Dedicated cashier with financial management skills.');
+
+
+
+
+SELECT *
+FROM customers;
+
+
+INSERT INTO customers (first_name,last_name,phone,email,joined_date,is_member)
+VALUES
+('Akhil', 'Kumar', '9876543210', 'akhil@gmail.com', '2024-01-15', TRUE),
+('Rahul', 'Das', '9876543211', 'rahul@gmail.com', '2024-02-20', FALSE),
+('Arun', 'Raj', '9876543212', 'arun@gmail.com', '2024-03-10', TRUE),
+('Vishnu', 'Mohan', '9876543213', 'vishnu@gmail.com', '2024-04-05', FALSE),
+('Amal', 'Dev', '9876543214', 'amal@gmail.com', '2024-05-12', TRUE),
+('Nikhil', 'S', '9876543215', 'nikhil@gmail.com', '2024-06-18', TRUE),
+('Rohit', 'Kumar', '9876543216', 'rohit@gmail.com', '2024-07-22', FALSE),
+('Adarsh', 'P', '9876543217', 'adarsh@gmail.com', '2024-08-14', TRUE),
+('Sanjay', 'Menon', '9876543218', 'sanjay@gmail.com', '2024-09-09', FALSE),
+('Anand', 'Krishnan', '9876543219', 'anand@gmail.com', '2024-10-11', TRUE),
+('Kiran', 'Thomas', '9876543220', 'kiran@gmail.com', '2024-11-16', FALSE),
+('Sreejith', 'M', '9876543221', 'sreejith@gmail.com', '2024-12-20', TRUE);
+
+
+
+
+SELECT *
+FROM services;	
+
+
+INSERT INTO services (service_name,category,price,duration_minutes)
+VALUES
+('Basic Haircut', 'Hair', 250, 30),
+('Premium Haircut', 'Hair', 500, 45),
+('Hair Styling', 'Hair', 400, 40),
+('Hair Coloring', 'Hair', 1500, 90),
+('Beard Trimming', 'Grooming', 150, 20),
+('Beard Styling', 'Grooming', 300, 30),
+('Facial Treatment', 'Skin Care', 800, 60),
+('Face Cleanup', 'Skin Care', 500, 40),
+('Head Massage', 'Massage', 350, 30),
+('Full Body Massage', 'Massage', 2000, 90);
+
+
+
+SELECT *
+FROM appointments;
+
+INSERT INTO appointments (customer_id, staff_id, appointment_date,status,rating)
+VALUES
+(1, 1, '2025-01-05', 'completed', 5),
+(2, 2, '2025-01-06', 'completed', 4),
+(3, 3, '2025-01-07', 'booked', 3),
+(4, 4, '2025-01-08', 'completed', 5),
+(5, 5, '2025-01-09', 'cancelled', 2),
+(6, 6, '2025-01-10', 'completed', 3),
+(7, 7, '2025-01-11', 'booked', 4),
+(8, 8, '2025-01-12', 'completed', 4),
+(9, 9, '2025-01-13', 'cancelled', 1),
+(10, 1, '2025-01-14', 'completed', 5),
+(11, 2, '2025-01-15', 'booked', 3),
+(12, 3, '2025-01-16', 'completed', null),
+(1, 4, '2025-01-17', 'booked', 5),
+(3, 5, '2025-01-18', 'completed', 5);
+
+
+SELECT pg_get_constraintdef(oid)
+FROM pg_constraint
+WHERE conname = 'check_status';
+
+
+
+
+SELECT *
+FROM appointment_services;
+
+
+INSERT INTO appointment_services
+VALUES
+(1, 1, 250),
+(1, 5, 150),
+(2, 2, 500),
+(2, 6, 300),
+(3, 3, 400),
+(3, 9, 350),
+(4, 4, 1500),
+(4, 7, 800),
+(5, 1, 250),
+(6, 8, 500),
+(6, 5, 150),
+(7, 2, 500),
+(8, 10, 2000),
+(8, 6, 300),
+(9, 3, 400),
+(10, 7, 800),
+(11, 9, 350),
+(12, 4, 1500);
+
+
+SELECT appointment_id FROM appointments ORDER BY appointment_id;
+
+
+INSERT INTO appointment_services (appointment_id, service_id, price_charged)
+VALUES
+(2, 1, 250),
+(2, 5, 150),
+(3, 2, 500),
+(3, 6, 300),
+(4, 3, 400),
+(4, 9, 350),
+(5, 4, 1500),
+(5, 7, 800),
+(6, 1, 250),
+(7, 8, 500),
+(7, 5, 150),
+(8, 2, 500),
+(9, 10, 2000),
+(9, 6, 300),
+(10, 3, 400),
+(11, 7, 800),
+(12, 9, 350),
+(13, 4, 1500);
+
+
+
+SELECT *
+FROM customers;
+
+DELETE FROM customers
+WHERE customer_id = 13;
+
+
+INSERT INTO customers (first_name, last_name, phone, email)
+VALUES
+('Meghna', 'Bose', 9876500013, null)
+RETURNING customer_id, joined_date, is_member;
+
+
+
+SELECT *
+FROM customers;
+
+
+UPDATE customers
+SET email = 'meghna@gmail.com'
+WHERE first_name = 'Meghna'
+RETURNING customer_id, first_name, email;
+
+
+
+SELECT *
+FROM appointments;
+
+
+UPDATE appointments
+SET appointment_date = '2026-12-04'
+WHERE appointment_id = 14
+RETURNING appointment_id, customer_id, staff_id, status;
+
+
+SELECT *
+FROM customers;
+
+
+DELETE FROM CUSTOMERS
+WHERE first_name = 'Meghna'
+RETURNING *;
+
+SELECT COUNT(*) AS remaining_customers
+FROM customers;
+
+
+SELECT first_name, last_name, phone
+FROM customers;
+
+
+SELECT *
+FROM services 
+WHERE price > 1000 AND duration_minutes <= 90;
+
+
+SELECT *
+FROM staff
+WHERE monthly_salary < 30000
+AND branch_id IN (2,3);
+
+
+SELECT *
+FROM services;
+
+
+SELECT *
+FROM services
+WHERE category <> 'Hair';
+
+
+SELECT *
+FROM staff;
+
+
+SELECT *
+FROM staff
+WHERE job_role LIKE '%Manager%';
+
+SELECT *
+FROM services
+WHERE service_name ILIKE '%hair%';
+
+
+
+SELECT * 
+FROM customers;
+WHERE email is NULL;
+
+
+SELECT *
+FROM appointments;
+
+
+SELECT *
+FROM services
+ORDER BY price DESC, service_name ASC;
+
+
+SELECT *
+FROM services
+ORDER BY price DESC
+LIMIT 4;
+
+
+SELECT DISTINCT category 
+FROM services
+ORDER BY category ASC;
+
+
+SELECT DISTINCT status
+FROM appointments
+ORDER BY status ASC;	
+
+
+
+SELECT COUNT(*)
+FROM customers;
+
+SELECT COUNT(*)
+FROM customers;
+
+
+SELECT SUM(monthly_salary)
+FROM staff;
+
+
+SELECT AVG(price) AS AVERAGE_PRICE
+FROM services;
+
+
+SELECT AVG(rating)
+FROM appointments;
+
+
+SELECT 
+MAX(price) AS  expensive_price,
+MIN(price) AS cheapest
+FROM services;
+
+
+SELECT category, COUNT(*)
+FROM services
+GROUP BY category;
+
+
+
+SELECT status, COUNT(*)
+FROM appointments
+GROUP BY status;
+
+
+
+SELECT 
+	job_role,
+	COUNT(*),
+	AVG(monthly_salary),
+	MAX(monthly_salary)
+FROM staff
+GROUP BY job_role;
+
+
+
+SELECT 
+	category,
+	COUNT(*)
+FROM services
+GROUP BY category
+HAVING COUNT(*)>1;
+
+
+
+SELECT 
+	job_role,
+	SUM(monthly_salary)
+FROM staff
+GROUP BY job_role
+HAVING SUM(monthly_salary) > 30000;
+
+
+SELECT *
+FROM appointments;
+
+
+
+SELECT customers.first_name AS CUSTOMER, staff.full_name as STAFF , appointments.appointment_date AS booked_date
+FROM appointments
+JOIN customers
+ON appointments.customer_id = customers.customer_id
+JOIN staff
+ON appointments.staff_id = staff.staff_id;
+
+
+SELECT * 
+FROM services;
+
+
+SELECT *
+FROM services
+WHERE price > (
+		SELECT AVG(price)
+		FROM services
+);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
